@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+db-dtypes = "*"
+envelopes = "*"
+functions-framework = "*"
+google-auth = "*"
+google-cloud-bigquery = "*"
+google-api-python-client = "*"
+google-cloud-storage = "*"
+pandas = "*"
+pyarrow = "*"
+openpyxl = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.10"

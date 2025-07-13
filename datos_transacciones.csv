@@ -1,0 +1,1001 @@
+tipo de identificación,número de identificación,número de cuenta,nombres,tipo transacción,monto transacción,tipo de producto,ciudad,fecha-hora,fecha de nacimiento,dirección del cliente,teléfono del cliente,correo del cliente,reporte centrales de riesgo,monto reporte de central de riesgo,tiempo en mora del reporte de riesgo
+TI,869689427,5729333560,Cliente0 Pérez,Compra,514178,Inversión,Medellín,2024-02-28 05:30:54,1800-01-01,Calle 78 #1-50,3638292757,cliente0.570@mail.com,Sí,189620,30 días
+CE,443107455,8313273197,Cliente1 Méndez,Transferencia,3775097,Cuenta de ahorros,Bucaramanga,2024-02-28 06:59:27,1959-04-21,Carrera 67 #3-40,3869197084,cliente1.994@mail.com,Sí,170826,30 días
+CE,953479893,3109087126,Cliente2 Ramírez,Compra,2010844,Cuenta corriente,Barranquilla,2024-02-28 08:48:17,1995-03-25,Carrera 4 #73-43,3823151477,correo@,Sí,642458,60 días
+CC,555761619,6097167283,Cliente3 Pérez,Depósito,4149752,Tarjeta de crédito,Bucaramanga,2024-02-28 19:06:37,1951-10-01,Carrera 12 #15-28,3990535441,cliente3.896@outlook.com,No,,
+PAS,303469706,5436781491,Cliente4 Pérez,Transferencia,534425,Cuenta de ahorros,Pereira,2024-02-28 19:10:56,2002-06-02,Calle 109 #88-2,3426177665,usuario@dominio,Sí,593757,90 días
+PAS,621226835,7632908807,Cliente5 Ramírez,Depósito,3616456,Cuenta corriente,Bucaramanga,1709160535,1953-11-14,Avenida 101 #86-27,3355073505,cliente5.228@yahoo.com,No,,
+CE,926571417,5601021282,Cliente6 Ramírez,Depósito,3492282,Cuenta de ahorros,Barranquilla,2024-02-28 22:30:04,1800-01-01,Carrera 120 #34-28,3299885678,sincorreo,Sí,149139,60 días
+PAS,473373557,6316503919,Cliente7 Ramírez,Compra,3703444,Tarjeta de crédito,Bucaramanga,2024-02-28 11:09:34,1958-02-21,Calle 61 #60-36,3911650704,cliente7.766@yahoo.com,No,,
+PAS,415363569,7910561254,Cliente8 Torres,Depósito,2536347,Tarjeta de crédito,Pereira,1709162677,1962-10-03,Avenida 13 #59-21,3838157652,correo@,No,,
+TI,336029124,1042290147,Cliente9 Ramírez,Depósito,2631942,Cuenta de ahorros,Pereira,2024-02-28 09:49:32,1982-12-11,Calle 132 #36-17,3820055581,cliente9.482@yahoo.com,Sí,274005,120 días
+PAS,134227912,8731280089,Cliente10 Gómez,Pago,1801494,Tarjeta de crédito,Cartagena,1709140482,1969-01-11,Carrera 101 #85-19,3896797344,cliente10.690@outlook.com,No,,
+CE,758062612,3944500909,Cliente11 Gómez,Transferencia,1532306,Inversión,Pereira,2024-02-28 22:18:53,1995-06-02,Diagonal 133 #55-1,3188468031,cliente11.480@yahoo.com,Sí,362811,30 días
+PAS,192391416,2262176301,Cliente12 Pérez,Pago,1973763,Inversión,Medellín,1709114224,1977-03-15,Diagonal 3 #93-3,3541572904,sincorreo,Sí,161629,90 días
+CE,243864102,5702844746,Cliente13 Méndez,Retiro,2306383,Cuenta de ahorros,Bucaramanga,1709095039,1960-09-10,Avenida 149 #74-9,3739573872,cliente13.934@mail.com,No,,
+PAS,872764392,1405433280,Cliente14 Pérez,Retiro,2993379,Cuenta de ahorros,Cartagena,1709152587,1964-01-14,Calle 150 #23-24,3423721616,sincorreo,No,,
+CC,783613986,7821634427,Cliente15 Ramírez,Pago,827495,Cuenta corriente,Cali,2024-02-28 07:20:30,1980-09-22,Diagonal 74 #95-50,3917359756,sincorreo,No,,
+TI,420318733,5274756770,Cliente16 Ramírez,Compra,2253352,Cuenta de ahorros,Cali,1709099512,1997-04-19,Carrera 41 #74-27,3583000420,usuario@dominio,Sí,31737,30 días
+CC,728984146,2486021659,Cliente17 Méndez,Pago,3608425,Préstamo personal,Barranquilla,2024-02-28 18:24:12,1955-02-28,Avenida 126 #92-20,3106617526,correo@,No,,
+CC,267365189,7144253663,Cliente18 Gómez,Pago,3687481,Inversión,Bucaramanga,1709157121,1982-11-04,Calle 33 #12-12,3774139470,cliente18.405@outlook.com,No,,
+TI,595249826,9208601404,Cliente19 Ramírez,Transferencia,759867,Cuenta de ahorros,Pereira,1709141952,2001-03-26,Avenida 8 #13-35,3117954130,@dominio.com,No,,
+CE,168009340,3042242759,Cliente20 Gómez,Retiro,1988875,Tarjeta de crédito,Bucaramanga,1709163828,1952-09-08,Carrera 99 #72-32,3184175212,usuario@dominio,No,,
+CC,945639708,8021027951,Cliente21 Pérez,Compra,2436025,Préstamo personal,Cartagena,2024-02-28 13:47:39,1986-08-25,Diagonal 110 #65-46,3701012453,cliente21.172@mail.com,Sí,227424,120 días
+TI,313429311,4626314365,Cliente22 Pérez,Compra,1930869,Tarjeta de crédito,Barranquilla,2024-02-28 06:34:57,1978-01-15,Diagonal 57 #94-11,3911565011,sincorreo,No,,
+CC,299952016,3304358518,Cliente23 Gómez,Retiro,1947396,Tarjeta de crédito,Cali,1709161182,1980-10-15,Carrera 71 #29-21,3682350560,sincorreo,Sí,333319,60 días
+PAS,238439933,4391389688,Cliente24 Torres,Pago,1239242,Tarjeta de crédito,Medellín,1709149469,1991-04-22,Carrera 102 #3-19,3397828202,cliente24.703@mail.com,Sí,749969,120 días
+CC,996312048,5585072061,Cliente25 Gómez,Transferencia,1422996,Cuenta de ahorros,Cali,2024-02-28 00:19:05,1955-07-02,Carrera 16 #62-20,3956944343,cliente25.964@outlook.com,No,,
+TI,351895568,6149936886,Cliente26 Torres,Compra,2993312,Tarjeta de crédito,Medellín,2024-02-28 12:30:06,1968-11-24,Diagonal 82 #15-30,3870300865,correo@.,Sí,830945,30 días
+CC,556330548,5511769143,Cliente27 Ramírez,Retiro,2812092,Tarjeta de crédito,Bogotá,1709124431,2001-08-17,Avenida 55 #92-45,3151924581,correo@,No,,
+CC,391882859,5417646161,Cliente28 Pérez,Retiro,4990456,Cuenta corriente,Medellín,1709109739,1972-06-10,Calle 70 #3-5,3448825518,sincorreo,Sí,33868,90 días
+CC,982089349,7832496091,Cliente29 Ramírez,Pago,3680469,Cuenta de ahorros,Medellín,2024-02-28 18:09:40,1956-09-21,Calle 129 #36-43,3928784024,usuario@dominio,Sí,265484,60 días
+TI,282791617,8416121426,Cliente30 Pérez,Compra,2017884,Tarjeta de crédito,Cartagena,2024-02-28 07:01:08,1966-07-05,Carrera 146 #9-46,3530729935,cliente30.83@mail.com,Sí,755593,90 días
+PAS,729971146,5810192300,Cliente31 Méndez,Transferencia,1044518,Inversión,Pereira,2024-02-28 04:19:52,1982-04-25,Calle 44 #49-49,3138955247,cliente31.315@outlook.com,Sí,512545,90 días
+PAS,285699477,4870493927,Cliente32 Méndez,Retiro,4118252,Cuenta corriente,Medellín,1709104062,1991-03-26,Avenida 30 #3-1,3146094728,@dominio.com,Sí,700556,90 días
+PAS,811137216,6910081399,Cliente33 Pérez,Retiro,4661051,Cuenta corriente,Pereira,1709098360,1953-01-14,Diagonal 88 #11-33,3529424939,correo@.,Sí,743862,120 días
+TI,470262238,7981868813,Cliente34 Pérez,Depósito,4207961,Préstamo personal,Medellín,1709158313,1988-02-12,Carrera 115 #78-18,3933015855,@dominio.com,No,,
+TI,357312372,5741322105,Cliente35 Ramírez,Transferencia,4093704,Préstamo personal,Medellín,2024-02-28 04:28:07,1981-03-13,Diagonal 111 #3-13,3575145146,usuario@dominio,No,,
+CE,596965335,6832328690,Cliente36 Pérez,Depósito,930476,Préstamo personal,Medellín,1709079502,1983-03-25,Diagonal 133 #48-14,3454097721,cliente36.574@gmail.com,Sí,665630,30 días
+CC,866675885,5451662018,Cliente37 Torres,Compra,311356,Cuenta de ahorros,Barranquilla,1709131727,1955-10-02,Diagonal 42 #32-39,3938345005,cliente37.986@mail.com,No,,
+PAS,890547802,8198497775,Cliente38 Méndez,Depósito,4117851,Inversión,Bucaramanga,2024-02-28 04:15:07,1800-01-01,Carrera 108 #73-3,3393099790,cliente38.432@mail.com,No,,
+CC,568384585,7724194242,Cliente39 Méndez,Retiro,2970031,Cuenta corriente,Medellín,1709156805,1969-05-04,Avenida 2 #82-4,3606241866,sincorreo,No,,
+CE,515951024,6518950757,Cliente40 Torres,Retiro,3157682,Inversión,Cali,2024-02-28 02:33:03,1966-04-17,Calle 118 #71-47,3829837079,cliente40.488@outlook.com,No,,
+CC,692202275,2923152868,Cliente41 Pérez,Transferencia,3564581,Cuenta corriente,Bogotá,2024-02-28 18:51:40,1993-12-19,Diagonal 81 #15-11,3127425345,cliente41.521@gmail.com,Sí,585742,120 días
+TI,466701153,5426864867,Cliente42 Ramírez,Depósito,3449492,Tarjeta de crédito,Cali,2024-02-28 09:16:48,1962-01-20,Avenida 97 #9-7,3759358692,correo@.,No,,
+PAS,113776309,4689583733,Cliente43 Méndez,Pago,282546,Inversión,Cartagena,1709106856,1800-01-01,Avenida 126 #23-23,3181066578,sincorreo,No,,
+CC,274590813,2709381340,Cliente44 Gómez,Retiro,3046411,Cuenta de ahorros,Barranquilla,2024-02-28 10:14:05,1963-01-05,Calle 87 #23-1,3693471658,usuario@dominio,Sí,113259,30 días
+CC,609761835,9118387979,Cliente45 Ramírez,Compra,3897493,Cuenta corriente,Pereira,2024-02-28 11:07:41,1967-09-08,Diagonal 136 #75-27,3198303977,usuario@dominio,Sí,227789,90 días
+PAS,764134575,3325449926,Cliente46 Torres,Depósito,4255372,Inversión,Pereira,2024-02-28 06:31:40,2001-09-07,Avenida 64 #35-9,3466502664,usuario@dominio,No,,
+CC,795829536,3321800024,Cliente47 Méndez,Compra,1635610,Tarjeta de crédito,Bogotá,2024-02-28 13:18:06,2005-11-23,Avenida 56 #66-6,3422379983,cliente47.486@yahoo.com,Sí,739079,90 días
+CE,882777404,4006697743,Cliente48 Gómez,Retiro,3459780,Préstamo personal,Pereira,2024-02-28 06:06:27,2002-09-25,Calle 21 #54-30,3105832406,usuario@dominio,Sí,93961,120 días
+CE,157611706,1798785477,Cliente49 Méndez,Pago,1379679,Cuenta corriente,Cali,1709158427,1976-02-20,Diagonal 121 #80-15,3530534789,correo@.,No,,
+CC,847555768,6149041973,Cliente50 Ramírez,Pago,1196247,Cuenta de ahorros,Barranquilla,2024-02-28 10:28:31,1988-12-10,Calle 80 #83-5,3257427923,usuario@dominio,No,,
+CC,709471589,8229025018,Cliente51 Méndez,Compra,518030,Inversión,Barranquilla,1709090548,1970-02-10,Carrera 27 #51-36,3270864832,cliente51.393@yahoo.com,Sí,116653,120 días
+PAS,138520177,5463599319,Cliente52 Ramírez,Transferencia,4495530,Tarjeta de crédito,Cali,2024-02-28 10:26:21,1979-06-05,Diagonal 29 #7-50,3757907470,cliente52.719@mail.com,No,,
+TI,489462846,5702265472,Cliente53 Méndez,Pago,4273153,Cuenta corriente,Cartagena,2024-02-28 12:53:56,1800-01-01,Carrera 119 #30-6,3543696742,sincorreo,Sí,561379,30 días
+PAS,819911116,4433463193,Cliente54 Torres,Retiro,3876772,Préstamo personal,Bucaramanga,1709158873,1971-08-27,Diagonal 123 #95-34,3326472173,cliente54.845@outlook.com,Sí,231765,120 días
+CC,310505616,7926354800,Cliente55 Pérez,Transferencia,4262071,Cuenta corriente,Cartagena,1709094788,1997-06-04,Calle 14 #51-28,3927280377,cliente55.171@mail.com,No,,
+CE,997992090,1660447263,Cliente56 Ramírez,Pago,3948121,Tarjeta de crédito,Bucaramanga,2024-02-28 16:44:16,1800-01-01,Diagonal 49 #81-49,3319876511,sincorreo,Sí,638351,120 días
+CE,243832432,8012955550,Cliente57 Pérez,Pago,1474946,Tarjeta de crédito,Barranquilla,1709100316,1988-08-01,Calle 5 #41-39,3705171145,cliente57.906@gmail.com,No,,
+CE,290085534,7838087395,Cliente58 Torres,Transferencia,252789,Tarjeta de crédito,Cartagena,2024-02-28 07:17:29,1985-11-20,Avenida 23 #27-37,3566322061,correo@.,No,,
+TI,232548369,2768930428,Cliente59 Torres,Retiro,2433161,Tarjeta de crédito,Cali,1709085936,1800-01-01,Calle 91 #77-20,3472189949,cliente59.433@yahoo.com,No,,
+TI,914549029,9128923545,Cliente60 Gómez,Transferencia,3834774,Cuenta de ahorros,Cartagena,1709119203,1993-10-21,Avenida 92 #10-48,3132944100,cliente60.405@gmail.com,No,,
+CE,571439226,2145283123,Cliente61 Méndez,Pago,1561516,Cuenta de ahorros,Cali,1709095438,1958-02-27,Avenida 29 #94-20,3161900609,correo@,No,,
+PAS,354451342,1180893086,Cliente62 Ramírez,Retiro,1582178,Cuenta corriente,Bucaramanga,1709103205,1965-01-12,Avenida 105 #82-25,3436938825,cliente62.257@mail.com,Sí,295407,90 días
+CE,500883545,3134720414,Cliente63 Gómez,Pago,600431,Tarjeta de crédito,Bucaramanga,1709108565,1973-10-25,Calle 11 #30-11,3868661158,cliente63.105@outlook.com,No,,
+CE,742894119,1800706136,Cliente64 Torres,Retiro,2757648,Préstamo personal,Cartagena,1709088704,1970-11-16,Diagonal 78 #47-42,3343823028,usuario@dominio,No,,
+PAS,705628094,2515005948,Cliente65 Gómez,Retiro,4795057,Cuenta de ahorros,Bogotá,1709157559,1981-05-25,Carrera 56 #32-48,3289573132,cliente65.875@outlook.com,No,,
+CC,512430892,5136240659,Cliente66 Torres,Depósito,3076506,Cuenta de ahorros,Medellín,1709085898,1800-01-01,Avenida 24 #1-43,3458513580,cliente66.187@outlook.com,Sí,886760,90 días
+PAS,953672991,9361742281,Cliente67 Ramírez,Depósito,3753944,Tarjeta de crédito,Cali,1709088573,1800-01-01,Carrera 11 #11-27,3105472108,cliente67.913@mail.com,No,,
+CC,422114114,6874362462,Cliente68 Torres,Transferencia,1187641,Préstamo personal,Bucaramanga,1709162792,1982-08-03,Avenida 100 #100-31,3952238662,cliente68.881@outlook.com,No,,
+TI,645903391,8989107993,Cliente69 Gómez,Depósito,4815052,Cuenta corriente,Medellín,2024-02-28 21:58:40,1991-01-01,Diagonal 73 #79-32,3644192889,usuario@dominio,No,,
+PAS,139336707,9554307678,Cliente70 Gómez,Pago,4955275,Cuenta corriente,Cartagena,1709141102,1990-07-24,Diagonal 72 #81-5,3133332431,correo@.,Sí,188237,90 días
+CC,208290348,9031425132,Cliente71 Pérez,Pago,444200,Cuenta corriente,Cali,1709133149,1980-07-23,Avenida 48 #75-14,3614899585,@dominio.com,Sí,566792,60 días
+CE,702206107,9822336021,Cliente72 Ramírez,Depósito,4346929,Cuenta corriente,Medellín,2024-02-28 00:44:16,2004-10-22,Avenida 28 #2-48,3498750577,@dominio.com,Sí,661747,60 días
+CC,112368306,5040368364,Cliente73 Pérez,Transferencia,1357034,Tarjeta de crédito,Medellín,1709126533,1962-07-21,Carrera 113 #4-35,3227001278,correo@.,No,,
+PAS,121605551,4907558081,Cliente74 Ramírez,Pago,1917662,Cuenta de ahorros,Bucaramanga,2024-02-28 15:08:35,1986-12-04,Calle 89 #66-35,3872451783,correo@,No,,
+CC,921703878,3855314689,Cliente75 Ramírez,Depósito,4021680,Inversión,Bogotá,1709121077,1990-01-01,Calle 142 #22-27,3669315414,cliente75.677@gmail.com,Sí,710739,30 días
+TI,580881161,1817565168,Cliente76 Méndez,Pago,4321032,Inversión,Pereira,2024-02-28 17:49:26,2002-07-14,Calle 81 #85-6,3937086120,cliente76.354@yahoo.com,No,,
+CC,289071670,8547248698,Cliente77 Gómez,Compra,2974902,Tarjeta de crédito,Pereira,1709121196,1971-08-20,Avenida 93 #93-27,3768510244,cliente77.647@outlook.com,Sí,988520,90 días
+PAS,526579287,3604263585,Cliente78 Méndez,Transferencia,2988688,Tarjeta de crédito,Barranquilla,1709087312,1800-01-01,Calle 41 #42-16,3981902295,cliente78.108@mail.com,Sí,190706,90 días
+PAS,853643187,1871142849,Cliente79 Gómez,Compra,4926210,Cuenta corriente,Cali,1709119791,1950-09-14,Avenida 72 #7-36,3417486158,cliente79.889@gmail.com,No,,
+CE,375390499,8306484799,Cliente80 Méndez,Retiro,498948,Préstamo personal,Cali,1709132292,1991-01-22,Carrera 37 #11-24,3284532438,cliente80.710@mail.com,No,,
+CE,382136654,2531154211,Cliente81 Méndez,Retiro,2465078,Inversión,Cali,1709106926,1987-11-26,Calle 146 #56-23,3381694351,cliente81.312@outlook.com,No,,
+TI,242335706,9612920738,Cliente82 Ramírez,Compra,1775571,Préstamo personal,Cali,1709078610,1800-01-01,Calle 136 #41-32,3645609749,cliente82.500@outlook.com,No,,
+PAS,282451915,2039085284,Cliente83 Gómez,Pago,2672303,Inversión,Cali,1709105500,1958-11-22,Diagonal 139 #15-11,3770610767,correo@,No,,
+CE,517579590,5227174813,Cliente84 Torres,Compra,4965186,Cuenta corriente,Barranquilla,1709150247,1957-09-26,Avenida 139 #100-48,3291760650,cliente84.4@gmail.com,Sí,270268,60 días
+CE,748165679,3343862802,Cliente85 Torres,Retiro,2467342,Cuenta de ahorros,Cali,1709114988,1955-07-06,Avenida 24 #10-49,3277781412,@dominio.com,Sí,903862,60 días
+CC,448186101,3357984102,Cliente86 Méndez,Retiro,3546855,Préstamo personal,Medellín,2024-02-28 05:02:20,1980-01-02,Carrera 137 #18-14,3564425333,correo@,Sí,540266,120 días
+PAS,433448646,5963128552,Cliente87 Méndez,Depósito,91904,Préstamo personal,Pereira,2024-02-28 20:43:55,1968-05-18,Calle 93 #99-49,3816027738,cliente87.444@outlook.com,Sí,282763,60 días
+CE,646804432,2474913593,Cliente88 Gómez,Depósito,632851,Cuenta de ahorros,Barranquilla,2024-02-28 19:24:41,1994-02-04,Avenida 133 #89-7,3689375656,cliente88.850@gmail.com,Sí,546643,30 días
+CE,624665065,4023030613,Cliente89 Gómez,Pago,2108405,Cuenta corriente,Pereira,1709133197,1989-11-09,Carrera 141 #51-26,3809918687,sincorreo,Sí,406309,60 días
+TI,191588325,1301865097,Cliente90 Pérez,Compra,2220870,Préstamo personal,Pereira,1709089509,1981-10-20,Carrera 66 #93-17,3569638434,cliente90.902@mail.com,No,,
+CC,457163546,2287456113,Cliente91 Gómez,Retiro,418949,Inversión,Bucaramanga,1709080921,1956-03-16,Calle 18 #77-38,3157574836,cliente91.103@mail.com,No,,
+CE,487453151,5054190490,Cliente92 Méndez,Retiro,1761856,Cuenta de ahorros,Medellín,1709095584,1988-10-28,Diagonal 132 #35-33,3429088483,cliente92.154@outlook.com,No,,
+CE,908525742,6881552364,Cliente93 Méndez,Depósito,1705224,Cuenta de ahorros,Barranquilla,2024-02-28 00:34:38,1951-12-18,Diagonal 106 #42-9,3899211247,cliente93.152@yahoo.com,No,,
+TI,465495019,8546986064,Cliente94 Pérez,Pago,1344264,Inversión,Cartagena,2024-02-28 15:39:41,1959-12-01,Carrera 44 #34-33,3923280976,correo@.,No,,
+CE,994349084,1334174274,Cliente95 Méndez,Compra,1182871,Cuenta corriente,Cali,1709103650,1968-06-08,Carrera 122 #53-16,3176123275,usuario@dominio,Sí,966961,60 días
+PAS,955233035,3712819235,Cliente96 Pérez,Pago,1354289,Inversión,Cali,1709164674,1950-12-03,Avenida 26 #99-43,3863585519,sincorreo,Sí,663503,60 días
+CE,453924998,2827054655,Cliente97 Torres,Compra,1905927,Cuenta de ahorros,Medellín,1709153308,1952-07-17,Calle 74 #74-1,3445320784,@dominio.com,Sí,899798,90 días
+PAS,111824109,5065956534,Cliente98 Méndez,Compra,722650,Cuenta corriente,Pereira,1709097536,1800-01-01,Diagonal 87 #93-15,3192013996,correo@.,Sí,955357,120 días
+CE,629096011,7129142955,Cliente99 Gómez,Depósito,1840532,Cuenta corriente,Pereira,1709155643,1965-10-28,Carrera 99 #4-34,3309841423,cliente99.157@outlook.com,Sí,35626,60 días
+CE,421105770,6995826459,Cliente100 Pérez,Retiro,3261696,Tarjeta de crédito,Pereira,2024-02-28 22:55:05,1978-12-16,Diagonal 10 #89-21,3540730084,cliente100.86@gmail.com,Sí,181272,30 días
+PAS,317319961,4127931253,Cliente101 Ramírez,Retiro,2115664,Inversión,Medellín,1709146369,1954-05-19,Calle 105 #62-39,3542661940,usuario@dominio,No,,
+CE,190548094,6097728141,Cliente102 Ramírez,Transferencia,178851,Tarjeta de crédito,Bucaramanga,2024-02-28 14:59:26,1979-08-17,Calle 44 #52-40,3817348461,cliente102.534@gmail.com,Sí,91870,90 días
+TI,912665213,7615830740,Cliente103 Méndez,Pago,4137827,Cuenta corriente,Pereira,1709132469,1992-07-20,Diagonal 74 #31-22,3829953430,cliente103.265@gmail.com,Sí,323500,30 días
+CE,779465850,7439401269,Cliente104 Pérez,Pago,4484846,Inversión,Bucaramanga,2024-02-28 07:15:37,1951-05-18,Avenida 57 #77-40,3624796940,correo@.,No,,
+CE,996739170,4659940894,Cliente105 Gómez,Retiro,2515556,Tarjeta de crédito,Barranquilla,1709148491,2004-05-07,Calle 4 #27-48,3930809863,correo@,Sí,860255,60 días
+CE,710396518,5685976082,Cliente106 Pérez,Retiro,509639,Cuenta de ahorros,Cali,1709096624,1995-11-02,Carrera 43 #88-43,3910106075,cliente106.659@mail.com,No,,
+PAS,101442177,9357005869,Cliente107 Torres,Transferencia,639196,Cuenta de ahorros,Medellín,1709079070,1978-12-06,Diagonal 26 #89-31,3910382125,cliente107.964@yahoo.com,No,,
+PAS,586153711,5097124330,Cliente108 Torres,Compra,4125771,Préstamo personal,Bucaramanga,2024-02-28 03:13:37,1991-01-26,Carrera 83 #87-32,3176776776,correo@,Sí,277728,30 días
+CC,905925745,5464388479,Cliente109 Torres,Pago,3733885,Inversión,Cartagena,2024-02-28 04:36:55,1971-12-10,Calle 25 #24-3,3445051139,cliente109.420@mail.com,No,,
+PAS,820347917,6704252541,Cliente110 Ramírez,Depósito,461068,Tarjeta de crédito,Cali,1709087939,2001-05-11,Calle 7 #40-12,3724680766,cliente110.48@outlook.com,Sí,236388,120 días
+TI,273233252,1527029669,Cliente111 Ramírez,Retiro,2364125,Cuenta corriente,Cali,1709154852,1955-02-16,Carrera 69 #26-6,3208591958,sincorreo,No,,
+CC,924349195,4870106193,Cliente112 Pérez,Depósito,2434892,Cuenta corriente,Cartagena,2024-02-28 08:17:01,1968-05-20,Avenida 52 #4-7,3715302141,sincorreo,Sí,399363,120 días
+CE,718313299,3919457131,Cliente113 Gómez,Pago,3468043,Inversión,Pereira,1709111395,1992-05-12,Carrera 24 #47-37,3270964441,cliente113.877@yahoo.com,Sí,38936,120 días
+PAS,553937499,4940072248,Cliente114 Gómez,Transferencia,1044519,Cuenta de ahorros,Bogotá,1709102087,1958-04-13,Calle 8 #56-17,3614459068,cliente114.966@yahoo.com,No,,
+CC,180877756,2091827429,Cliente115 Gómez,Compra,3896442,Préstamo personal,Cartagena,2024-02-28 02:52:06,1980-01-19,Carrera 102 #25-17,3611829566,cliente115.661@outlook.com,Sí,508170,90 días
+CC,219863053,1721566408,Cliente116 Ramírez,Depósito,1600521,Cuenta de ahorros,Bogotá,2024-02-28 09:28:43,1984-08-17,Avenida 41 #15-43,3413622253,cliente116.828@yahoo.com,Sí,213389,120 días
+PAS,907759822,3192291849,Cliente117 Gómez,Compra,1852086,Tarjeta de crédito,Cali,1709085136,1952-11-08,Avenida 125 #82-34,3831970004,cliente117.740@gmail.com,No,,
+PAS,244581098,2073317452,Cliente118 Pérez,Retiro,64906,Cuenta corriente,Cartagena,1709078512,1982-11-17,Avenida 130 #52-15,3241008080,correo@,Sí,519520,30 días
+TI,239948255,4534976388,Cliente119 Méndez,Pago,3198340,Tarjeta de crédito,Bucaramanga,2024-02-28 17:38:02,1984-03-19,Carrera 120 #33-27,3956195462,cliente119.767@yahoo.com,No,,
+CC,313968542,8328343961,Cliente120 Méndez,Retiro,2576268,Tarjeta de crédito,Pereira,2024-02-28 12:44:45,1982-12-11,Avenida 36 #61-40,3551865798,cliente120.364@yahoo.com,Sí,433789,120 días
+TI,206393009,7063113251,Cliente121 Torres,Depósito,302384,Tarjeta de crédito,Barranquilla,1709083848,1994-03-26,Calle 95 #57-43,3877480228,cliente121.263@gmail.com,Sí,430056,90 días
+PAS,886785505,1065633592,Cliente122 Ramírez,Transferencia,2967004,Préstamo personal,Barranquilla,1709124751,1955-02-04,Carrera 20 #64-32,3743459104,cliente122.724@mail.com,Sí,215756,120 días
+CE,515194969,7974507521,Cliente123 Pérez,Transferencia,2360096,Préstamo personal,Cartagena,1709128079,1992-09-27,Carrera 102 #54-23,3652596048,correo@.,No,,
+PAS,680818105,7497228613,Cliente124 Ramírez,Compra,885035,Préstamo personal,Barranquilla,2024-02-28 15:17:37,1956-06-27,Diagonal 149 #25-31,3898584056,cliente124.410@yahoo.com,No,,
+PAS,175356461,6624956970,Cliente125 Torres,Compra,2302679,Cuenta corriente,Bucaramanga,2024-02-28 21:21:36,1964-11-21,Calle 110 #48-12,3406213311,@dominio.com,No,,
+PAS,639697075,7497459736,Cliente126 Gómez,Compra,400856,Cuenta de ahorros,Pereira,1709093906,1989-05-08,Carrera 73 #53-19,3720183727,cliente126.854@outlook.com,Sí,520059,60 días
+PAS,611802125,7327616697,Cliente127 Ramírez,Pago,1166403,Cuenta corriente,Bogotá,2024-02-28 01:52:51,1973-06-07,Calle 102 #76-47,3715740550,cliente127.323@mail.com,No,,
+TI,309650527,8097493689,Cliente128 Pérez,Transferencia,422562,Cuenta corriente,Bucaramanga,2024-02-28 04:45:50,1971-11-10,Calle 54 #5-10,3934218338,usuario@dominio,No,,
+PAS,373444076,3361197176,Cliente129 Torres,Compra,4745696,Cuenta corriente,Pereira,2024-02-28 20:03:48,1965-10-18,Diagonal 64 #38-36,3541284679,cliente129.406@outlook.com,Sí,46071,90 días
+PAS,918126795,7332824188,Cliente130 Ramírez,Pago,2036003,Cuenta corriente,Pereira,2024-02-28 02:47:16,1999-02-20,Diagonal 97 #74-35,3252111466,cliente130.649@yahoo.com,No,,
+PAS,776218061,6970282343,Cliente131 Gómez,Retiro,1225668,Cuenta de ahorros,Bucaramanga,1709097439,1994-10-04,Avenida 53 #54-37,3561213286,usuario@dominio,No,,
+CE,495965768,6057979260,Cliente132 Pérez,Pago,462001,Cuenta de ahorros,Medellín,2024-02-28 15:53:42,1951-10-03,Avenida 119 #33-37,3334703547,cliente132.258@outlook.com,No,,
+CC,584550484,7504021133,Cliente133 Pérez,Transferencia,4261925,Cuenta corriente,Barranquilla,2024-02-28 11:35:58,1979-11-15,Avenida 113 #32-40,3225568828,@dominio.com,Sí,456271,120 días
+PAS,741390339,2556477241,Cliente134 Torres,Pago,4165431,Cuenta corriente,Cali,2024-02-28 09:24:04,1992-12-20,Calle 4 #86-17,3343107855,cliente134.945@gmail.com,No,,
+PAS,220056527,6043769422,Cliente135 Torres,Pago,3616189,Préstamo personal,Cartagena,1709113912,2000-12-01,Carrera 74 #39-48,3668022484,cliente135.95@mail.com,No,,
+CC,264549159,7900831255,Cliente136 Ramírez,Compra,68735,Tarjeta de crédito,Medellín,1709109759,1965-08-24,Diagonal 10 #61-10,3344064702,correo@.,No,,
+TI,749748808,9715423307,Cliente137 Pérez,Compra,2833980,Cuenta corriente,Bucaramanga,1709092054,1984-08-25,Calle 139 #95-11,3986973855,usuario@dominio,Sí,398974,60 días
+CC,467153439,2503743135,Cliente138 Ramírez,Pago,3556365,Tarjeta de crédito,Bogotá,1709137331,2003-08-12,Calle 128 #82-38,3742132834,cliente138.315@mail.com,No,,
+CE,973584600,5532321144,Cliente139 Ramírez,Retiro,4180037,Inversión,Bogotá,1709112839,2002-04-12,Avenida 132 #86-30,3796955491,correo@.,Sí,336514,60 días
+CE,734845057,9619216030,Cliente140 Pérez,Depósito,4811230,Cuenta de ahorros,Cartagena,2024-02-28 10:44:29,1996-04-04,Diagonal 144 #31-4,3196967456,usuario@dominio,No,,
+TI,977111873,2454257160,Cliente141 Pérez,Depósito,4084169,Tarjeta de crédito,Bogotá,2024-02-28 10:09:48,1990-12-17,Avenida 118 #43-29,3137240068,correo@,Sí,630173,120 días
+PAS,242405305,9800154474,Cliente142 Torres,Depósito,2491299,Tarjeta de crédito,Pereira,2024-02-28 08:40:21,1953-05-01,Avenida 7 #16-42,3729694824,usuario@dominio,Sí,543638,60 días
+PAS,350141363,9015517316,Cliente143 Torres,Retiro,323709,Tarjeta de crédito,Cali,1709156962,1991-12-24,Avenida 114 #71-25,3850513156,cliente143.485@yahoo.com,No,,
+PAS,224172047,3224616019,Cliente144 Gómez,Depósito,4643136,Inversión,Medellín,1709159721,1983-11-08,Avenida 66 #64-21,3616203811,sincorreo,No,,
+PAS,645855960,6299698290,Cliente145 Ramírez,Depósito,4597942,Cuenta de ahorros,Pereira,1709138772,1953-07-04,Avenida 103 #45-45,3842607308,correo@.,Sí,459534,120 días
+TI,429440856,1848045738,Cliente146 Torres,Pago,1111660,Tarjeta de crédito,Cali,1709103333,1988-06-15,Diagonal 39 #53-4,3983897370,sincorreo,Sí,591967,60 días
+PAS,222500075,6197950893,Cliente147 Pérez,Pago,2283750,Cuenta corriente,Medellín,2024-02-28 23:32:39,1976-06-21,Calle 21 #2-35,3789793104,cliente147.850@mail.com,No,,
+CC,621216808,2153747848,Cliente148 Torres,Pago,400243,Préstamo personal,Pereira,2024-02-28 01:38:24,1965-06-03,Diagonal 53 #31-29,3149870062,cliente148.925@yahoo.com,No,,
+CC,186921086,8486039934,Cliente149 Méndez,Transferencia,1792233,Préstamo personal,Bogotá,2024-02-28 16:04:04,1988-03-03,Calle 85 #33-21,3974489980,correo@.,Sí,506146,60 días
+CE,532307639,9128901565,Cliente150 Pérez,Compra,4145493,Cuenta de ahorros,Cali,2024-02-28 04:26:13,1972-11-22,Carrera 55 #49-15,3504467219,cliente150.521@outlook.com,Sí,827160,90 días
+CE,282266061,5910499967,Cliente151 Méndez,Depósito,2184283,Inversión,Cali,2024-02-28 15:38:12,1950-06-09,Carrera 50 #1-32,3369279111,correo@.,Sí,33386,120 días
+CC,733853769,7852889828,Cliente152 Torres,Retiro,1804697,Cuenta de ahorros,Pereira,2024-02-28 10:46:48,1969-07-03,Carrera 9 #46-2,3351637027,sincorreo,Sí,52894,30 días
+CC,834546849,7530128860,Cliente153 Torres,Compra,2739729,Cuenta de ahorros,Medellín,2024-02-28 11:49:38,2003-01-07,Calle 123 #66-26,3870406156,correo@,No,,
+CC,212041854,4965977046,Cliente154 Ramírez,Pago,3919777,Cuenta corriente,Bogotá,1709163372,2002-05-28,Calle 107 #75-13,3808306148,correo@.,No,,
+CC,922163060,9613935886,Cliente155 Pérez,Transferencia,925256,Inversión,Bucaramanga,2024-02-28 00:19:18,1964-04-02,Avenida 79 #82-21,3243197665,correo@,Sí,632378,60 días
+CE,325956217,5299142614,Cliente156 Méndez,Retiro,4029002,Préstamo personal,Cartagena,1709102219,1950-07-02,Diagonal 111 #33-6,3744915443,sincorreo,Sí,692990,60 días
+CE,481756998,5663933464,Cliente157 Torres,Retiro,3962227,Cuenta de ahorros,Cali,1709156631,2000-11-19,Calle 59 #97-31,3249915118,sincorreo,No,,
+TI,140110269,9081886886,Cliente158 Ramírez,Retiro,85020,Cuenta de ahorros,Medellín,1709114197,1985-10-13,Carrera 57 #80-13,3674743789,cliente158.935@outlook.com,Sí,575579,60 días
+CC,944085228,7266040419,Cliente159 Gómez,Pago,4061351,Inversión,Medellín,2024-02-28 14:06:25,1991-03-12,Avenida 126 #69-15,3661170794,@dominio.com,No,,
+CC,583008219,6774036212,Cliente160 Pérez,Depósito,4488279,Tarjeta de crédito,Barranquilla,1709120636,1962-01-09,Avenida 111 #36-21,3470753562,sincorreo,No,,
+PAS,401276872,6168524934,Cliente161 Torres,Retiro,4984686,Tarjeta de crédito,Bogotá,2024-02-28 09:46:14,1990-07-27,Avenida 122 #11-50,3789361619,cliente161.724@gmail.com,Sí,127165,120 días
+PAS,179814061,5019674607,Cliente162 Pérez,Retiro,1906036,Cuenta corriente,Medellín,1709155011,1970-11-07,Calle 43 #92-10,3439767967,@dominio.com,No,,
+CE,965253592,7374609591,Cliente163 Gómez,Pago,2194188,Préstamo personal,Bucaramanga,1709140975,1958-04-05,Carrera 128 #39-46,3831137309,cliente163.786@gmail.com,No,,
+CC,448032547,9551876867,Cliente164 Pérez,Retiro,1260575,Inversión,Medellín,1709106198,1952-10-01,Avenida 90 #65-29,3785175895,cliente164.981@mail.com,No,,
+CC,924379946,2931247947,Cliente165 Méndez,Pago,3363184,Cuenta de ahorros,Cartagena,2024-02-28 02:49:04,2001-05-20,Avenida 148 #6-8,3425408527,correo@.,No,,
+CE,371900467,5855708404,Cliente166 Gómez,Compra,1517439,Tarjeta de crédito,Cali,1709079173,1994-12-23,Carrera 99 #64-27,3497728730,@dominio.com,No,,
+CC,204326869,7570458555,Cliente167 Méndez,Pago,3902903,Cuenta de ahorros,Medellín,1709145248,1955-05-09,Carrera 114 #51-4,3299877370,cliente167.266@yahoo.com,Sí,595895,30 días
+CE,957994904,3693653041,Cliente168 Gómez,Compra,1662047,Inversión,Cartagena,2024-02-28 07:38:07,1956-08-25,Carrera 119 #89-29,3596456013,cliente168.195@gmail.com,No,,
+PAS,785371541,1529688253,Cliente169 Méndez,Compra,1197593,Cuenta corriente,Barranquilla,1709090542,1955-07-19,Avenida 129 #65-9,3499575081,cliente169.72@outlook.com,Sí,697398,60 días
+CE,117606686,3393800510,Cliente170 Torres,Depósito,3706405,Cuenta de ahorros,Cali,2024-02-28 15:18:31,1954-10-21,Calle 13 #76-5,3217575939,cliente170.653@yahoo.com,Sí,908357,60 días
+CE,222383293,4045220576,Cliente171 Méndez,Retiro,2485118,Inversión,Bogotá,2024-02-28 17:21:57,1986-11-09,Calle 43 #14-46,3880144238,@dominio.com,No,,
+PAS,917816724,9515333122,Cliente172 Méndez,Transferencia,1599679,Tarjeta de crédito,Bucaramanga,2024-02-28 08:07:34,1997-02-28,Calle 63 #24-27,3447917563,@dominio.com,No,,
+TI,995832207,9684232299,Cliente173 Gómez,Transferencia,4949597,Cuenta de ahorros,Bucaramanga,1709113945,1951-12-19,Calle 115 #17-15,3620622320,cliente173.157@mail.com,No,,
+TI,657461448,9332029003,Cliente174 Torres,Compra,1400477,Préstamo personal,Medellín,2024-02-28 10:19:07,1959-03-21,Carrera 104 #31-37,3179725888,correo@.,Sí,972386,30 días
+PAS,361890011,1938410766,Cliente175 Méndez,Pago,2263217,Cuenta de ahorros,Bogotá,2024-02-28 17:53:18,1957-09-25,Avenida 139 #58-2,3308385576,@dominio.com,No,,
+CE,683622039,8599412935,Cliente176 Ramírez,Compra,2500578,Tarjeta de crédito,Bucaramanga,1709152179,1968-06-28,Carrera 43 #80-19,3506138392,cliente176.242@yahoo.com,No,,
+CC,598362223,3757640854,Cliente177 Méndez,Transferencia,752129,Préstamo personal,Pereira,2024-02-28 08:12:56,1960-02-06,Carrera 13 #89-7,3429125954,correo@,No,,
+TI,688958663,3924757968,Cliente178 Pérez,Transferencia,989319,Inversión,Barranquilla,2024-02-28 22:33:53,1996-11-20,Calle 63 #44-16,3924075753,cliente178.205@mail.com,No,,
+CC,533209821,4681947536,Cliente179 Torres,Compra,3668805,Cuenta de ahorros,Barranquilla,2024-02-28 05:08:37,1974-02-07,Diagonal 119 #13-30,3410271584,cliente179.457@gmail.com,No,,
+CE,432130907,5363314924,Cliente180 Pérez,Compra,3962174,Tarjeta de crédito,Pereira,2024-02-28 19:53:30,1993-12-09,Avenida 106 #86-33,3466744267,@dominio.com,Sí,580097,30 días
+TI,279003327,2407583287,Cliente181 Méndez,Transferencia,4879541,Inversión,Cali,2024-02-28 20:38:05,1998-02-27,Carrera 44 #68-22,3328379507,cliente181.55@yahoo.com,Sí,176064,30 días
+CC,119052961,5190163305,Cliente182 Ramírez,Transferencia,400111,Cuenta corriente,Bogotá,2024-02-28 11:29:33,1962-09-04,Diagonal 68 #50-17,3729733992,correo@,No,,
+PAS,205057025,5828976384,Cliente183 Gómez,Retiro,346511,Inversión,Bogotá,2024-02-28 17:43:48,1993-01-09,Carrera 65 #94-31,3752305542,cliente183.765@outlook.com,Sí,369279,30 días
+CE,728193103,5401983850,Cliente184 Gómez,Pago,577840,Cuenta de ahorros,Cali,2024-02-28 08:58:46,1998-04-25,Avenida 52 #91-24,3187109583,cliente184.68@mail.com,Sí,271586,60 días
+CE,227620113,9894726523,Cliente185 Méndez,Compra,1851985,Inversión,Bucaramanga,1709093988,2002-07-21,Diagonal 102 #89-32,3868128744,cliente185.260@yahoo.com,No,,
+CC,198882322,7624846874,Cliente186 Torres,Transferencia,1897504,Cuenta de ahorros,Cali,1709132575,1987-10-13,Avenida 2 #51-18,3162357711,usuario@dominio,Sí,625702,30 días
+CE,631711432,9145443423,Cliente187 Ramírez,Retiro,1639194,Tarjeta de crédito,Medellín,1709100225,1988-10-15,Diagonal 104 #31-33,3123507573,sincorreo,Sí,343482,120 días
+CC,867584069,3392963340,Cliente188 Méndez,Compra,4327179,Tarjeta de crédito,Cartagena,2024-02-28 03:26:58,1971-07-18,Carrera 55 #53-12,3281666400,correo@,Sí,278654,30 días
+CE,437330493,6021995578,Cliente189 Ramírez,Pago,79904,Préstamo personal,Pereira,2024-02-28 11:44:31,1956-04-18,Calle 126 #87-13,3892108169,cliente189.55@gmail.com,Sí,578714,60 días
+PAS,236943432,8577056729,Cliente190 Ramírez,Transferencia,4853949,Cuenta de ahorros,Cali,1709093822,1800-01-01,Avenida 47 #36-8,3421713132,correo@,No,,
+CE,194128533,9178227284,Cliente191 Pérez,Transferencia,3446040,Inversión,Bogotá,1709157357,1986-06-27,Calle 115 #65-19,3393770259,cliente191.464@yahoo.com,Sí,437924,30 días
+TI,506446534,7432672654,Cliente192 Gómez,Compra,2293154,Inversión,Bucaramanga,1709104837,1978-09-17,Avenida 82 #27-40,3316825320,cliente192.549@mail.com,No,,
+CC,381875857,9376104716,Cliente193 Gómez,Depósito,3297967,Inversión,Pereira,1709163791,1984-02-26,Carrera 33 #37-36,3574068348,cliente193.104@yahoo.com,Sí,690284,90 días
+CC,294367521,5872108693,Cliente194 Torres,Retiro,3798776,Préstamo personal,Barranquilla,2024-02-28 01:05:00,1800-01-01,Avenida 99 #48-17,3937314754,correo@,No,,
+TI,318225444,5233872974,Cliente195 Gómez,Pago,2667028,Cuenta de ahorros,Barranquilla,1709120097,1972-12-18,Calle 90 #96-9,3991706589,usuario@dominio,Sí,629062,30 días
+PAS,917977825,5278994732,Cliente196 Pérez,Depósito,2717492,Préstamo personal,Cartagena,2024-02-28 09:25:40,1990-11-21,Carrera 76 #50-35,3480280338,cliente196.542@mail.com,Sí,898998,30 días
+PAS,120753477,1288901803,Cliente197 Ramírez,Depósito,208716,Cuenta de ahorros,Medellín,2024-02-28 23:44:07,1974-02-03,Carrera 85 #85-42,3554407830,cliente197.725@outlook.com,No,,
+PAS,123379946,9732423595,Cliente198 Gómez,Depósito,3242415,Cuenta de ahorros,Bucaramanga,2024-02-28 07:21:04,1999-02-09,Calle 15 #38-47,3686224378,usuario@dominio,No,,
+CE,240731533,2434071203,Cliente199 Ramírez,Pago,2599664,Cuenta corriente,Cali,1709133875,1989-05-02,Calle 121 #90-10,3765991635,cliente199.967@mail.com,Sí,106498,120 días
+CC,100324662,4746930235,Cliente200 Ramírez,Pago,2920821,Tarjeta de crédito,Bucaramanga,2024-02-28 21:06:28,1960-02-23,Calle 5 #8-15,3943605750,correo@.,Sí,498036,120 días
+CC,162990881,1864696728,Cliente201 Pérez,Transferencia,2941251,Cuenta de ahorros,Barranquilla,1709148556,1984-10-23,Carrera 115 #38-48,3898536833,cliente201.99@yahoo.com,Sí,31718,60 días
+PAS,886510933,6702966836,Cliente202 Torres,Depósito,448120,Tarjeta de crédito,Medellín,2024-02-28 22:51:37,1800-01-01,Calle 79 #40-26,3755842865,usuario@dominio,No,,
+TI,854818992,2576726556,Cliente203 Méndez,Retiro,965717,Tarjeta de crédito,Cali,1709149251,1974-07-10,Avenida 119 #26-48,3475392585,cliente203.606@outlook.com,No,,
+PAS,623049029,3742442842,Cliente204 Torres,Depósito,779334,Préstamo personal,Bogotá,1709144147,1995-09-04,Diagonal 142 #12-4,3153087238,@dominio.com,No,,
+CE,454546977,1235912732,Cliente205 Pérez,Compra,3806959,Cuenta de ahorros,Cartagena,1709094029,2002-04-02,Diagonal 15 #55-26,3579081436,correo@.,Sí,976362,60 días
+CE,423549942,8911775011,Cliente206 Méndez,Transferencia,4502672,Inversión,Cali,1709141045,1963-04-14,Calle 22 #57-9,3843066977,correo@.,Sí,807949,60 días
+CE,261127475,2204523006,Cliente207 Gómez,Transferencia,1084875,Inversión,Bogotá,2024-02-28 09:10:09,1967-09-01,Carrera 29 #90-50,3216580418,sincorreo,No,,
+PAS,303522893,2789094072,Cliente208 Pérez,Retiro,2383829,Préstamo personal,Bogotá,2024-02-28 23:59:38,1967-06-05,Diagonal 80 #38-14,3427282261,cliente208.843@gmail.com,No,,
+CC,155041313,6066087507,Cliente209 Méndez,Compra,3596014,Tarjeta de crédito,Pereira,1709091510,1951-12-23,Diagonal 59 #22-38,3986405822,sincorreo,Sí,371990,120 días
+PAS,494276351,1610255371,Cliente210 Pérez,Retiro,1579043,Préstamo personal,Bogotá,2024-02-28 04:16:22,1983-06-10,Diagonal 18 #19-7,3840434526,usuario@dominio,Sí,107115,90 días
+PAS,208492311,2167044000,Cliente211 Ramírez,Compra,2060999,Cuenta de ahorros,Bogotá,2024-02-28 16:40:47,2003-08-27,Carrera 98 #85-25,3429161248,cliente211.109@gmail.com,Sí,428233,60 días
+PAS,674749162,5072261409,Cliente212 Gómez,Depósito,1732827,Cuenta de ahorros,Cartagena,1709137991,1956-08-14,Diagonal 72 #92-36,3415016739,@dominio.com,Sí,157637,30 días
+CE,692027994,6649525681,Cliente213 Pérez,Compra,1761062,Préstamo personal,Pereira,2024-02-28 00:58:47,1976-06-02,Carrera 101 #6-30,3845913483,cliente213.745@mail.com,Sí,793843,120 días
+CE,151023659,2686000121,Cliente214 Pérez,Retiro,4071768,Tarjeta de crédito,Medellín,1709162863,1969-10-09,Calle 143 #39-50,3672891454,cliente214.921@yahoo.com,Sí,520089,120 días
+PAS,376896011,6767013932,Cliente215 Pérez,Transferencia,2604665,Cuenta corriente,Medellín,1709138724,1996-02-01,Calle 98 #74-16,3474387834,correo@,No,,
+PAS,282839530,7197363999,Cliente216 Torres,Depósito,3605547,Préstamo personal,Medellín,2024-02-28 14:37:01,2003-05-19,Carrera 8 #8-15,3201050501,correo@.,No,,
+CE,854181446,5663327588,Cliente217 Ramírez,Pago,3664001,Cuenta de ahorros,Barranquilla,1709096854,1968-07-28,Calle 125 #87-44,3942768743,cliente217.357@gmail.com,Sí,455169,60 días
+PAS,183660284,5402632887,Cliente218 Pérez,Transferencia,2231273,Cuenta corriente,Barranquilla,2024-02-28 09:13:15,1965-08-02,Carrera 34 #15-45,3395956005,@dominio.com,Sí,657375,90 días
+CE,313843692,5098030136,Cliente219 Méndez,Retiro,1438169,Cuenta de ahorros,Cartagena,2024-02-28 10:53:04,1964-04-20,Carrera 61 #56-46,3855839605,cliente219.518@outlook.com,Sí,70831,120 días
+TI,390622988,8869144271,Cliente220 Torres,Retiro,4337309,Tarjeta de crédito,Bucaramanga,1709140495,2002-03-21,Diagonal 50 #46-46,3135739084,correo@.,No,,
+TI,659660617,8267061189,Cliente221 Torres,Compra,683136,Préstamo personal,Cali,2024-02-28 02:06:28,2000-07-03,Carrera 133 #76-36,3404785341,cliente221.184@outlook.com,No,,
+CC,555553048,9763092960,Cliente222 Gómez,Retiro,3048842,Inversión,Bucaramanga,1709082632,1972-01-21,Calle 83 #84-10,3497112243,usuario@dominio,No,,
+CE,105537833,3963560245,Cliente223 Gómez,Transferencia,1039222,Préstamo personal,Cartagena,2024-02-28 17:29:55,2000-11-05,Diagonal 102 #39-5,3154288600,sincorreo,No,,
+TI,161688374,2906508195,Cliente224 Torres,Compra,4355736,Cuenta corriente,Pereira,1709144271,1970-07-25,Avenida 75 #46-34,3880710687,cliente224.375@yahoo.com,Sí,741833,30 días
+CC,339732963,6167824573,Cliente225 Ramírez,Transferencia,4308335,Inversión,Medellín,1709121071,1956-05-26,Carrera 11 #26-8,3651097876,cliente225.991@outlook.com,Sí,440113,30 días
+CE,453755865,9123619418,Cliente226 Pérez,Pago,1950816,Inversión,Cartagena,2024-02-28 08:51:32,1958-06-24,Carrera 28 #18-40,3970571949,cliente226.160@outlook.com,Sí,570466,60 días
+CC,985425347,2916015820,Cliente227 Gómez,Pago,2553813,Tarjeta de crédito,Medellín,1709130080,1800-01-01,Avenida 32 #71-49,3752042758,cliente227.789@yahoo.com,No,,
+CC,141275991,5338490528,Cliente228 Ramírez,Retiro,3403630,Cuenta de ahorros,Barranquilla,2024-02-28 06:08:43,1994-11-09,Carrera 13 #82-29,3359470217,sincorreo,Sí,116402,120 días
+TI,426733192,5655891281,Cliente229 Pérez,Transferencia,3838363,Tarjeta de crédito,Pereira,1709157539,1800-01-01,Avenida 110 #19-39,3413153349,@dominio.com,No,,
+CC,484048635,9651520345,Cliente230 Méndez,Compra,3802945,Cuenta de ahorros,Cartagena,2024-02-28 15:20:06,1997-07-13,Diagonal 139 #19-4,3101665037,cliente230.325@outlook.com,No,,
+CE,899534405,8899809469,Cliente231 Ramírez,Depósito,118417,Cuenta corriente,Pereira,2024-02-28 09:38:17,1978-11-11,Carrera 126 #81-5,3474500470,cliente231.914@outlook.com,Sí,640508,120 días
+TI,571745086,9532332887,Cliente232 Torres,Depósito,596863,Inversión,Cartagena,2024-02-28 16:33:12,1961-05-01,Carrera 34 #36-18,3565512912,sincorreo,Sí,392729,60 días
+CC,915728134,8135424139,Cliente233 Méndez,Transferencia,4612973,Cuenta corriente,Pereira,2024-02-28 16:54:47,1956-02-22,Carrera 76 #37-17,3814510274,cliente233.123@gmail.com,No,,
+CC,599540971,1161441188,Cliente234 Gómez,Retiro,4825852,Tarjeta de crédito,Cartagena,2024-02-28 10:08:39,1955-06-10,Avenida 29 #49-10,3749374638,@dominio.com,Sí,80870,60 días
+CC,145114881,3546443359,Cliente235 Ramírez,Retiro,4111985,Inversión,Medellín,1709101952,1964-05-08,Carrera 41 #50-45,3696332062,cliente235.254@gmail.com,No,,
+PAS,664358142,6897242841,Cliente236 Méndez,Transferencia,1036775,Cuenta de ahorros,Barranquilla,2024-02-28 18:13:13,2001-05-25,Calle 65 #17-29,3144000939,sincorreo,No,,
+CC,794065337,2994535997,Cliente237 Ramírez,Transferencia,3555107,Cuenta de ahorros,Pereira,1709081904,1968-07-19,Calle 150 #95-27,3849738995,correo@,No,,
+TI,735652324,2435532972,Cliente238 Méndez,Transferencia,2608758,Inversión,Barranquilla,2024-02-28 05:29:07,1956-11-13,Avenida 51 #18-27,3228916505,@dominio.com,No,,
+CE,670663771,4011463482,Cliente239 Pérez,Compra,1130789,Cuenta corriente,Bucaramanga,1709115647,1951-01-12,Avenida 69 #67-42,3175176680,cliente239.731@yahoo.com,No,,
+TI,532662208,5942571850,Cliente240 Torres,Pago,4165229,Tarjeta de crédito,Cali,2024-02-28 08:03:27,1971-10-10,Avenida 113 #46-11,3478595898,sincorreo,Sí,230903,30 días
+TI,293400536,1488197757,Cliente241 Méndez,Retiro,1937308,Cuenta corriente,Pereira,2024-02-28 19:33:49,1800-01-01,Diagonal 30 #73-50,3605019308,correo@.,Sí,655019,90 días
+CC,325793996,9509933181,Cliente242 Torres,Pago,3984618,Tarjeta de crédito,Cali,1709162523,1961-01-10,Avenida 47 #42-41,3298494576,cliente242.395@mail.com,No,,
+CE,812317003,4900263988,Cliente243 Torres,Retiro,3577185,Cuenta corriente,Pereira,2024-02-28 02:12:56,1976-06-06,Avenida 30 #86-28,3529115225,correo@.,Sí,719447,30 días
+CE,985797852,8679592605,Cliente244 Méndez,Transferencia,4917157,Cuenta de ahorros,Pereira,1709114798,2005-05-25,Avenida 136 #94-13,3905798361,cliente244.864@gmail.com,Sí,556691,90 días
+PAS,764416133,2723000362,Cliente245 Ramírez,Transferencia,2895231,Cuenta de ahorros,Cartagena,2024-02-28 19:21:04,1987-06-13,Carrera 98 #27-41,3609041101,correo@,Sí,452405,120 días
+PAS,984603410,4354576337,Cliente246 Méndez,Pago,1862642,Préstamo personal,Pereira,1709104744,1950-08-21,Carrera 94 #99-42,3110600988,sincorreo,No,,
+TI,358464874,1290559509,Cliente247 Torres,Pago,1040576,Cuenta corriente,Barranquilla,1709111295,2004-08-16,Calle 132 #66-18,3333070032,cliente247.492@yahoo.com,Sí,751911,30 días
+CE,942205283,6057466188,Cliente248 Pérez,Retiro,257913,Cuenta de ahorros,Bogotá,1709151933,1973-11-26,Carrera 5 #7-19,3991738595,@dominio.com,Sí,146660,30 días
+CE,456871575,6301192665,Cliente249 Pérez,Compra,3416489,Tarjeta de crédito,Bucaramanga,2024-02-28 19:07:08,1978-06-22,Calle 124 #51-10,3787422180,correo@,No,,
+TI,748346425,1025712638,Cliente250 Torres,Compra,3385077,Cuenta de ahorros,Barranquilla,1709099141,1973-06-10,Avenida 36 #68-5,3541678957,usuario@dominio,No,,
+PAS,770166691,9158971054,Cliente251 Torres,Transferencia,787950,Cuenta corriente,Bucaramanga,1709111346,1986-03-01,Calle 104 #3-32,3399804292,correo@.,Sí,940700,120 días
+CC,705440823,9377436692,Cliente252 Gómez,Transferencia,4602151,Cuenta de ahorros,Bogotá,2024-02-28 02:27:34,2004-01-03,Calle 60 #78-29,3422507484,correo@.,No,,
+CE,245405339,1193290059,Cliente253 Méndez,Depósito,1389069,Préstamo personal,Bucaramanga,1709141242,1963-06-26,Calle 148 #19-40,3567814535,cliente253.908@yahoo.com,Sí,192695,120 días
+CE,151253224,6919217080,Cliente254 Méndez,Compra,2317359,Cuenta de ahorros,Pereira,2024-02-28 05:48:21,1977-06-20,Carrera 8 #36-4,3968641274,cliente254.481@gmail.com,Sí,37852,60 días
+CE,720346331,3080151431,Cliente255 Pérez,Pago,1267033,Cuenta corriente,Bogotá,1709134194,2005-06-20,Calle 126 #17-25,3668175391,@dominio.com,No,,
+PAS,394504270,5917972255,Cliente256 Pérez,Depósito,3445779,Cuenta corriente,Bogotá,2024-02-28 12:42:18,2003-03-20,Avenida 93 #31-3,3560656809,correo@,No,,
+CC,880627695,5015087995,Cliente257 Méndez,Transferencia,2613983,Cuenta corriente,Cali,1709121080,1800-01-01,Diagonal 141 #20-12,3334582653,sincorreo,Sí,894978,30 días
+TI,613269767,2256695703,Cliente258 Torres,Pago,3209308,Cuenta de ahorros,Cali,2024-02-28 03:33:20,2002-02-12,Diagonal 64 #94-35,3289383955,correo@.,No,,
+CC,729750839,1079940407,Cliente259 Ramírez,Compra,3281550,Tarjeta de crédito,Barranquilla,1709160305,1992-02-16,Calle 2 #1-20,3477626641,usuario@dominio,No,,
+CC,353384424,5710350676,Cliente260 Ramírez,Transferencia,4590172,Tarjeta de crédito,Barranquilla,2024-02-28 14:51:21,1961-02-04,Avenida 45 #100-1,3994084025,@dominio.com,Sí,729366,60 días
+CC,491095733,7389140198,Cliente261 Ramírez,Transferencia,3283460,Cuenta corriente,Bucaramanga,2024-02-28 14:40:28,1951-05-23,Calle 42 #51-6,3137040462,cliente261.930@outlook.com,No,,
+CE,551545817,5836478079,Cliente262 Pérez,Compra,711860,Cuenta corriente,Bogotá,1709140550,1977-05-28,Calle 136 #27-1,3243870672,cliente262.684@yahoo.com,No,,
+TI,858741183,4632732150,Cliente263 Méndez,Transferencia,4168995,Cuenta de ahorros,Pereira,2024-02-28 11:13:43,1969-10-08,Carrera 129 #45-19,3313199793,usuario@dominio,Sí,617169,30 días
+PAS,853381612,4683654883,Cliente264 Pérez,Depósito,1641702,Préstamo personal,Pereira,2024-02-28 10:40:49,1978-10-28,Carrera 150 #60-20,3567202219,@dominio.com,Sí,86443,60 días
+TI,388083535,1858716904,Cliente265 Ramírez,Depósito,3024204,Préstamo personal,Barranquilla,1709141706,1999-08-19,Carrera 109 #99-38,3601747646,correo@.,Sí,662440,60 días
+CC,142211487,6294326317,Cliente266 Torres,Pago,672771,Préstamo personal,Cali,2024-02-28 06:08:12,1987-10-17,Diagonal 105 #77-20,3808659415,@dominio.com,No,,
+CE,252003869,3426750536,Cliente267 Gómez,Depósito,4932390,Cuenta de ahorros,Barranquilla,2024-02-28 22:59:38,2002-05-22,Calle 109 #34-32,3865993850,@dominio.com,Sí,673636,120 días
+PAS,209731568,4842009099,Cliente268 Ramírez,Transferencia,3489501,Tarjeta de crédito,Cali,2024-02-28 22:43:00,1800-01-01,Carrera 112 #41-15,3507534281,cliente268.491@outlook.com,Sí,640584,30 días
+TI,974359450,7531062737,Cliente269 Gómez,Compra,3721861,Cuenta corriente,Bucaramanga,1709093112,1800-01-01,Diagonal 23 #35-40,3224505056,cliente269.45@yahoo.com,No,,
+TI,646305935,8256048267,Cliente270 Torres,Transferencia,2832210,Tarjeta de crédito,Pereira,2024-02-28 15:14:35,1999-02-11,Diagonal 131 #100-50,3577773863,sincorreo,Sí,693603,120 días
+TI,698889448,3947016122,Cliente271 Ramírez,Compra,4108714,Cuenta corriente,Medellín,1709156859,1953-04-23,Avenida 48 #90-31,3972504579,cliente271.846@gmail.com,Sí,479222,120 días
+CE,910263125,7295461654,Cliente272 Torres,Pago,595839,Cuenta de ahorros,Cali,2024-02-28 06:58:54,1974-02-18,Avenida 42 #13-27,3918868844,usuario@dominio,No,,
+TI,497794100,2177388217,Cliente273 Gómez,Compra,1210475,Cuenta corriente,Bucaramanga,1709123226,1962-10-23,Diagonal 54 #57-2,3694529883,correo@.,No,,
+TI,310700811,1388051686,Cliente274 Ramírez,Compra,553603,Tarjeta de crédito,Pereira,1709149964,1994-06-20,Avenida 134 #20-13,3641756049,cliente274.312@yahoo.com,No,,
+PAS,703833620,9635307360,Cliente275 Torres,Retiro,2829078,Inversión,Cali,1709134028,1990-09-11,Carrera 56 #48-32,3200275398,sincorreo,No,,
+CE,570982746,7764037399,Cliente276 Méndez,Retiro,3872534,Préstamo personal,Bucaramanga,1709114165,1987-03-16,Diagonal 123 #75-31,3761157761,cliente276.21@outlook.com,No,,
+CE,505390247,3313192923,Cliente277 Gómez,Pago,994956,Inversión,Pereira,1709120842,1987-09-06,Avenida 80 #91-34,3233378930,cliente277.34@gmail.com,Sí,357520,120 días
+TI,612285021,3584353766,Cliente278 Pérez,Pago,3893815,Préstamo personal,Cali,2024-02-28 21:05:41,2003-03-06,Calle 55 #90-37,3994327170,cliente278.257@outlook.com,Sí,718714,30 días
+PAS,748406901,4405883856,Cliente279 Gómez,Depósito,581832,Cuenta de ahorros,Bogotá,2024-02-28 00:30:32,1977-12-22,Diagonal 108 #15-26,3707760335,usuario@dominio,Sí,503922,90 días
+CE,317564542,3696903061,Cliente280 Torres,Retiro,3695256,Préstamo personal,Bogotá,1709138677,1978-04-07,Avenida 59 #82-1,3273799530,cliente280.147@yahoo.com,No,,
+CC,222623526,3242122133,Cliente281 Torres,Retiro,4004390,Cuenta corriente,Barranquilla,1709114514,1986-12-28,Carrera 131 #89-39,3988370938,@dominio.com,Sí,240626,120 días
+CC,426064187,3395105316,Cliente282 Torres,Retiro,2745460,Cuenta corriente,Bogotá,2024-02-28 15:28:58,1993-04-13,Diagonal 67 #41-45,3211466786,cliente282.973@yahoo.com,No,,
+CE,305720567,2376273060,Cliente283 Pérez,Transferencia,1433850,Préstamo personal,Medellín,1709127445,1970-04-23,Diagonal 14 #34-37,3839852592,cliente283.217@yahoo.com,Sí,856521,120 días
+PAS,815972285,8306641015,Cliente284 Méndez,Depósito,4506805,Cuenta corriente,Cartagena,1709106667,1969-05-25,Calle 43 #92-28,3257716068,sincorreo,No,,
+CC,478418240,2442610429,Cliente285 Torres,Pago,3477486,Inversión,Bogotá,1709155527,2002-12-17,Avenida 5 #20-28,3194335387,cliente285.734@gmail.com,No,,
+CE,815751035,1769200077,Cliente286 Pérez,Compra,2453755,Cuenta de ahorros,Medellín,2024-02-28 17:36:57,1970-09-04,Calle 115 #83-42,3998273614,cliente286.884@mail.com,No,,
+PAS,269486898,3230746595,Cliente287 Ramírez,Pago,3108478,Cuenta corriente,Barranquilla,2024-02-28 00:09:15,1973-03-20,Avenida 135 #95-34,3232069993,usuario@dominio,No,,
+PAS,450433666,1523792032,Cliente288 Gómez,Compra,2725333,Inversión,Bucaramanga,1709143505,1965-07-02,Diagonal 3 #100-35,3192888321,correo@.,Sí,484151,30 días
+TI,792389419,9987326668,Cliente289 Torres,Depósito,2044187,Inversión,Pereira,2024-02-28 05:36:36,1983-07-16,Carrera 52 #58-2,3626483698,cliente289.523@mail.com,Sí,738369,30 días
+TI,865829811,9045485751,Cliente290 Méndez,Depósito,4487260,Cuenta de ahorros,Barranquilla,1709136216,1961-05-22,Diagonal 102 #100-50,3544900736,cliente290.536@gmail.com,Sí,893754,30 días
+TI,219734099,2818768670,Cliente291 Ramírez,Retiro,3339199,Inversión,Medellín,2024-02-28 08:00:54,1974-03-09,Avenida 19 #42-2,3280417266,correo@,Sí,796582,60 días
+CC,445031258,6472344581,Cliente292 Torres,Retiro,2229998,Préstamo personal,Pereira,2024-02-28 19:54:01,1800-01-01,Avenida 142 #35-45,3412996792,cliente292.537@yahoo.com,Sí,295340,30 días
+TI,210718741,8028163341,Cliente293 Torres,Transferencia,1857304,Cuenta corriente,Bogotá,1709124518,2000-08-13,Carrera 115 #22-11,3529527195,correo@,Sí,752569,90 días
+CE,372970164,7081999389,Cliente294 Gómez,Retiro,1123148,Cuenta de ahorros,Bogotá,1709092128,1967-09-19,Calle 55 #2-5,3697557378,correo@,No,,
+CE,296904667,9325245666,Cliente295 Ramírez,Retiro,4925777,Cuenta de ahorros,Medellín,1709110881,2004-06-07,Diagonal 65 #7-12,3273897850,cliente295.218@yahoo.com,Sí,86694,90 días
+CE,698309406,5634300824,Cliente296 Gómez,Depósito,3527181,Préstamo personal,Bogotá,1709149160,1800-01-01,Avenida 118 #80-4,3681317551,correo@,Sí,18712,30 días
+CC,958005063,4623655936,Cliente297 Méndez,Compra,4273801,Tarjeta de crédito,Cali,1709084299,1982-04-03,Diagonal 150 #67-45,3729653974,@dominio.com,No,,
+PAS,751917119,2327982173,Cliente298 Torres,Compra,3305934,Cuenta de ahorros,Cartagena,1709164168,1986-02-09,Carrera 51 #92-46,3310913392,correo@,No,,
+CE,898406247,3112802714,Cliente299 Ramírez,Compra,3825805,Inversión,Cartagena,1709141388,2004-02-19,Avenida 64 #76-29,3181535415,cliente299.224@yahoo.com,Sí,297772,90 días
+TI,598582090,8520737082,Cliente300 Gómez,Depósito,3439769,Cuenta de ahorros,Bogotá,2024-02-28 20:15:06,1999-06-17,Avenida 137 #46-9,3852012127,cliente300.93@yahoo.com,No,,
+PAS,866115769,2929307676,Cliente301 Torres,Depósito,59346,Inversión,Bucaramanga,2024-02-28 01:57:54,1980-06-03,Carrera 43 #11-9,3873616600,sincorreo,Sí,631554,90 días
+CE,185408843,3301951362,Cliente302 Torres,Pago,4868826,Cuenta de ahorros,Cali,1709140743,1989-11-06,Carrera 123 #88-21,3378222995,cliente302.329@gmail.com,No,,
+CC,913183186,6503509890,Cliente303 Pérez,Transferencia,186910,Préstamo personal,Bogotá,2024-02-28 22:43:56,1994-07-26,Calle 54 #80-7,3717886748,@dominio.com,No,,
+CC,828382087,2418144576,Cliente304 Torres,Pago,4699778,Cuenta corriente,Bogotá,1709134269,1978-02-24,Carrera 141 #2-10,3580522588,@dominio.com,Sí,669907,60 días
+TI,948485576,5731973009,Cliente305 Ramírez,Transferencia,2068814,Inversión,Barranquilla,2024-02-28 08:09:59,1800-01-01,Avenida 137 #37-10,3561479224,correo@.,Sí,658513,90 días
+CE,718946680,2990461349,Cliente306 Pérez,Compra,2632110,Préstamo personal,Cartagena,1709110658,2004-12-17,Diagonal 99 #37-15,3262818048,cliente306.377@outlook.com,Sí,958253,90 días
+PAS,774399278,5373262533,Cliente307 Ramírez,Compra,721400,Cuenta de ahorros,Bucaramanga,1709163332,1970-02-16,Calle 54 #68-22,3514660084,cliente307.283@yahoo.com,Sí,936126,60 días
+TI,514875699,2566313313,Cliente308 Pérez,Compra,2250748,Inversión,Bogotá,1709111886,1994-12-21,Diagonal 127 #59-5,3788341376,correo@,No,,
+PAS,775542856,8513632178,Cliente309 Torres,Compra,2757946,Cuenta de ahorros,Bogotá,2024-02-28 02:22:47,1998-09-04,Avenida 92 #47-20,3347038062,usuario@dominio,No,,
+PAS,706588847,5074029163,Cliente310 Gómez,Retiro,18594,Préstamo personal,Bucaramanga,2024-02-28 02:26:30,1989-02-09,Calle 63 #30-21,3551564429,usuario@dominio,No,,
+TI,466834359,1181519620,Cliente311 Pérez,Depósito,2288490,Inversión,Barranquilla,2024-02-28 03:06:24,1966-08-05,Avenida 25 #46-10,3718582372,cliente311.575@mail.com,Sí,532771,60 días
+TI,897419998,9210820004,Cliente312 Torres,Retiro,4031990,Préstamo personal,Bucaramanga,2024-02-28 11:23:50,1955-08-02,Avenida 10 #2-32,3678886348,correo@.,No,,
+PAS,940867680,5210524703,Cliente313 Gómez,Depósito,3247305,Préstamo personal,Bogotá,2024-02-28 17:38:54,1961-05-16,Avenida 143 #41-7,3129638842,@dominio.com,No,,
+PAS,277411940,1200890455,Cliente314 Torres,Transferencia,3356999,Tarjeta de crédito,Cartagena,1709155868,1979-08-11,Diagonal 34 #84-35,3956345511,@dominio.com,Sí,391093,120 días
+PAS,944037357,5151368412,Cliente315 Méndez,Depósito,3845973,Préstamo personal,Pereira,2024-02-28 06:31:16,1999-03-26,Diagonal 95 #72-50,3555140327,usuario@dominio,Sí,328617,30 días
+CE,138461966,9753145809,Cliente316 Gómez,Transferencia,4435968,Cuenta corriente,Pereira,1709161557,1983-04-15,Avenida 100 #92-5,3614846935,cliente316.604@mail.com,No,,
+CC,796398792,8243154397,Cliente317 Ramírez,Compra,4876578,Inversión,Cali,2024-02-28 00:41:28,1961-07-18,Calle 49 #75-28,3716689513,correo@.,Sí,606287,30 días
+PAS,967335409,3026043883,Cliente318 Gómez,Depósito,518947,Inversión,Pereira,1709124989,1956-01-08,Calle 85 #44-14,3621617898,cliente318.773@outlook.com,Sí,472663,60 días
+CC,872789726,4548552982,Cliente319 Pérez,Compra,720397,Tarjeta de crédito,Pereira,1709132451,1982-01-23,Avenida 98 #27-26,3492052620,usuario@dominio,No,,
+CC,338371050,7072657422,Cliente320 Gómez,Depósito,1962028,Inversión,Pereira,1709114281,1964-12-10,Diagonal 67 #88-8,3463111676,cliente320.544@gmail.com,Sí,854348,30 días
+CC,770895848,8556662295,Cliente321 Gómez,Compra,238953,Tarjeta de crédito,Bucaramanga,1709094746,1991-12-14,Calle 8 #42-38,3374479547,cliente321.833@yahoo.com,Sí,357004,120 días
+TI,888001763,1454682090,Cliente322 Ramírez,Depósito,439267,Cuenta corriente,Pereira,2024-02-28 20:54:33,1976-02-06,Carrera 59 #75-21,3186405732,sincorreo,Sí,428676,30 días
+CE,954598832,9838832023,Cliente323 Gómez,Compra,2255290,Préstamo personal,Pereira,2024-02-28 23:09:14,2005-11-02,Diagonal 113 #52-12,3349577503,correo@,No,,
+PAS,193938977,4870992357,Cliente324 Torres,Compra,2558348,Préstamo personal,Medellín,2024-02-28 12:37:16,1957-05-17,Diagonal 1 #83-28,3688993897,correo@,No,,
+PAS,209424433,4738422105,Cliente325 Gómez,Retiro,618900,Cuenta corriente,Bucaramanga,1709078521,2001-06-16,Carrera 77 #19-28,3192425454,@dominio.com,No,,
+CC,461239235,6853894266,Cliente326 Ramírez,Pago,2475975,Cuenta de ahorros,Pereira,2024-02-28 17:28:21,1982-06-01,Calle 63 #23-43,3941644316,cliente326.857@gmail.com,No,,
+PAS,478026050,8641375317,Cliente327 Méndez,Transferencia,4555725,Tarjeta de crédito,Barranquilla,2024-02-28 06:47:51,1800-01-01,Calle 97 #67-37,3861932231,cliente327.934@mail.com,Sí,196134,60 días
+TI,330913588,6524255493,Cliente328 Torres,Depósito,329858,Inversión,Medellín,1709083218,1953-02-26,Avenida 19 #59-39,3123309051,cliente328.355@yahoo.com,No,,
+CC,562208037,1341115352,Cliente329 Gómez,Compra,108052,Tarjeta de crédito,Pereira,2024-02-28 12:49:59,1977-06-26,Carrera 112 #71-1,3297341208,cliente329.214@yahoo.com,No,,
+CC,751277403,3346110652,Cliente330 Torres,Pago,1180357,Cuenta de ahorros,Barranquilla,2024-02-28 12:29:09,1959-03-05,Diagonal 140 #66-10,3980074172,cliente330.781@yahoo.com,Sí,625740,90 días
+PAS,865689776,3606455949,Cliente331 Ramírez,Compra,3850164,Inversión,Bogotá,2024-02-28 09:56:47,1980-10-09,Avenida 143 #18-5,3310988929,cliente331.893@outlook.com,Sí,825926,30 días
+CE,150909183,9785832960,Cliente332 Pérez,Compra,4061179,Inversión,Medellín,2024-02-28 05:15:17,1968-05-28,Carrera 65 #46-50,3815396842,cliente332.691@yahoo.com,No,,
+CE,515754061,2155841714,Cliente333 Ramírez,Compra,4853391,Inversión,Bucaramanga,2024-02-28 08:54:27,1999-04-06,Carrera 129 #96-49,3964976511,cliente333.560@gmail.com,No,,
+CE,947647440,4801708821,Cliente334 Gómez,Compra,4464394,Cuenta de ahorros,Cali,1709147273,1993-03-06,Calle 120 #89-8,3483114539,cliente334.835@yahoo.com,Sí,735236,60 días
+PAS,249825574,5036930242,Cliente335 Gómez,Pago,1031650,Préstamo personal,Cartagena,1709117070,1952-08-24,Carrera 10 #86-38,3710939606,sincorreo,Sí,299710,90 días
+CC,453424330,1129490049,Cliente336 Ramírez,Transferencia,2833693,Cuenta corriente,Medellín,1709098878,2001-04-19,Avenida 39 #80-15,3224784419,correo@,No,,
+CC,475428594,8982859340,Cliente337 Pérez,Pago,3369865,Cuenta corriente,Cali,2024-02-28 12:48:19,1960-03-22,Avenida 122 #7-13,3969102144,correo@,Sí,621500,90 días
+CC,391665369,4308383225,Cliente338 Gómez,Depósito,3718577,Tarjeta de crédito,Pereira,2024-02-28 13:39:23,1993-09-22,Calle 118 #46-30,3826951042,cliente338.126@outlook.com,Sí,255210,30 días
+TI,147154279,8802350877,Cliente339 Ramírez,Transferencia,1688265,Cuenta de ahorros,Bogotá,1709109267,1981-06-11,Carrera 92 #75-11,3803853152,sincorreo,Sí,24888,120 días
+TI,339000603,2803151795,Cliente340 Pérez,Compra,2188890,Cuenta corriente,Pereira,1709132083,1992-07-25,Diagonal 13 #58-44,3318184584,cliente340.641@gmail.com,Sí,345457,30 días
+CE,175933082,1067058217,Cliente341 Torres,Transferencia,1795582,Cuenta de ahorros,Pereira,2024-02-28 08:53:24,1957-09-27,Carrera 84 #15-2,3472152115,cliente341.259@gmail.com,Sí,520096,120 días
+TI,133308302,9821621059,Cliente342 Gómez,Retiro,2986431,Cuenta corriente,Cali,2024-02-28 11:10:41,1957-05-08,Avenida 46 #55-32,3604202664,cliente342.242@gmail.com,Sí,322217,30 días
+CE,984738960,8091929477,Cliente343 Pérez,Retiro,3276268,Cuenta corriente,Pereira,1709093569,1993-03-28,Carrera 35 #15-13,3501837962,cliente343.937@gmail.com,Sí,245906,30 días
+PAS,989128888,4494815205,Cliente344 Pérez,Depósito,2359499,Préstamo personal,Cartagena,1709118008,1966-04-09,Carrera 132 #21-10,3633616761,cliente344.334@yahoo.com,Sí,438877,60 días
+CE,847847340,5734145607,Cliente345 Méndez,Pago,2257980,Cuenta corriente,Cartagena,1709127083,1997-02-28,Avenida 10 #61-2,3635903140,cliente345.102@outlook.com,No,,
+TI,717847735,1854882937,Cliente346 Torres,Retiro,3079348,Tarjeta de crédito,Cali,1709097535,1966-04-23,Calle 147 #56-27,3571545650,cliente346.743@outlook.com,No,,
+PAS,339141705,5890900041,Cliente347 Torres,Depósito,2371017,Cuenta de ahorros,Pereira,1709092809,1994-12-05,Avenida 60 #62-34,3210160703,cliente347.620@mail.com,Sí,16556,60 días
+TI,498591474,7930340112,Cliente348 Gómez,Transferencia,323542,Cuenta corriente,Pereira,1709084424,1998-09-07,Avenida 39 #71-45,3128814363,cliente348.329@yahoo.com,Sí,465913,60 días
+CC,533483489,5895407734,Cliente349 Pérez,Transferencia,4702182,Préstamo personal,Cartagena,2024-02-28 10:58:52,2002-08-05,Carrera 116 #89-48,3117402383,cliente349.919@yahoo.com,Sí,583706,90 días
+TI,828824600,7042596313,Cliente350 Gómez,Depósito,4811142,Cuenta corriente,Bogotá,2024-02-28 20:27:30,1950-06-24,Calle 32 #70-43,3899533798,cliente350.515@mail.com,Sí,658404,90 días
+PAS,893404534,3309563040,Cliente351 Pérez,Depósito,3494106,Cuenta de ahorros,Medellín,1709092652,1983-05-18,Calle 90 #81-34,3462176052,correo@,Sí,798905,30 días
+CE,960873029,7229689398,Cliente352 Méndez,Pago,1601487,Cuenta de ahorros,Bogotá,1709088783,1956-05-02,Calle 6 #27-6,3829148897,cliente352.352@outlook.com,Sí,382973,30 días
+TI,642820785,9136282437,Cliente353 Ramírez,Transferencia,3196262,Préstamo personal,Cartagena,1709149155,1998-11-19,Avenida 143 #11-42,3670877827,cliente353.921@mail.com,No,,
+CE,798109285,4993010916,Cliente354 Ramírez,Transferencia,4509520,Inversión,Bogotá,2024-02-28 03:28:35,1952-08-19,Diagonal 149 #46-34,3311229307,cliente354.143@mail.com,Sí,730218,30 días
+TI,664569174,9996388859,Cliente355 Ramírez,Pago,1590816,Tarjeta de crédito,Cali,1709090309,1985-09-09,Diagonal 90 #62-47,3832929984,correo@,Sí,362909,90 días
+CE,511135574,7479787703,Cliente356 Ramírez,Retiro,2807301,Cuenta corriente,Bogotá,1709153563,1999-10-09,Avenida 28 #1-31,3473229233,usuario@dominio,Sí,613436,90 días
+CE,405637369,5783782041,Cliente357 Ramírez,Retiro,4291855,Préstamo personal,Medellín,2024-02-28 15:07:08,1963-02-17,Avenida 139 #97-43,3196514675,usuario@dominio,No,,
+PAS,839546930,7709744285,Cliente358 Torres,Compra,3417840,Préstamo personal,Bucaramanga,1709154402,1958-01-20,Avenida 71 #16-40,3765168330,cliente358.691@yahoo.com,Sí,197153,30 días
+CC,286186284,3110585430,Cliente359 Pérez,Depósito,4484695,Cuenta de ahorros,Cartagena,2024-02-28 06:31:17,1962-10-03,Carrera 128 #17-32,3932646784,correo@.,No,,
+CE,638863449,6405892379,Cliente360 Méndez,Pago,1506544,Cuenta corriente,Medellín,2024-02-28 04:56:44,1953-05-11,Carrera 113 #29-29,3365920287,cliente360.972@mail.com,Sí,396753,30 días
+CE,405613764,7616635109,Cliente361 Torres,Transferencia,397068,Inversión,Medellín,2024-02-28 22:09:29,2005-10-24,Avenida 142 #33-12,3428521113,cliente361.16@outlook.com,No,,
+PAS,244776281,2555848891,Cliente362 Ramírez,Transferencia,3457567,Cuenta de ahorros,Cartagena,1709102875,1959-04-09,Calle 70 #4-21,3284931228,@dominio.com,Sí,869413,30 días
+CE,958294517,3759611577,Cliente363 Gómez,Pago,3764719,Cuenta corriente,Cali,1709134871,1956-05-05,Calle 127 #15-42,3783952262,@dominio.com,Sí,800286,60 días
+CC,380969186,4656416275,Cliente364 Torres,Depósito,1890732,Inversión,Cartagena,2024-02-28 14:41:12,1954-07-26,Avenida 29 #64-27,3133402429,cliente364.943@outlook.com,Sí,730130,30 días
+PAS,982104267,3310340396,Cliente365 Torres,Transferencia,4627379,Cuenta corriente,Bucaramanga,1709138801,1800-01-01,Avenida 87 #64-46,3459654559,usuario@dominio,Sí,89257,120 días
+TI,217188882,4626085444,Cliente366 Gómez,Depósito,1787537,Inversión,Barranquilla,1709136214,1988-07-18,Avenida 75 #89-25,3759500513,cliente366.607@outlook.com,Sí,140383,60 días
+TI,466631928,5370485603,Cliente367 Gómez,Pago,365068,Cuenta corriente,Cali,2024-02-28 23:53:33,1980-09-03,Diagonal 124 #35-16,3593788940,correo@,No,,
+TI,988983149,4827781415,Cliente368 Méndez,Transferencia,3533006,Préstamo personal,Bucaramanga,2024-02-28 21:17:06,1800-01-01,Avenida 57 #36-31,3514277522,correo@,No,,
+CE,344627493,5576814007,Cliente369 Méndez,Retiro,4676194,Cuenta corriente,Pereira,2024-02-28 20:24:51,1800-01-01,Avenida 36 #4-16,3935272193,sincorreo,Sí,198255,90 días
+PAS,424901664,3078812319,Cliente370 Ramírez,Compra,54898,Cuenta corriente,Cartagena,1709100177,1984-11-21,Carrera 115 #47-23,3594260948,usuario@dominio,No,,
+CC,533515996,7288612246,Cliente371 Méndez,Compra,1579761,Préstamo personal,Medellín,1709095701,1988-05-25,Diagonal 1 #24-33,3951125289,correo@.,Sí,132495,120 días
+CC,505695265,8802337338,Cliente372 Gómez,Depósito,3906574,Inversión,Bogotá,2024-02-28 20:28:47,1973-05-15,Avenida 54 #9-15,3912796131,cliente372.630@yahoo.com,No,,
+CC,353050559,7134773079,Cliente373 Méndez,Depósito,618460,Cuenta corriente,Pereira,1709086720,2001-05-14,Calle 63 #6-48,3671753465,correo@,Sí,452611,30 días
+TI,602902138,6403456770,Cliente374 Ramírez,Compra,1950817,Préstamo personal,Pereira,2024-02-28 15:07:14,1994-10-01,Calle 93 #17-40,3359448685,cliente374.192@gmail.com,No,,
+CE,539180477,6127796454,Cliente375 Gómez,Depósito,2162866,Préstamo personal,Pereira,1709113680,1800-01-01,Carrera 104 #58-15,3248845154,@dominio.com,Sí,720150,120 días
+CC,882503700,4432555253,Cliente376 Gómez,Retiro,2297468,Cuenta corriente,Pereira,1709094054,1964-08-03,Calle 111 #94-50,3782236497,correo@.,Sí,103712,30 días
+CE,518151559,6663974619,Cliente377 Ramírez,Depósito,3566729,Cuenta corriente,Cartagena,1709087434,1967-07-14,Calle 140 #40-49,3749217726,cliente377.756@mail.com,No,,
+TI,733200008,5625712455,Cliente378 Méndez,Transferencia,2819480,Cuenta corriente,Cali,2024-02-28 16:54:01,1971-11-07,Carrera 138 #28-15,3713305465,sincorreo,No,,
+PAS,454905206,3218057107,Cliente379 Gómez,Depósito,4526218,Préstamo personal,Cartagena,1709108413,1961-07-25,Calle 100 #94-7,3212731919,@dominio.com,No,,
+CE,299204937,4851492263,Cliente380 Méndez,Depósito,2444745,Cuenta de ahorros,Cali,2024-02-28 02:25:21,1990-01-16,Avenida 127 #29-36,3954858752,correo@.,No,,
+CC,689413250,6071813408,Cliente381 Gómez,Transferencia,3223299,Inversión,Cartagena,2024-02-28 07:28:21,1979-05-03,Diagonal 35 #78-48,3743169223,usuario@dominio,Sí,388029,30 días
+PAS,456929063,1184170514,Cliente382 Torres,Transferencia,4323304,Préstamo personal,Barranquilla,2024-02-28 20:18:49,1977-05-04,Diagonal 32 #64-13,3616382482,@dominio.com,No,,
+TI,821657837,9726359502,Cliente383 Pérez,Compra,2692968,Cuenta corriente,Bucaramanga,1709123810,1965-04-20,Diagonal 132 #81-12,3644569385,correo@,No,,
+CE,602286010,5580222514,Cliente384 Méndez,Compra,228077,Préstamo personal,Bogotá,1709119439,1995-01-07,Carrera 62 #59-15,3799529475,correo@,Sí,535971,60 días
+CC,478789642,8051249475,Cliente385 Gómez,Retiro,4466852,Cuenta de ahorros,Bogotá,1709152756,1980-04-03,Calle 94 #19-5,3533952462,correo@.,No,,
+CC,435944534,5840512599,Cliente386 Pérez,Retiro,631536,Cuenta de ahorros,Medellín,2024-02-28 05:44:44,1972-12-26,Avenida 96 #26-20,3418680956,correo@,Sí,881193,60 días
+PAS,965768768,5107146047,Cliente387 Méndez,Pago,4966328,Inversión,Cartagena,1709145532,2000-08-10,Calle 117 #8-22,3707823633,cliente387.743@gmail.com,No,,
+PAS,222863666,9155431108,Cliente388 Méndez,Transferencia,4669555,Tarjeta de crédito,Bogotá,2024-02-28 00:44:02,1982-09-21,Avenida 55 #35-32,3892631540,correo@,Sí,579948,60 días
+CE,880842193,7845420843,Cliente389 Ramírez,Retiro,3008924,Cuenta corriente,Medellín,2024-02-28 22:36:22,2000-03-22,Calle 88 #55-24,3935301138,cliente389.736@mail.com,Sí,397,120 días
+CC,109888169,6496037342,Cliente390 Pérez,Depósito,1895930,Préstamo personal,Pereira,1709088400,1995-06-27,Diagonal 3 #60-33,3607099907,usuario@dominio,No,,
+TI,744788514,5011014078,Cliente391 Gómez,Pago,3620491,Cuenta corriente,Cali,1709113891,1959-08-10,Diagonal 87 #51-47,3731612805,cliente391.235@gmail.com,No,,
+CC,971229877,1703994581,Cliente392 Méndez,Depósito,3828544,Cuenta corriente,Barranquilla,2024-02-28 05:42:03,2000-11-13,Calle 79 #32-14,3442336762,cliente392.62@outlook.com,Sí,927348,120 días
+TI,441496592,3227480388,Cliente393 Gómez,Retiro,754960,Cuenta de ahorros,Cartagena,1709094520,1961-11-09,Avenida 59 #41-44,3425930224,usuario@dominio,No,,
+TI,644222099,8552073613,Cliente394 Ramírez,Compra,2817055,Cuenta corriente,Cali,1709155311,1958-02-12,Carrera 133 #8-10,3451810106,cliente394.156@outlook.com,No,,
+PAS,420972963,3692399612,Cliente395 Méndez,Pago,3811980,Cuenta de ahorros,Pereira,1709093661,1963-10-02,Diagonal 35 #26-50,3504424805,@dominio.com,No,,
+TI,269367911,7501334375,Cliente396 Ramírez,Depósito,3473262,Cuenta de ahorros,Cali,2024-02-28 08:45:40,1992-06-24,Carrera 62 #78-30,3681032343,cliente396.324@yahoo.com,Sí,397953,60 días
+CC,887342027,9986279196,Cliente397 Torres,Transferencia,671786,Cuenta de ahorros,Medellín,2024-02-28 17:59:47,2003-09-10,Avenida 133 #56-29,3652645550,correo@,Sí,251670,60 días
+PAS,481944799,4063997223,Cliente398 Torres,Pago,3989965,Cuenta corriente,Cali,1709082586,1962-11-04,Calle 86 #88-17,3421087901,sincorreo,No,,
+CC,684489058,6597956975,Cliente399 Méndez,Retiro,4031126,Tarjeta de crédito,Cartagena,2024-02-28 17:23:22,1991-05-16,Calle 62 #86-1,3541373297,cliente399.206@gmail.com,Sí,794974,120 días
+CC,912349164,5069677122,Cliente400 Torres,Compra,2180895,Tarjeta de crédito,Cartagena,2024-02-28 13:18:17,1972-05-09,Carrera 78 #75-40,3938418132,cliente400.792@gmail.com,Sí,85803,60 días
+CE,371287464,5697446678,Cliente401 Ramírez,Transferencia,2254388,Préstamo personal,Bogotá,1709144449,1964-09-22,Carrera 82 #35-39,3870207155,cliente401.188@mail.com,No,,
+TI,834322361,1066979322,Cliente402 Méndez,Retiro,1382898,Cuenta de ahorros,Bucaramanga,1709080965,1990-11-14,Carrera 43 #92-5,3164838418,cliente402.677@gmail.com,No,,
+TI,392133188,3805418658,Cliente403 Ramírez,Transferencia,1971290,Cuenta corriente,Bogotá,2024-02-28 21:41:06,2002-11-02,Avenida 101 #5-39,3884466396,sincorreo,Sí,865424,90 días
+CC,848488620,1254949771,Cliente404 Torres,Pago,2244766,Cuenta corriente,Barranquilla,1709130717,2000-01-18,Avenida 108 #43-12,3744771613,cliente404.721@mail.com,No,,
+CC,272001062,1529818332,Cliente405 Pérez,Compra,240016,Cuenta corriente,Cali,1709150959,1968-08-04,Calle 116 #71-38,3665905764,@dominio.com,No,,
+CE,533972507,6845919327,Cliente406 Méndez,Pago,3502783,Inversión,Medellín,1709081073,1998-02-15,Carrera 123 #22-39,3186362321,cliente406.892@outlook.com,No,,
+CE,267423138,4153773626,Cliente407 Méndez,Compra,115683,Cuenta de ahorros,Cali,1709092152,1978-10-18,Diagonal 12 #72-13,3436598759,correo@.,Sí,826186,90 días
+PAS,342208407,8376929284,Cliente408 Pérez,Compra,4355905,Inversión,Cali,2024-02-28 07:14:32,1961-11-25,Calle 95 #98-29,3866800567,usuario@dominio,No,,
+CE,426460007,1905082056,Cliente409 Gómez,Depósito,3128920,Tarjeta de crédito,Bogotá,2024-02-28 17:39:07,1972-01-22,Calle 97 #7-20,3974670713,@dominio.com,No,,
+CE,437329971,8852724660,Cliente410 Gómez,Compra,306624,Préstamo personal,Bucaramanga,2024-02-28 08:08:37,1957-06-06,Avenida 142 #23-39,3771064807,sincorreo,No,,
+CC,947206202,7456362489,Cliente411 Méndez,Compra,345972,Préstamo personal,Medellín,1709160648,1976-12-21,Carrera 34 #63-47,3421726797,correo@,Sí,501126,60 días
+PAS,759006842,6702135548,Cliente412 Gómez,Depósito,4185920,Tarjeta de crédito,Medellín,1709117039,1981-07-11,Carrera 116 #93-9,3452799384,cliente412.139@yahoo.com,No,,
+PAS,351663596,6770517942,Cliente413 Torres,Retiro,3356136,Tarjeta de crédito,Medellín,1709135127,1968-08-11,Diagonal 55 #40-1,3449275179,correo@.,Sí,428742,120 días
+PAS,939764466,6285278400,Cliente414 Gómez,Retiro,3713295,Préstamo personal,Cartagena,1709138943,1967-07-16,Diagonal 149 #82-42,3455182788,cliente414.184@gmail.com,Sí,694470,30 días
+TI,808008562,5549125707,Cliente415 Gómez,Retiro,3191147,Préstamo personal,Cartagena,1709101849,1953-10-19,Calle 52 #100-7,3127859013,correo@.,Sí,674751,60 días
+CE,460620397,2090373792,Cliente416 Gómez,Retiro,3628960,Préstamo personal,Bogotá,1709085743,1986-07-17,Carrera 57 #87-49,3593995405,cliente416.173@outlook.com,No,,
+CC,497827053,8747459177,Cliente417 Gómez,Pago,370963,Tarjeta de crédito,Cartagena,2024-02-28 16:54:52,1976-10-17,Calle 143 #5-28,3558329914,cliente417.305@outlook.com,No,,
+PAS,252908867,9633860380,Cliente418 Pérez,Compra,4447786,Cuenta corriente,Bogotá,2024-02-28 13:51:42,1952-04-24,Diagonal 88 #26-22,3820515763,correo@.,Sí,360685,90 días
+CE,837557354,1227086869,Cliente419 Pérez,Pago,53700,Cuenta corriente,Bucaramanga,2024-02-28 04:42:02,1958-10-23,Carrera 108 #53-3,3459345610,sincorreo,Sí,960954,60 días
+CE,819380142,7099751974,Cliente420 Pérez,Compra,3954340,Inversión,Bucaramanga,1709100502,1971-05-04,Diagonal 130 #59-38,3546657875,cliente420.298@outlook.com,Sí,937312,60 días
+TI,956401550,6756165232,Cliente421 Méndez,Pago,2161283,Cuenta corriente,Bucaramanga,1709104250,1800-01-01,Diagonal 149 #97-21,3296073389,@dominio.com,Sí,202251,30 días
+PAS,792410551,3739537290,Cliente422 Gómez,Retiro,4799292,Préstamo personal,Bogotá,2024-02-28 08:43:05,1800-01-01,Avenida 99 #30-35,3593117385,cliente422.756@outlook.com,No,,
+PAS,325601584,9580327429,Cliente423 Torres,Retiro,4236936,Tarjeta de crédito,Barranquilla,1709157997,1991-07-16,Avenida 82 #35-46,3382961701,cliente423.525@gmail.com,No,,
+CE,442957528,9098486308,Cliente424 Méndez,Transferencia,4310522,Inversión,Cartagena,1709161284,1800-01-01,Diagonal 45 #15-37,3841224015,sincorreo,No,,
+CC,852499321,6811857184,Cliente425 Ramírez,Retiro,946351,Cuenta de ahorros,Cartagena,1709108873,1800-01-01,Avenida 129 #27-1,3503436861,cliente425.603@mail.com,No,,
+PAS,906896000,3678761731,Cliente426 Méndez,Transferencia,2736453,Cuenta corriente,Cartagena,2024-02-28 08:37:01,1954-12-19,Avenida 78 #33-36,3129511391,cliente426.509@mail.com,Sí,466708,90 días
+CC,970928739,1619248006,Cliente427 Torres,Pago,204300,Inversión,Bogotá,1709115849,1968-01-13,Avenida 104 #34-20,3581844658,cliente427.677@yahoo.com,No,,
+CC,431263288,5803997898,Cliente428 Pérez,Retiro,2458767,Inversión,Bogotá,1709082357,1992-03-21,Avenida 37 #36-2,3587516308,@dominio.com,Sí,908723,30 días
+TI,321137173,3492626050,Cliente429 Méndez,Retiro,3499435,Tarjeta de crédito,Cali,1709163025,1954-08-20,Avenida 33 #96-32,3379886786,usuario@dominio,No,,
+CC,500786773,8330794025,Cliente430 Gómez,Pago,1624481,Cuenta corriente,Pereira,2024-02-28 16:31:07,1800-01-01,Avenida 2 #64-42,3747647365,sincorreo,No,,
+CE,615191530,6064182424,Cliente431 Méndez,Transferencia,4512161,Tarjeta de crédito,Bogotá,2024-02-28 14:50:10,2000-09-05,Diagonal 113 #12-9,3423578034,cliente431.985@gmail.com,No,,
+CC,757489570,9713379191,Cliente432 Pérez,Depósito,4856811,Préstamo personal,Cartagena,2024-02-28 19:09:10,2003-03-11,Diagonal 118 #34-29,3847198001,cliente432.447@gmail.com,No,,
+TI,180679602,7946714882,Cliente433 Torres,Transferencia,4362111,Préstamo personal,Barranquilla,1709124999,1960-06-22,Carrera 61 #91-25,3698546084,correo@,No,,
+PAS,250228593,6321128553,Cliente434 Ramírez,Pago,4544580,Préstamo personal,Pereira,2024-02-28 23:36:01,2001-08-03,Avenida 47 #83-48,3274853522,sincorreo,Sí,545119,90 días
+PAS,609966624,7630519681,Cliente435 Ramírez,Retiro,1487668,Inversión,Pereira,1709128522,1975-07-21,Carrera 68 #99-3,3979197640,cliente435.564@outlook.com,Sí,433668,60 días
+CE,549222667,5350711931,Cliente436 Méndez,Depósito,2859155,Cuenta de ahorros,Barranquilla,1709116694,1971-02-02,Avenida 91 #37-33,3395057839,cliente436.903@gmail.com,No,,
+PAS,587936287,4184399927,Cliente437 Ramírez,Pago,2766936,Préstamo personal,Cali,2024-02-28 16:38:34,1983-04-18,Diagonal 32 #2-24,3624483578,cliente437.56@gmail.com,No,,
+PAS,118301538,1751812240,Cliente438 Méndez,Depósito,4148987,Cuenta de ahorros,Bucaramanga,1709083528,1984-02-11,Diagonal 34 #1-12,3309281383,sincorreo,Sí,41052,120 días
+PAS,518200367,9598371086,Cliente439 Pérez,Transferencia,2118369,Inversión,Bogotá,1709128664,1962-05-21,Carrera 13 #73-46,3697541399,cliente439.392@yahoo.com,Sí,447294,30 días
+CE,896500485,3809873832,Cliente440 Gómez,Compra,2549020,Cuenta corriente,Pereira,1709099587,1988-11-08,Diagonal 52 #88-5,3486148042,usuario@dominio,Sí,239797,30 días
+CE,537511322,2951765917,Cliente441 Torres,Compra,4119258,Cuenta de ahorros,Cali,1709107403,1800-01-01,Avenida 88 #69-12,3272807652,cliente441.780@outlook.com,No,,
+TI,284773211,2167739653,Cliente442 Méndez,Compra,4591301,Inversión,Pereira,2024-02-28 16:18:46,1986-11-26,Avenida 103 #59-48,3690933968,sincorreo,Sí,337656,120 días
+PAS,768965686,5823697733,Cliente443 Gómez,Compra,381108,Tarjeta de crédito,Barranquilla,1709162089,1987-08-12,Carrera 87 #10-10,3169622911,usuario@dominio,Sí,300874,120 días
+TI,596088039,5531125165,Cliente444 Ramírez,Depósito,951495,Cuenta de ahorros,Bogotá,1709089674,1965-08-26,Carrera 144 #40-1,3268560355,cliente444.343@mail.com,No,,
+PAS,801187863,8925124756,Cliente445 Méndez,Pago,3033694,Préstamo personal,Barranquilla,1709160220,1959-09-09,Diagonal 142 #81-1,3519200963,@dominio.com,No,,
+CC,858568489,9567117204,Cliente446 Gómez,Transferencia,4700125,Cuenta de ahorros,Barranquilla,2024-02-28 05:44:24,1960-02-10,Avenida 38 #15-14,3444997383,usuario@dominio,No,,
+CE,716122561,7445555979,Cliente447 Méndez,Transferencia,4915851,Préstamo personal,Bucaramanga,1709088219,1950-07-05,Avenida 100 #89-26,3989439042,@dominio.com,Sí,227816,90 días
+TI,565884120,8576361731,Cliente448 Méndez,Transferencia,228404,Cuenta de ahorros,Bogotá,1709155365,1963-01-27,Calle 16 #46-4,3783521257,cliente448.195@mail.com,No,,
+CC,214777672,9037551851,Cliente449 Pérez,Compra,4996841,Tarjeta de crédito,Medellín,2024-02-28 21:24:30,1974-10-04,Calle 9 #80-49,3746965033,cliente449.360@gmail.com,Sí,14993,90 días
+TI,595127498,8342044853,Cliente450 Torres,Transferencia,1477547,Inversión,Cali,2024-02-28 02:27:17,1979-03-07,Avenida 98 #3-42,3493488149,cliente450.694@outlook.com,No,,
+CC,803387907,4313292898,Cliente451 Pérez,Depósito,1637608,Préstamo personal,Cali,1709100312,1962-02-07,Avenida 57 #69-16,3975702095,cliente451.62@outlook.com,Sí,756352,120 días
+CE,724548938,6761408614,Cliente452 Gómez,Retiro,2289678,Préstamo personal,Bucaramanga,2024-02-28 05:27:25,1984-03-25,Carrera 107 #87-41,3930341766,cliente452.946@gmail.com,Sí,185019,30 días
+CE,753391180,8573364551,Cliente453 Méndez,Retiro,2723484,Cuenta de ahorros,Bogotá,1709087481,1954-04-21,Calle 9 #53-3,3910938223,usuario@dominio,No,,
+TI,920329753,5169528697,Cliente454 Ramírez,Depósito,758958,Inversión,Barranquilla,2024-02-28 18:57:41,1958-02-16,Diagonal 43 #25-8,3651604401,usuario@dominio,Sí,692410,90 días
+PAS,362568351,8725531283,Cliente455 Ramírez,Pago,1293952,Tarjeta de crédito,Medellín,1709145928,1981-09-05,Avenida 114 #71-43,3267171395,@dominio.com,No,,
+PAS,435189997,3944698494,Cliente456 Torres,Retiro,2221185,Tarjeta de crédito,Bogotá,2024-02-28 21:49:03,1964-12-24,Avenida 135 #87-3,3519250450,@dominio.com,Sí,767611,90 días
+PAS,820048599,7649501863,Cliente457 Gómez,Pago,2486319,Tarjeta de crédito,Pereira,1709163748,1958-07-21,Carrera 9 #53-3,3691930761,correo@,No,,
+PAS,124583206,1819046644,Cliente458 Pérez,Retiro,978111,Tarjeta de crédito,Bogotá,2024-02-28 06:36:24,2001-05-13,Carrera 10 #54-20,3103523190,cliente458.409@gmail.com,No,,
+CE,415853197,9600737472,Cliente459 Gómez,Retiro,42112,Cuenta de ahorros,Pereira,1709112318,1960-03-23,Diagonal 113 #100-23,3847980671,cliente459.862@outlook.com,Sí,125143,30 días
+CE,429590901,8967473262,Cliente460 Méndez,Compra,1323689,Préstamo personal,Bucaramanga,2024-02-28 10:44:17,1979-10-16,Avenida 7 #7-33,3744435548,cliente460.101@yahoo.com,No,,
+CE,351903669,8144985000,Cliente461 Gómez,Compra,3783942,Cuenta corriente,Pereira,1709142769,1978-02-05,Avenida 23 #33-3,3760539260,usuario@dominio,Sí,868716,60 días
+CE,114998383,8421728843,Cliente462 Pérez,Retiro,1803937,Cuenta de ahorros,Medellín,1709087867,2003-04-26,Diagonal 145 #44-48,3820369639,cliente462.417@outlook.com,Sí,80972,90 días
+CC,526719972,7349282106,Cliente463 Torres,Transferencia,4863945,Inversión,Cali,1709151014,1962-03-09,Calle 118 #46-49,3716808601,cliente463.590@gmail.com,Sí,621059,30 días
+CC,460593257,2699557414,Cliente464 Torres,Pago,1818715,Inversión,Pereira,2024-02-28 09:39:19,1988-05-26,Diagonal 140 #5-39,3980575387,cliente464.446@outlook.com,Sí,429442,90 días
+CE,969163663,5200447062,Cliente465 Ramírez,Pago,4623673,Cuenta corriente,Cartagena,1709106365,1953-01-06,Carrera 17 #93-48,3443728608,cliente465.574@yahoo.com,Sí,99948,120 días
+CE,480337070,8409881191,Cliente466 Torres,Pago,3967915,Cuenta de ahorros,Bucaramanga,2024-02-28 13:21:31,1979-12-06,Diagonal 37 #30-44,3325622900,cliente466.492@outlook.com,Sí,534068,120 días
+TI,415340882,7836557064,Cliente467 Torres,Depósito,2628523,Inversión,Pereira,1709121739,1963-11-13,Carrera 140 #90-22,3743621371,correo@,Sí,185974,30 días
+TI,892619546,3809648649,Cliente468 Pérez,Transferencia,855240,Inversión,Medellín,1709105998,1955-03-09,Calle 140 #20-48,3161170402,correo@.,No,,
+TI,652478551,6790636182,Cliente469 Ramírez,Depósito,4681098,Cuenta corriente,Barranquilla,2024-02-28 19:34:09,1952-11-13,Carrera 89 #40-6,3444070999,correo@,No,,
+CE,398285037,1347281572,Cliente470 Ramírez,Pago,1195502,Inversión,Bogotá,2024-02-28 03:16:45,2004-05-24,Avenida 65 #90-3,3816222044,correo@.,No,,
+CC,163553584,1029590819,Cliente471 Méndez,Depósito,1835162,Préstamo personal,Medellín,1709159002,1966-12-25,Diagonal 150 #50-47,3680637304,sincorreo,No,,
+PAS,301476223,3795814746,Cliente472 Ramírez,Compra,1235889,Préstamo personal,Barranquilla,1709126754,1965-09-08,Calle 87 #3-32,3326147719,correo@,Sí,729302,90 días
+CC,817894167,3550896679,Cliente473 Méndez,Compra,4150584,Cuenta corriente,Medellín,1709163882,1977-11-27,Calle 61 #33-50,3983556376,cliente473.774@mail.com,No,,
+TI,298419064,7433404855,Cliente474 Torres,Depósito,1111113,Tarjeta de crédito,Cartagena,2024-02-28 11:47:32,1977-02-07,Calle 99 #79-18,3837677710,cliente474.206@outlook.com,Sí,403963,30 días
+TI,315297318,1948250132,Cliente475 Méndez,Compra,1869356,Tarjeta de crédito,Bogotá,2024-02-28 09:07:04,1955-10-02,Carrera 27 #53-40,3805828290,cliente475.480@gmail.com,Sí,451022,30 días
+TI,168239652,1054208580,Cliente476 Gómez,Depósito,910189,Cuenta corriente,Bogotá,2024-02-28 11:52:47,1995-12-23,Avenida 135 #69-37,3363065797,cliente476.989@gmail.com,No,,
+CC,788712329,6778503479,Cliente477 Ramírez,Transferencia,3155129,Cuenta corriente,Bogotá,2024-02-28 10:59:36,1991-02-26,Carrera 20 #87-27,3102841423,correo@,Sí,115716,90 días
+CC,330459344,9008671015,Cliente478 Méndez,Compra,1443256,Tarjeta de crédito,Pereira,1709130929,1958-01-07,Calle 101 #51-38,3954747057,sincorreo,Sí,150624,60 días
+TI,999798764,4771393278,Cliente479 Pérez,Pago,2347886,Cuenta corriente,Bogotá,1709091447,1960-10-24,Diagonal 60 #23-21,3535978955,cliente479.423@outlook.com,No,,
+PAS,827747753,6728574965,Cliente480 Méndez,Retiro,4080861,Cuenta de ahorros,Barranquilla,1709141036,1958-07-07,Avenida 68 #100-38,3165437988,cliente480.597@gmail.com,Sí,774472,30 días
+CC,889040813,8100154647,Cliente481 Méndez,Depósito,4569991,Préstamo personal,Bogotá,2024-02-28 01:02:32,1974-11-05,Avenida 84 #55-45,3484635421,usuario@dominio,No,,
+PAS,565073021,9963993964,Cliente482 Ramírez,Compra,4394686,Préstamo personal,Cartagena,2024-02-28 09:18:54,1952-03-24,Calle 4 #5-19,3479543485,sincorreo,No,,
+CC,251381627,6969494870,Cliente483 Pérez,Retiro,256599,Cuenta de ahorros,Pereira,1709144367,1992-08-26,Diagonal 142 #28-36,3875229843,correo@.,Sí,607166,30 días
+PAS,774368451,5664941981,Cliente484 Torres,Compra,3664381,Inversión,Cartagena,2024-02-28 07:20:04,1800-01-01,Calle 25 #82-36,3120129604,cliente484.292@yahoo.com,No,,
+CC,138956359,9899397318,Cliente485 Méndez,Pago,2388335,Tarjeta de crédito,Cali,1709142785,1978-11-01,Avenida 5 #48-47,3220511750,cliente485.134@mail.com,No,,
+PAS,123782546,4074436805,Cliente486 Ramírez,Depósito,957971,Cuenta de ahorros,Cartagena,1709156475,1988-08-24,Calle 61 #75-5,3672450533,correo@,Sí,963558,60 días
+PAS,210162903,7113152307,Cliente487 Torres,Transferencia,4352281,Cuenta corriente,Cartagena,2024-02-28 00:05:28,1964-10-17,Carrera 77 #63-15,3734215653,correo@.,Sí,653809,90 días
+CE,139861267,1497253224,Cliente488 Torres,Depósito,4734939,Inversión,Cartagena,2024-02-28 03:25:43,1977-01-02,Avenida 61 #31-15,3288072447,sincorreo,Sí,526490,30 días
+TI,307839997,3371631488,Cliente489 Ramírez,Pago,3022123,Cuenta de ahorros,Barranquilla,1709136745,1957-09-13,Avenida 87 #32-1,3955651337,cliente489.974@outlook.com,Sí,91861,60 días
+CC,227744983,2863307044,Cliente490 Ramírez,Depósito,1147251,Inversión,Bucaramanga,1709113005,1959-03-07,Carrera 15 #60-4,3957485188,correo@.,Sí,809536,120 días
+TI,685246216,1757827213,Cliente491 Méndez,Pago,4412188,Inversión,Bogotá,1709146585,1979-12-10,Calle 138 #78-43,3649121173,cliente491.694@mail.com,Sí,934216,120 días
+CE,671781971,3686989464,Cliente492 Pérez,Retiro,1021676,Tarjeta de crédito,Cali,2024-02-28 14:30:27,1964-07-26,Calle 136 #58-6,3336803356,cliente492.760@outlook.com,Sí,839875,30 días
+CE,795496398,1387839547,Cliente493 Ramírez,Pago,830133,Préstamo personal,Cartagena,2024-02-28 00:32:28,1984-08-07,Calle 145 #15-44,3165002585,correo@,No,,
+PAS,755445685,4743276596,Cliente494 Gómez,Pago,4288096,Cuenta corriente,Medellín,1709162122,1969-05-17,Carrera 71 #26-31,3891143019,usuario@dominio,No,,
+CC,830904886,3747308500,Cliente495 Pérez,Pago,2331633,Cuenta corriente,Bogotá,2024-02-28 23:38:36,1996-09-16,Avenida 45 #92-4,3651932842,cliente495.683@gmail.com,No,,
+PAS,871725732,3450876481,Cliente496 Gómez,Transferencia,2748974,Cuenta corriente,Cartagena,2024-02-28 08:18:27,1961-12-28,Avenida 136 #30-8,3572420450,correo@.,Sí,882031,30 días
+CC,111826387,8595540691,Cliente497 Ramírez,Compra,4974210,Préstamo personal,Bucaramanga,2024-02-28 13:46:19,1983-03-04,Diagonal 40 #58-12,3508653326,cliente497.694@outlook.com,Sí,429460,60 días
+CE,276211123,3462115030,Cliente498 Méndez,Depósito,1171275,Inversión,Cali,2024-02-28 14:10:05,1987-12-09,Carrera 133 #1-17,3968039267,cliente498.67@mail.com,Sí,741067,120 días
+TI,901252330,6408938381,Cliente499 Gómez,Pago,4529768,Cuenta corriente,Cartagena,1709093597,1997-11-11,Avenida 139 #86-49,3659665078,@dominio.com,Sí,252343,120 días
+TI,753477821,3348738499,Cliente500 Gómez,Compra,508583,Inversión,Cartagena,2024-02-28 10:23:37,1973-12-22,Carrera 75 #64-50,3306857945,sincorreo,Sí,628429,120 días
+TI,741359880,1403283566,Cliente501 Gómez,Transferencia,4776857,Cuenta de ahorros,Bogotá,2024-02-28 17:49:36,1982-05-02,Carrera 27 #60-17,3725483345,cliente501.946@mail.com,No,,
+CC,433867271,3157206053,Cliente502 Torres,Compra,4117496,Cuenta de ahorros,Barranquilla,2024-02-28 15:04:37,2000-06-12,Avenida 130 #75-46,3707655986,cliente502.199@mail.com,No,,
+PAS,542303435,2500514109,Cliente503 Torres,Depósito,829631,Tarjeta de crédito,Bucaramanga,2024-02-28 17:23:55,1962-03-24,Diagonal 60 #20-44,3373137019,cliente503.861@yahoo.com,No,,
+TI,224759174,9274025516,Cliente504 Ramírez,Compra,2593236,Cuenta de ahorros,Pereira,1709082847,2003-10-03,Avenida 45 #49-9,3569442925,@dominio.com,No,,
+TI,374999549,7566989259,Cliente505 Gómez,Transferencia,2548100,Tarjeta de crédito,Bucaramanga,2024-02-28 03:06:47,1986-06-14,Diagonal 45 #66-24,3272880822,correo@,No,,
+CE,797866685,3589252112,Cliente506 Torres,Compra,932194,Tarjeta de crédito,Medellín,1709115250,1975-11-16,Calle 60 #35-38,3631912586,correo@,Sí,459305,60 días
+CC,484411676,3921734660,Cliente507 Méndez,Compra,781353,Cuenta corriente,Bogotá,1709089925,1997-03-21,Diagonal 81 #23-41,3960049796,cliente507.31@yahoo.com,Sí,138672,90 días
+TI,816157914,2533987008,Cliente508 Torres,Compra,89747,Tarjeta de crédito,Medellín,1709085733,1968-09-09,Calle 95 #35-41,3412062447,cliente508.221@gmail.com,No,,
+CC,336151073,9957593825,Cliente509 Ramírez,Transferencia,3428052,Cuenta de ahorros,Bogotá,2024-02-28 01:51:14,1987-01-28,Diagonal 104 #1-47,3257078621,correo@.,Sí,597213,90 días
+CC,758530364,9176471234,Cliente510 Méndez,Compra,3075570,Cuenta de ahorros,Cali,1709119050,1954-12-20,Avenida 11 #69-26,3651640496,sincorreo,Sí,712484,30 días
+CE,957403867,6536996166,Cliente511 Méndez,Compra,967706,Inversión,Barranquilla,1709092428,1994-01-04,Calle 18 #75-50,3575743323,correo@,No,,
+CC,856878018,7188620340,Cliente512 Gómez,Compra,169812,Inversión,Cali,1709084170,1983-10-10,Diagonal 59 #63-46,3861492170,usuario@dominio,Sí,929340,30 días
+PAS,835781355,7082178925,Cliente513 Pérez,Depósito,315245,Cuenta corriente,Medellín,1709088717,1969-08-03,Calle 21 #11-32,3977658199,cliente513.676@yahoo.com,No,,
+CC,290976424,9361811964,Cliente514 Torres,Pago,3589308,Inversión,Bucaramanga,2024-02-28 17:52:28,1981-01-11,Diagonal 97 #13-28,3714371947,correo@.,No,,
+TI,871864869,5374580714,Cliente515 Gómez,Transferencia,197262,Préstamo personal,Cartagena,1709122541,1959-10-11,Carrera 122 #65-10,3809817861,cliente515.921@gmail.com,Sí,923506,60 días
+TI,766305047,5009209197,Cliente516 Pérez,Depósito,3328822,Tarjeta de crédito,Cali,2024-02-28 00:37:26,1800-01-01,Calle 149 #17-25,3418498730,cliente516.49@outlook.com,No,,
+PAS,630776443,8623329963,Cliente517 Méndez,Transferencia,2492746,Tarjeta de crédito,Pereira,2024-02-28 09:26:36,1954-10-06,Avenida 131 #86-13,3711701076,cliente517.673@gmail.com,Sí,512744,30 días
+CC,243101552,8817983806,Cliente518 Gómez,Pago,4331208,Tarjeta de crédito,Cali,2024-02-28 12:19:46,1995-04-12,Diagonal 22 #14-48,3739732038,sincorreo,No,,
+TI,578805716,8081001705,Cliente519 Gómez,Transferencia,4974122,Cuenta corriente,Medellín,2024-02-28 15:31:55,1984-04-20,Carrera 3 #10-28,3459342266,cliente519.623@mail.com,Sí,821200,30 días
+CE,687741522,2942420022,Cliente520 Torres,Depósito,259886,Inversión,Bogotá,1709162479,1952-10-22,Calle 72 #40-45,3895811465,cliente520.576@mail.com,Sí,619760,90 días
+TI,312535753,2468192405,Cliente521 Gómez,Compra,771376,Inversión,Barranquilla,2024-02-28 18:28:53,1985-12-14,Diagonal 16 #91-47,3754862069,sincorreo,Sí,139610,90 días
+PAS,853431028,3849578297,Cliente522 Ramírez,Pago,3232161,Cuenta corriente,Bogotá,2024-02-28 05:15:43,2004-05-21,Diagonal 68 #76-43,3593823565,cliente522.310@gmail.com,No,,
+CE,450149821,8663306183,Cliente523 Méndez,Retiro,522199,Inversión,Barranquilla,1709137425,1996-12-12,Carrera 130 #33-25,3744215176,usuario@dominio,Sí,977878,90 días
+CE,477637843,5916369425,Cliente524 Ramírez,Compra,3554163,Cuenta corriente,Bucaramanga,2024-02-28 09:04:47,1800-01-01,Diagonal 133 #89-3,3780592203,cliente524.716@outlook.com,Sí,219039,30 días
+CE,758715192,3127834978,Cliente525 Ramírez,Retiro,2004049,Tarjeta de crédito,Barranquilla,2024-02-28 09:14:20,1800-01-01,Avenida 86 #57-2,3751702058,correo@,Sí,87078,90 días
+CE,623595427,1878711644,Cliente526 Méndez,Retiro,4339818,Préstamo personal,Cartagena,1709084091,1979-06-21,Carrera 39 #29-42,3936538940,cliente526.834@yahoo.com,No,,
+CC,325491415,3216979620,Cliente527 Gómez,Compra,4912134,Tarjeta de crédito,Bogotá,2024-02-28 11:30:38,1954-07-11,Calle 6 #52-40,3967073975,sincorreo,No,,
+CE,268115562,8156583129,Cliente528 Pérez,Compra,4531748,Inversión,Cali,1709082354,1991-11-24,Carrera 142 #9-31,3475288464,cliente528.654@mail.com,Sí,78547,60 días
+CE,547194301,9467476564,Cliente529 Ramírez,Retiro,2718144,Cuenta corriente,Bogotá,1709100443,1997-07-09,Diagonal 36 #13-21,3539300247,usuario@dominio,Sí,135996,30 días
+CC,583128156,2614493846,Cliente530 Gómez,Pago,1374097,Inversión,Bucaramanga,1709119162,1956-12-01,Diagonal 78 #51-35,3922373015,cliente530.294@mail.com,Sí,865767,90 días
+PAS,875468208,6318949483,Cliente531 Ramírez,Pago,560600,Inversión,Cali,2024-02-28 22:30:48,1951-07-09,Calle 83 #84-13,3195000401,cliente531.978@mail.com,Sí,603939,60 días
+CE,467533065,3673579488,Cliente532 Torres,Compra,1223308,Tarjeta de crédito,Cali,2024-02-28 12:13:52,1997-05-14,Diagonal 13 #24-42,3873656858,correo@.,No,,
+CC,193250046,3080745318,Cliente533 Pérez,Depósito,927830,Tarjeta de crédito,Medellín,1709163175,1964-04-23,Diagonal 34 #96-19,3650848247,sincorreo,No,,
+TI,444162004,4973934082,Cliente534 Méndez,Retiro,146418,Préstamo personal,Pereira,1709126910,2000-02-06,Calle 57 #45-28,3745554218,cliente534.560@gmail.com,Sí,334225,90 días
+TI,781348147,5748631617,Cliente535 Ramírez,Compra,1048687,Inversión,Cartagena,1709130686,1993-02-17,Diagonal 120 #83-26,3247438099,@dominio.com,Sí,885784,90 días
+PAS,925696233,2954476937,Cliente536 Ramírez,Transferencia,4537058,Préstamo personal,Cartagena,1709141961,1800-01-01,Avenida 4 #75-25,3293528255,cliente536.786@gmail.com,No,,
+CC,481961245,4047658278,Cliente537 Ramírez,Depósito,4733816,Tarjeta de crédito,Bucaramanga,1709080828,1984-08-25,Avenida 65 #43-11,3670161622,correo@,Sí,717000,90 días
+CC,694538358,3301102897,Cliente538 Méndez,Depósito,3856378,Tarjeta de crédito,Cartagena,2024-02-28 22:47:40,1982-11-13,Calle 28 #60-1,3900616202,cliente538.289@gmail.com,No,,
+CE,336322363,5005345408,Cliente539 Gómez,Pago,765447,Préstamo personal,Cartagena,1709162057,2005-03-26,Diagonal 149 #76-23,3983625367,correo@,Sí,82867,120 días
+TI,682950452,2082651696,Cliente540 Gómez,Retiro,1654859,Tarjeta de crédito,Bucaramanga,1709136502,1983-03-05,Avenida 147 #93-41,3842738810,sincorreo,Sí,970899,120 días
+PAS,334021106,5372670687,Cliente541 Pérez,Pago,1549801,Cuenta corriente,Cartagena,1709115460,2004-03-11,Avenida 48 #73-46,3149290705,cliente541.23@yahoo.com,Sí,672065,60 días
+TI,935432787,7963360136,Cliente542 Méndez,Retiro,3438835,Cuenta corriente,Pereira,2024-02-28 00:11:07,1970-12-13,Avenida 136 #83-29,3116170466,@dominio.com,No,,
+PAS,562797420,8879449201,Cliente543 Gómez,Compra,1255658,Préstamo personal,Cartagena,1709163937,1985-04-01,Calle 138 #28-40,3266335958,cliente543.173@mail.com,Sí,403675,60 días
+CC,831596930,4852381698,Cliente544 Torres,Compra,2711010,Cuenta corriente,Bogotá,1709119670,2000-02-02,Diagonal 148 #61-29,3115795780,cliente544.381@outlook.com,No,,
+CC,201583806,1037346034,Cliente545 Torres,Transferencia,2716527,Préstamo personal,Medellín,1709105607,1800-01-01,Calle 147 #22-39,3348338392,sincorreo,No,,
+PAS,693180019,4628514748,Cliente546 Torres,Pago,4000558,Préstamo personal,Cali,2024-02-28 16:51:46,1963-07-01,Avenida 60 #27-14,3951013505,cliente546.340@outlook.com,No,,
+PAS,146536827,9870874097,Cliente547 Gómez,Compra,4513429,Tarjeta de crédito,Bogotá,2024-02-28 07:18:11,1800-01-01,Carrera 15 #21-48,3146747386,cliente547.768@gmail.com,Sí,74018,30 días
+CE,564590364,7528334309,Cliente548 Torres,Depósito,3185104,Cuenta de ahorros,Pereira,1709149312,1979-01-21,Diagonal 30 #54-31,3189320207,sincorreo,Sí,566031,30 días
+CE,357926526,5265545387,Cliente549 Gómez,Transferencia,2150991,Tarjeta de crédito,Cali,1709079508,1971-05-24,Avenida 97 #54-31,3627917127,cliente549.722@gmail.com,No,,
+CC,998670030,9132388503,Cliente550 Pérez,Transferencia,1145923,Cuenta de ahorros,Barranquilla,2024-02-28 18:30:30,1971-12-23,Carrera 77 #71-10,3500711407,cliente550.47@yahoo.com,Sí,849090,90 días
+CC,143747558,6691296370,Cliente551 Torres,Compra,1332884,Préstamo personal,Cali,2024-02-28 15:44:21,1954-12-10,Diagonal 132 #62-30,3306433236,cliente551.442@mail.com,Sí,931180,120 días
+TI,315497213,1436915990,Cliente552 Torres,Pago,4415241,Cuenta corriente,Bogotá,1709127355,1985-07-15,Avenida 95 #44-14,3148331068,cliente552.365@outlook.com,Sí,226336,90 días
+CE,803950206,3374819677,Cliente553 Méndez,Pago,2968795,Inversión,Cali,1709096600,2002-10-08,Avenida 52 #46-19,3415947814,cliente553.377@mail.com,No,,
+PAS,175585797,7189372260,Cliente554 Gómez,Depósito,503195,Inversión,Medellín,1709118339,1800-01-01,Carrera 138 #82-1,3173543241,cliente554.892@mail.com,Sí,739920,60 días
+CE,113196208,5536337157,Cliente555 Méndez,Retiro,4369303,Cuenta corriente,Bogotá,1709127177,1965-02-04,Avenida 30 #89-38,3986460413,@dominio.com,No,,
+CE,900530657,1310561403,Cliente556 Ramírez,Transferencia,4742926,Inversión,Cartagena,2024-02-28 23:35:54,1966-02-16,Calle 20 #13-46,3671281468,cliente556.479@outlook.com,No,,
+TI,893620789,7412948814,Cliente557 Pérez,Pago,1675020,Inversión,Pereira,2024-02-28 22:42:42,1961-07-27,Avenida 107 #69-15,3998338636,correo@.,Sí,260321,120 días
+PAS,346039344,9841337244,Cliente558 Ramírez,Retiro,1790894,Cuenta de ahorros,Cartagena,2024-02-28 05:11:54,1979-07-20,Calle 136 #31-15,3359602795,cliente558.128@yahoo.com,No,,
+TI,991968307,9037130545,Cliente559 Ramírez,Pago,2876669,Tarjeta de crédito,Pereira,2024-02-28 16:09:37,2005-07-05,Diagonal 7 #68-43,3199022164,cliente559.91@gmail.com,Sí,671363,90 días
+TI,762662405,9994511553,Cliente560 Gómez,Transferencia,4515923,Cuenta corriente,Bogotá,1709122155,2005-01-07,Calle 45 #54-29,3561820665,usuario@dominio,Sí,517101,120 días
+CE,134745517,2539963758,Cliente561 Ramírez,Transferencia,3190963,Préstamo personal,Bucaramanga,2024-02-28 10:40:00,1980-05-18,Avenida 131 #37-49,3417819310,cliente561.132@gmail.com,No,,
+TI,411532236,5327685265,Cliente562 Pérez,Compra,4741451,Cuenta de ahorros,Bucaramanga,2024-02-28 10:25:02,1992-04-20,Carrera 95 #10-31,3152596509,cliente562.728@gmail.com,No,,
+TI,528243123,7686282859,Cliente563 Pérez,Pago,2521010,Préstamo personal,Cartagena,2024-02-28 06:05:50,1971-08-16,Calle 65 #37-30,3362110247,cliente563.657@yahoo.com,No,,
+CE,593130320,2604866102,Cliente564 Méndez,Pago,3265092,Cuenta de ahorros,Barranquilla,2024-02-28 06:27:11,1987-04-23,Avenida 2 #92-45,3580182867,cliente564.307@mail.com,Sí,752028,120 días
+CC,508857140,5832614769,Cliente565 Pérez,Pago,742871,Tarjeta de crédito,Bogotá,1709151695,1984-02-08,Avenida 148 #6-19,3350220727,usuario@dominio,Sí,371865,120 días
+CC,192588361,6982022943,Cliente566 Méndez,Depósito,4518862,Tarjeta de crédito,Barranquilla,1709121387,1800-01-01,Diagonal 63 #5-43,3928687173,cliente566.265@outlook.com,No,,
+PAS,183078828,3563604262,Cliente567 Torres,Retiro,2321890,Cuenta de ahorros,Medellín,1709118887,1966-02-12,Carrera 150 #20-7,3357362665,cliente567.713@gmail.com,Sí,845452,60 días
+CE,882100522,4275210285,Cliente568 Gómez,Depósito,1905913,Tarjeta de crédito,Pereira,2024-02-28 15:13:59,1994-12-04,Carrera 55 #71-44,3646196433,correo@.,No,,
+TI,457038070,8623107596,Cliente569 Pérez,Pago,2888925,Tarjeta de crédito,Barranquilla,2024-02-28 16:56:52,1950-10-12,Avenida 56 #66-38,3869114895,usuario@dominio,Sí,70839,120 días
+TI,366537120,9355896997,Cliente570 Ramírez,Compra,4440314,Cuenta corriente,Cartagena,1709130164,1988-02-24,Calle 57 #73-46,3171370882,cliente570.92@gmail.com,Sí,668093,30 días
+TI,223863530,4914949138,Cliente571 Gómez,Pago,2958889,Cuenta de ahorros,Bucaramanga,1709106954,1966-01-27,Avenida 65 #84-9,3964820739,cliente571.802@mail.com,Sí,299581,60 días
+PAS,349696722,2227617176,Cliente572 Gómez,Compra,3902046,Cuenta corriente,Pereira,1709156379,2000-05-02,Diagonal 26 #25-35,3196675467,cliente572.365@yahoo.com,No,,
+PAS,399347853,9377016043,Cliente573 Méndez,Transferencia,1222575,Cuenta corriente,Cali,1709104319,1993-03-12,Avenida 117 #74-33,3369162701,sincorreo,No,,
+TI,321529169,7785375110,Cliente574 Pérez,Compra,2172047,Cuenta corriente,Pereira,2024-02-28 23:26:00,1969-08-12,Avenida 57 #39-35,3808111847,cliente574.550@gmail.com,Sí,678964,60 días
+TI,917063955,2301049848,Cliente575 Méndez,Compra,4720746,Cuenta de ahorros,Medellín,1709089216,1992-05-13,Carrera 74 #25-1,3467894414,@dominio.com,Sí,579714,90 días
+PAS,210954301,2961877935,Cliente576 Méndez,Transferencia,3550806,Cuenta de ahorros,Barranquilla,2024-02-28 02:55:01,1971-11-20,Diagonal 47 #85-25,3123640989,cliente576.865@mail.com,Sí,576373,30 días
+CE,719493348,1409102238,Cliente577 Gómez,Transferencia,4960977,Préstamo personal,Bogotá,1709104283,1800-01-01,Diagonal 22 #32-49,3380632838,cliente577.604@outlook.com,Sí,723280,120 días
+PAS,383563620,6964116926,Cliente578 Méndez,Compra,898534,Préstamo personal,Pereira,1709093653,1951-05-25,Calle 21 #33-8,3631853214,sincorreo,No,,
+PAS,624462092,1373228858,Cliente579 Pérez,Compra,1513331,Cuenta de ahorros,Pereira,2024-02-28 10:47:58,2001-02-10,Diagonal 69 #26-48,3499048203,cliente579.421@mail.com,Sí,480547,90 días
+CE,901257983,5043310227,Cliente580 Méndez,Compra,679048,Tarjeta de crédito,Cali,1709123314,1954-08-22,Calle 53 #13-36,3854021629,cliente580.533@gmail.com,No,,
+PAS,699494626,6554492985,Cliente581 Méndez,Pago,2190375,Tarjeta de crédito,Barranquilla,1709152340,1991-11-06,Carrera 12 #42-35,3409535343,cliente581.728@yahoo.com,Sí,148182,90 días
+CC,864541955,7572268987,Cliente582 Ramírez,Compra,696910,Préstamo personal,Bucaramanga,2024-02-28 21:53:07,1981-01-10,Avenida 27 #10-9,3733983020,correo@,Sí,242893,60 días
+CE,811599634,7962888316,Cliente583 Gómez,Retiro,934512,Tarjeta de crédito,Pereira,2024-02-28 11:37:13,1998-11-06,Carrera 115 #43-23,3352869068,usuario@dominio,Sí,271577,30 días
+PAS,625312225,2923715507,Cliente584 Méndez,Retiro,1823529,Inversión,Medellín,1709135920,2004-09-07,Avenida 85 #66-35,3311220485,@dominio.com,Sí,422757,30 días
+TI,861741402,4518868188,Cliente585 Torres,Compra,3148953,Inversión,Barranquilla,2024-02-28 02:36:42,1989-05-02,Carrera 34 #14-44,3354554264,correo@.,No,,
+CC,152680954,9593372992,Cliente586 Torres,Retiro,513436,Cuenta de ahorros,Bucaramanga,1709117135,1800-01-01,Carrera 30 #99-30,3814743762,correo@.,No,,
+CC,997834706,9512853749,Cliente587 Gómez,Pago,2282208,Tarjeta de crédito,Bucaramanga,2024-02-28 15:49:14,1993-09-04,Diagonal 28 #37-8,3403047059,cliente587.161@gmail.com,No,,
+PAS,530594319,8027756667,Cliente588 Ramírez,Pago,4766413,Préstamo personal,Bucaramanga,1709163545,1966-03-27,Calle 41 #49-8,3188492532,cliente588.402@mail.com,No,,
+PAS,261672776,8165043168,Cliente589 Torres,Depósito,3089786,Préstamo personal,Pereira,1709121725,1976-05-24,Avenida 31 #33-6,3677715047,usuario@dominio,Sí,380472,60 días
+CE,552955387,4156855320,Cliente590 Pérez,Compra,2551127,Inversión,Pereira,2024-02-28 21:52:41,1958-02-27,Avenida 126 #57-3,3945004840,cliente590.852@gmail.com,No,,
+CE,467309113,7820338326,Cliente591 Ramírez,Transferencia,206843,Cuenta corriente,Medellín,2024-02-28 08:45:11,1954-03-19,Calle 52 #79-48,3286383691,usuario@dominio,Sí,607529,30 días
+CE,930798258,1038510850,Cliente592 Méndez,Pago,3373669,Tarjeta de crédito,Pereira,2024-02-28 22:36:33,1982-03-07,Carrera 123 #88-23,3211442749,correo@,No,,
+PAS,251146723,2920344612,Cliente593 Ramírez,Retiro,2719262,Cuenta corriente,Cartagena,2024-02-28 18:33:06,1800-01-01,Carrera 93 #79-28,3432874991,cliente593.610@mail.com,No,,
+CE,833167008,2930313469,Cliente594 Méndez,Transferencia,4459373,Tarjeta de crédito,Pereira,2024-02-28 11:44:13,1800-01-01,Diagonal 2 #4-6,3678567486,correo@,Sí,998468,90 días
+CE,651563285,1445551821,Cliente595 Torres,Pago,2223264,Cuenta corriente,Barranquilla,1709156381,1800-01-01,Calle 96 #85-40,3878367543,cliente595.235@mail.com,Sí,237515,120 días
+CE,770716151,4355121362,Cliente596 Torres,Compra,4292220,Préstamo personal,Cali,2024-02-28 11:45:07,1800-01-01,Calle 112 #99-11,3817631919,@dominio.com,Sí,232349,60 días
+CE,405554458,6982677127,Cliente597 Ramírez,Depósito,2160813,Cuenta de ahorros,Bucaramanga,2024-02-28 02:11:18,1965-04-20,Diagonal 130 #94-6,3159455335,@dominio.com,No,,
+CE,565171453,8402814542,Cliente598 Méndez,Retiro,4304260,Inversión,Medellín,1709102692,1999-03-11,Carrera 13 #71-45,3686949582,cliente598.317@yahoo.com,Sí,575554,60 días
+PAS,436572982,8514476001,Cliente599 Méndez,Compra,3355772,Tarjeta de crédito,Cali,1709132310,1956-01-11,Carrera 109 #26-48,3375381913,cliente599.108@gmail.com,Sí,872470,90 días
+CC,469126268,9952570376,Cliente600 Gómez,Compra,3459127,Préstamo personal,Cartagena,2024-02-28 11:26:28,1800-01-01,Avenida 68 #65-46,3690324052,correo@,No,,
+CE,347558077,1520866291,Cliente601 Méndez,Transferencia,1738798,Préstamo personal,Bucaramanga,2024-02-28 02:29:45,1800-01-01,Carrera 44 #96-23,3348563151,sincorreo,No,,
+CE,612127202,6595029391,Cliente602 Pérez,Compra,2497427,Tarjeta de crédito,Barranquilla,2024-02-28 00:31:40,1800-01-01,Carrera 104 #98-5,3404758640,correo@,Sí,3583,90 días
+PAS,147382779,2002772579,Cliente603 Méndez,Pago,3113357,Préstamo personal,Cali,2024-02-28 16:25:22,1967-01-13,Calle 41 #4-38,3151917187,cliente603.779@outlook.com,No,,
+PAS,775377313,8169289760,Cliente604 Torres,Pago,1054059,Préstamo personal,Medellín,2024-02-28 21:00:49,1986-04-24,Carrera 84 #99-28,3610229404,usuario@dominio,Sí,361232,90 días
+CE,912830169,5799828173,Cliente605 Pérez,Pago,1377780,Cuenta corriente,Cartagena,1709117249,1973-10-22,Avenida 1 #78-44,3234583364,cliente605.628@gmail.com,No,,
+PAS,481439293,2402417201,Cliente606 Méndez,Compra,3033287,Tarjeta de crédito,Medellín,1709087275,1990-12-24,Carrera 67 #85-22,3112561045,@dominio.com,No,,
+TI,991409695,4257929477,Cliente607 Gómez,Depósito,4083541,Inversión,Pereira,1709109992,1959-03-05,Carrera 122 #5-49,3322591793,cliente607.946@mail.com,No,,
+PAS,992268698,2719341564,Cliente608 Torres,Compra,1918730,Cuenta corriente,Bucaramanga,1709135278,1980-08-18,Avenida 12 #95-4,3598018123,cliente608.106@gmail.com,Sí,872686,90 días
+PAS,420825846,7377732320,Cliente609 Torres,Compra,1450807,Préstamo personal,Barranquilla,1709079569,1981-03-27,Diagonal 137 #20-35,3892768836,cliente609.443@mail.com,No,,
+TI,719656481,4066212189,Cliente610 Pérez,Compra,285711,Tarjeta de crédito,Pereira,2024-02-28 02:55:21,1800-01-01,Calle 150 #78-11,3515480671,cliente610.411@outlook.com,Sí,879808,120 días
+CE,588450149,5250829994,Cliente611 Pérez,Compra,3316080,Cuenta corriente,Bogotá,2024-02-28 16:32:31,1982-10-09,Calle 120 #96-48,3860077116,sincorreo,Sí,266944,60 días
+CE,510519549,5736223201,Cliente612 Ramírez,Transferencia,1831721,Cuenta de ahorros,Pereira,1709129108,1978-08-26,Diagonal 32 #66-9,3839773627,cliente612.368@yahoo.com,No,,
+PAS,463526496,3689925640,Cliente613 Pérez,Transferencia,3087774,Cuenta corriente,Cali,2024-02-28 04:15:18,1987-09-06,Diagonal 83 #43-4,3853373142,cliente613.941@gmail.com,Sí,794724,120 días
+CE,349931250,4404409953,Cliente614 Méndez,Depósito,2372382,Cuenta corriente,Pereira,2024-02-28 00:06:39,1970-06-20,Calle 99 #72-42,3646966731,cliente614.975@outlook.com,Sí,37097,60 días
+TI,648142148,6492451318,Cliente615 Torres,Retiro,2683089,Tarjeta de crédito,Medellín,1709097374,1990-07-28,Avenida 119 #10-2,3844495981,@dominio.com,No,,
+TI,417231597,4930265654,Cliente616 Torres,Retiro,1803035,Tarjeta de crédito,Bogotá,2024-02-28 14:47:26,1989-11-10,Avenida 74 #37-42,3540570768,cliente616.213@mail.com,No,,
+TI,141280095,6494764608,Cliente617 Gómez,Depósito,525710,Inversión,Pereira,2024-02-28 02:36:30,1800-01-01,Avenida 110 #36-29,3795206746,cliente617.119@mail.com,Sí,6362,120 días
+TI,364215353,9785254154,Cliente618 Pérez,Compra,401860,Préstamo personal,Medellín,2024-02-28 01:35:56,1997-08-16,Calle 5 #16-32,3384966083,correo@.,Sí,885124,60 días
+PAS,199626559,5724169694,Cliente619 Torres,Pago,3327946,Inversión,Medellín,2024-02-28 05:44:45,1971-08-06,Calle 122 #7-42,3606835569,usuario@dominio,Sí,778754,60 días
+PAS,799377807,5983482826,Cliente620 Torres,Depósito,3793026,Inversión,Barranquilla,1709133117,1993-06-28,Avenida 7 #65-22,3373426237,@dominio.com,Sí,144183,60 días
+CE,376414926,1035862807,Cliente621 Méndez,Compra,632723,Cuenta corriente,Medellín,1709162569,2002-01-08,Diagonal 78 #9-13,3590561480,correo@,Sí,965371,60 días
+CC,350010911,8433822108,Cliente622 Ramírez,Compra,3277836,Tarjeta de crédito,Cartagena,2024-02-28 01:29:56,1986-02-02,Carrera 8 #93-25,3833902815,sincorreo,No,,
+TI,353328291,6613695297,Cliente623 Méndez,Retiro,3171542,Tarjeta de crédito,Medellín,1709080593,1952-11-08,Diagonal 97 #56-24,3464807855,cliente623.684@mail.com,Sí,534392,120 días
+CE,755617676,8163285933,Cliente624 Pérez,Depósito,2832064,Cuenta de ahorros,Medellín,1709104565,1969-04-25,Diagonal 20 #12-11,3479330359,cliente624.106@outlook.com,Sí,28652,30 días
+CC,126842839,3433909728,Cliente625 Ramírez,Retiro,1992066,Cuenta de ahorros,Pereira,1709124884,1996-10-04,Diagonal 138 #56-29,3892322451,cliente625.620@mail.com,No,,
+PAS,370442349,4319035131,Cliente626 Pérez,Pago,1795429,Tarjeta de crédito,Bucaramanga,2024-02-28 03:50:14,1997-11-14,Diagonal 5 #58-36,3629910562,cliente626.378@yahoo.com,Sí,263899,90 días
+CC,302054027,8506134877,Cliente627 Torres,Transferencia,2166233,Cuenta de ahorros,Pereira,1709135370,1958-08-17,Avenida 124 #54-2,3595524956,usuario@dominio,No,,
+TI,768576385,7470096616,Cliente628 Méndez,Depósito,1861835,Cuenta corriente,Barranquilla,2024-02-28 04:56:09,1991-10-25,Calle 16 #34-14,3378241020,cliente628.484@yahoo.com,Sí,774498,120 días
+CC,373929964,3261155939,Cliente629 Ramírez,Depósito,4124109,Préstamo personal,Pereira,2024-02-28 04:43:17,1990-03-25,Diagonal 86 #11-45,3583256177,correo@.,Sí,847337,60 días
+TI,770697604,2599548052,Cliente630 Ramírez,Compra,864360,Cuenta de ahorros,Medellín,1709129146,1995-05-26,Carrera 78 #54-48,3528455571,correo@.,Sí,159450,30 días
+TI,191242959,3665655336,Cliente631 Ramírez,Depósito,3744455,Tarjeta de crédito,Bogotá,1709132286,1976-08-28,Avenida 43 #70-10,3908162375,correo@,No,,
+CC,809887042,3385726276,Cliente632 Ramírez,Transferencia,1294593,Préstamo personal,Barranquilla,1709086780,1990-06-27,Avenida 102 #100-17,3711564929,@dominio.com,Sí,138670,120 días
+PAS,230733491,2931326456,Cliente633 Gómez,Pago,1913775,Préstamo personal,Medellín,2024-02-28 01:13:57,1800-01-01,Avenida 127 #90-11,3842952636,correo@.,Sí,432388,30 días
+CE,528093692,7742055326,Cliente634 Méndez,Depósito,1517612,Cuenta de ahorros,Pereira,1709135052,1994-09-24,Avenida 73 #82-11,3967288496,correo@.,No,,
+PAS,270485153,7612900309,Cliente635 Méndez,Depósito,74798,Préstamo personal,Bucaramanga,2024-02-28 01:09:49,1800-01-01,Diagonal 55 #38-32,3788799824,sincorreo,No,,
+CE,921343937,6901689816,Cliente636 Pérez,Depósito,4516714,Cuenta de ahorros,Pereira,2024-02-28 07:55:35,1981-04-26,Avenida 93 #78-9,3285082169,cliente636.123@yahoo.com,No,,
+CC,672015892,2961511635,Cliente637 Torres,Transferencia,4306349,Préstamo personal,Pereira,1709155019,1800-01-01,Diagonal 127 #33-16,3314548015,cliente637.806@yahoo.com,No,,
+TI,727969949,2107006631,Cliente638 Torres,Retiro,3966711,Préstamo personal,Pereira,1709101768,1972-01-18,Diagonal 89 #64-22,3777986588,cliente638.678@mail.com,No,,
+CC,780745246,6044218448,Cliente639 Pérez,Compra,253697,Tarjeta de crédito,Cali,2024-02-28 18:18:45,1988-06-07,Carrera 137 #60-28,3437635402,correo@,Sí,544256,90 días
+TI,609277020,5756815100,Cliente640 Torres,Pago,1302675,Tarjeta de crédito,Bucaramanga,1709121905,1976-01-09,Calle 134 #80-21,3718030515,correo@.,No,,
+CC,243394000,7486211038,Cliente641 Méndez,Retiro,4148380,Inversión,Medellín,1709126988,1992-12-19,Diagonal 31 #12-45,3230298777,@dominio.com,No,,
+CC,823326899,6021458465,Cliente642 Pérez,Retiro,2321100,Préstamo personal,Cali,2024-02-28 14:22:33,1997-11-25,Avenida 46 #48-1,3694947567,@dominio.com,No,,
+PAS,469772082,1264984308,Cliente643 Pérez,Pago,16505,Préstamo personal,Barranquilla,2024-02-28 10:39:27,1800-01-01,Diagonal 134 #63-24,3788644799,cliente643.199@outlook.com,Sí,224641,60 días
+TI,130561967,7656787635,Cliente644 Méndez,Depósito,4347795,Tarjeta de crédito,Medellín,2024-02-28 01:42:09,1953-01-21,Carrera 150 #36-31,3112640261,correo@,No,,
+PAS,939377223,8045216913,Cliente645 Ramírez,Retiro,3789259,Préstamo personal,Bucaramanga,2024-02-28 12:45:06,1951-03-22,Avenida 68 #53-28,3183456816,cliente645.208@outlook.com,Sí,507034,60 días
+TI,967805580,4882075732,Cliente646 Pérez,Pago,1668686,Tarjeta de crédito,Pereira,2024-02-28 03:03:33,2001-06-06,Calle 58 #46-36,3462211435,@dominio.com,No,,
+PAS,513669371,1858496988,Cliente647 Torres,Pago,3086806,Préstamo personal,Cali,1709164286,1988-05-04,Diagonal 30 #92-43,3593626541,usuario@dominio,Sí,293247,60 días
+TI,620603082,7097657868,Cliente648 Pérez,Transferencia,887046,Cuenta de ahorros,Medellín,2024-02-28 21:35:52,1800-01-01,Carrera 11 #79-19,3522139079,correo@,No,,
+PAS,678673815,9688298552,Cliente649 Torres,Depósito,1157874,Inversión,Medellín,2024-02-28 21:27:29,1800-01-01,Carrera 35 #59-11,3769695800,cliente649.280@mail.com,Sí,659287,120 días
+PAS,842386352,7094593077,Cliente650 Ramírez,Depósito,4457905,Tarjeta de crédito,Bogotá,2024-02-28 21:57:35,1958-01-26,Diagonal 84 #34-12,3788324964,cliente650.688@mail.com,No,,
+PAS,516716969,1884750998,Cliente651 Ramírez,Depósito,3394776,Tarjeta de crédito,Medellín,1709122278,1982-04-05,Calle 28 #36-1,3424918156,cliente651.984@gmail.com,Sí,690465,120 días
+TI,104678074,8985011977,Cliente652 Ramírez,Pago,1247523,Cuenta corriente,Medellín,2024-02-28 17:37:39,1973-09-22,Diagonal 22 #72-3,3503741181,cliente652.50@outlook.com,Sí,567120,90 días
+CC,359198633,9688782335,Cliente653 Pérez,Retiro,642152,Cuenta de ahorros,Medellín,2024-02-28 15:55:03,1987-06-07,Diagonal 60 #85-20,3875552752,sincorreo,Sí,276583,60 días
+CC,154126626,3382623723,Cliente654 Méndez,Depósito,1536430,Préstamo personal,Medellín,1709142678,1950-06-22,Calle 121 #12-26,3161558550,@dominio.com,No,,
+CE,269078624,4014469945,Cliente655 Ramírez,Depósito,1169646,Inversión,Medellín,1709121125,1974-09-03,Carrera 46 #47-38,3190417345,cliente655.584@gmail.com,No,,
+CC,146665621,5346808938,Cliente656 Méndez,Compra,2195121,Inversión,Medellín,2024-02-28 03:21:51,2002-10-04,Diagonal 145 #52-43,3408109642,correo@,No,,
+TI,598093226,6268748853,Cliente657 Ramírez,Pago,2877755,Inversión,Bucaramanga,1709130555,1993-08-19,Diagonal 127 #39-10,3373372659,cliente657.392@mail.com,No,,
+CC,601693868,1590493546,Cliente658 Méndez,Retiro,4473876,Tarjeta de crédito,Bucaramanga,1709142086,1800-01-01,Diagonal 64 #31-17,3699050744,@dominio.com,Sí,131429,60 días
+TI,421079990,1532103932,Cliente659 Pérez,Retiro,583573,Tarjeta de crédito,Bogotá,2024-02-28 10:26:28,1998-06-25,Avenida 140 #6-6,3320691814,usuario@dominio,No,,
+CE,533231553,6438981782,Cliente660 Torres,Transferencia,4298857,Tarjeta de crédito,Pereira,2024-02-28 15:38:27,2004-03-28,Diagonal 79 #68-42,3875452158,cliente660.200@mail.com,No,,
+PAS,814042064,2218095745,Cliente661 Pérez,Depósito,1599712,Cuenta de ahorros,Bucaramanga,2024-02-28 12:01:59,1982-10-23,Avenida 25 #71-12,3111660368,usuario@dominio,No,,
+PAS,927316954,6081176869,Cliente662 Pérez,Compra,1344346,Préstamo personal,Cali,2024-02-28 12:12:29,1968-10-10,Diagonal 40 #73-5,3516380835,correo@,Sí,336785,30 días
+CE,378547457,7571138338,Cliente663 Ramírez,Retiro,3815766,Cuenta corriente,Barranquilla,1709081449,1953-09-23,Calle 140 #96-29,3251859256,correo@.,No,,
+PAS,633556685,6521566478,Cliente664 Ramírez,Transferencia,528840,Préstamo personal,Cali,2024-02-28 18:20:22,1800-01-01,Calle 138 #81-4,3290671137,sincorreo,Sí,665880,30 días
+TI,939305978,1903357922,Cliente665 Torres,Depósito,1282734,Cuenta corriente,Medellín,1709129914,1963-04-08,Carrera 42 #30-46,3597968981,cliente665.902@gmail.com,Sí,97490,60 días
+TI,269324196,4627914827,Cliente666 Pérez,Compra,3476013,Inversión,Cali,1709122294,1968-01-21,Carrera 145 #30-6,3321389350,cliente666.397@gmail.com,No,,
+CE,917458429,6202439783,Cliente667 Gómez,Pago,4106431,Cuenta corriente,Cartagena,1709158402,1961-01-02,Calle 84 #81-38,3280190943,cliente667.383@yahoo.com,No,,
+PAS,548661921,8708906488,Cliente668 Pérez,Depósito,4792909,Cuenta de ahorros,Cartagena,2024-02-28 15:43:12,1969-04-19,Diagonal 104 #94-48,3951795609,cliente668.322@yahoo.com,No,,
+CE,345428134,6740425075,Cliente669 Torres,Pago,1415640,Cuenta de ahorros,Bogotá,1709152499,2005-07-26,Avenida 64 #29-10,3555838263,sincorreo,Sí,918361,60 días
+PAS,761868297,3872860970,Cliente670 Gómez,Depósito,4563614,Tarjeta de crédito,Bogotá,1709111986,1968-05-06,Calle 7 #26-8,3835275406,cliente670.50@mail.com,Sí,357442,120 días
+CC,560753159,7950227357,Cliente671 Pérez,Pago,216319,Préstamo personal,Barranquilla,1709153628,1994-12-10,Carrera 33 #35-50,3730714934,cliente671.301@gmail.com,No,,
+TI,692628099,8207614207,Cliente672 Torres,Compra,3343503,Cuenta corriente,Bogotá,2024-02-28 18:43:48,1969-08-12,Avenida 80 #76-48,3804389880,sincorreo,Sí,91165,120 días
+CC,207838935,4541139968,Cliente673 Méndez,Pago,91888,Cuenta corriente,Medellín,2024-02-28 06:43:23,2005-03-10,Avenida 87 #90-26,3293548853,usuario@dominio,Sí,83724,30 días
+TI,269863731,4586067586,Cliente674 Pérez,Compra,4619772,Cuenta corriente,Medellín,2024-02-28 13:59:35,1978-07-03,Avenida 135 #20-2,3618537430,cliente674.322@outlook.com,No,,
+CC,631615823,8892387848,Cliente675 Méndez,Transferencia,4898674,Cuenta corriente,Cartagena,2024-02-28 01:58:50,1800-01-01,Carrera 114 #57-38,3102204338,correo@,No,,
+CC,239588671,9551992707,Cliente676 Pérez,Depósito,1552032,Tarjeta de crédito,Cali,2024-02-28 06:26:50,1974-04-09,Diagonal 130 #88-46,3852576515,correo@,No,,
+CC,814190826,6907562875,Cliente677 Torres,Depósito,1039143,Préstamo personal,Cali,2024-02-28 07:44:24,1998-08-11,Avenida 76 #6-41,3371406388,correo@.,Sí,548187,90 días
+TI,298795336,7219965662,Cliente678 Gómez,Pago,2591156,Préstamo personal,Bucaramanga,2024-02-28 11:34:33,1986-02-21,Calle 74 #30-39,3724636018,cliente678.436@mail.com,Sí,27273,120 días
+PAS,878478149,5061861793,Cliente679 Gómez,Compra,53863,Cuenta corriente,Bogotá,2024-02-28 02:41:24,2002-09-05,Diagonal 62 #9-5,3194139619,cliente679.752@yahoo.com,Sí,46011,60 días
+CC,105848768,4729639784,Cliente680 Ramírez,Transferencia,3127611,Inversión,Cali,1709083281,1965-11-20,Avenida 53 #64-36,3838557442,@dominio.com,Sí,913332,120 días
+CC,235694964,2128810412,Cliente681 Pérez,Pago,251180,Préstamo personal,Barranquilla,1709142709,1800-01-01,Diagonal 98 #24-29,3299715740,cliente681.41@gmail.com,No,,
+CE,310499400,2962687219,Cliente682 Méndez,Transferencia,2957320,Préstamo personal,Medellín,1709098595,1800-01-01,Carrera 122 #25-16,3619448127,cliente682.875@mail.com,Sí,204632,90 días
+CC,869978478,3794201837,Cliente683 Méndez,Pago,3245195,Cuenta de ahorros,Pereira,2024-02-28 06:40:19,1970-03-01,Avenida 101 #84-21,3554778274,@dominio.com,Sí,135060,60 días
+TI,534131465,1724699356,Cliente684 Méndez,Compra,4578843,Inversión,Pereira,2024-02-28 08:12:53,1989-07-07,Avenida 103 #88-8,3807355925,cliente684.742@gmail.com,Sí,924730,30 días
+CE,552499687,1746782145,Cliente685 Torres,Transferencia,314876,Inversión,Cali,2024-02-28 02:44:33,1955-06-14,Avenida 11 #79-10,3493578114,sincorreo,Sí,528357,30 días
+CE,966840006,4953215746,Cliente686 Pérez,Pago,2035651,Inversión,Bucaramanga,1709152789,2005-02-15,Carrera 40 #52-43,3428682969,correo@.,No,,
+PAS,432823399,6664818071,Cliente687 Ramírez,Retiro,3964565,Cuenta de ahorros,Pereira,2024-02-28 12:13:29,1950-11-21,Carrera 91 #53-19,3192334352,@dominio.com,No,,
+CC,165037974,4231488145,Cliente688 Pérez,Depósito,3964662,Inversión,Pereira,2024-02-28 22:17:07,1953-07-18,Diagonal 61 #15-15,3181073618,cliente688.264@gmail.com,No,,
+PAS,997147470,2424759024,Cliente689 Méndez,Pago,4709130,Préstamo personal,Cartagena,2024-02-28 08:58:20,1989-01-09,Carrera 54 #78-28,3552589953,cliente689.755@yahoo.com,No,,
+PAS,742430982,6997129601,Cliente690 Ramírez,Depósito,3170899,Cuenta de ahorros,Pereira,2024-02-28 14:49:19,1961-12-04,Avenida 51 #25-47,3820955953,cliente690.692@yahoo.com,No,,
+CC,129963135,8371336703,Cliente691 Ramírez,Transferencia,3676460,Préstamo personal,Medellín,1709104217,1964-03-28,Calle 82 #26-32,3478495589,@dominio.com,No,,
+CE,626462244,4173972047,Cliente692 Ramírez,Depósito,1785384,Cuenta de ahorros,Cali,2024-02-28 22:27:13,1957-02-06,Diagonal 125 #48-23,3557299175,usuario@dominio,No,,
+CC,350083282,8270140650,Cliente693 Ramírez,Pago,1130864,Inversión,Pereira,2024-02-28 16:27:50,1984-01-17,Diagonal 31 #42-39,3404731711,cliente693.865@mail.com,Sí,185925,30 días
+CE,563021038,4644898974,Cliente694 Ramírez,Retiro,3283584,Préstamo personal,Medellín,2024-02-28 11:31:40,2004-02-24,Avenida 53 #91-20,3273722807,cliente694.989@mail.com,No,,
+PAS,513425801,7794901606,Cliente695 Torres,Retiro,492202,Préstamo personal,Pereira,2024-02-28 04:34:46,1992-02-24,Calle 138 #43-7,3107757897,sincorreo,No,,
+PAS,902884179,5465930634,Cliente696 Méndez,Transferencia,355780,Cuenta corriente,Cartagena,1709097890,1954-06-08,Carrera 144 #60-5,3842115854,cliente696.211@mail.com,Sí,144226,60 días
+PAS,319127893,3431207351,Cliente697 Méndez,Compra,455511,Tarjeta de crédito,Bogotá,1709115268,1973-10-19,Avenida 147 #53-40,3917666774,cliente697.294@mail.com,No,,
+CE,574467859,5905281432,Cliente698 Torres,Compra,1738291,Cuenta corriente,Bucaramanga,2024-02-28 22:13:10,1994-01-10,Diagonal 42 #85-9,3496279280,cliente698.110@mail.com,Sí,543271,90 días
+CC,769986047,5507665949,Cliente699 Torres,Pago,3674099,Inversión,Barranquilla,1709139139,1986-08-09,Avenida 33 #18-17,3897081497,cliente699.684@mail.com,No,,
+CE,459863795,3480076704,Cliente700 Torres,Pago,3971370,Cuenta de ahorros,Cali,1709135836,1990-06-28,Avenida 18 #42-7,3429251648,cliente700.597@gmail.com,Sí,796533,30 días
+PAS,448035335,1549225027,Cliente701 Pérez,Compra,2315734,Inversión,Bogotá,1709087155,1976-09-15,Carrera 74 #36-29,3968437347,cliente701.961@mail.com,Sí,924355,60 días
+CC,423327079,3072666274,Cliente702 Méndez,Compra,2426073,Inversión,Bogotá,1709085981,1962-07-26,Carrera 118 #99-30,3270486512,@dominio.com,No,,
+CC,629539129,6122921176,Cliente703 Gómez,Pago,4784934,Tarjeta de crédito,Cali,2024-02-28 03:34:03,1975-03-12,Calle 52 #8-5,3240768090,cliente703.109@yahoo.com,Sí,985692,30 días
+CC,427481448,4444489728,Cliente704 Pérez,Compra,754414,Cuenta corriente,Cali,2024-02-28 04:47:16,1973-06-04,Diagonal 4 #25-13,3610372032,cliente704.994@yahoo.com,Sí,980004,60 días
+TI,692332309,9105193437,Cliente705 Gómez,Retiro,3764560,Tarjeta de crédito,Bucaramanga,1709150473,1985-10-16,Calle 112 #33-13,3976180178,usuario@dominio,No,,
+PAS,340097298,6529620907,Cliente706 Gómez,Pago,987504,Tarjeta de crédito,Pereira,1709132556,1979-07-14,Diagonal 14 #82-36,3495853799,correo@.,Sí,658583,30 días
+PAS,380926698,3920598645,Cliente707 Gómez,Retiro,2489094,Cuenta corriente,Barranquilla,1709106111,1971-05-13,Diagonal 1 #16-28,3610302474,@dominio.com,No,,
+TI,183427312,3965490885,Cliente708 Méndez,Transferencia,3871614,Préstamo personal,Barranquilla,1709158116,1993-05-14,Carrera 118 #31-37,3411155051,cliente708.725@gmail.com,No,,
+CE,711357379,2466082221,Cliente709 Méndez,Transferencia,1696399,Cuenta de ahorros,Medellín,2024-02-28 08:16:18,1973-04-26,Calle 80 #71-50,3924777246,cliente709.904@yahoo.com,No,,
+CC,392939259,7708300906,Cliente710 Méndez,Transferencia,2418887,Cuenta de ahorros,Bogotá,2024-02-28 00:01:12,1800-01-01,Calle 65 #7-13,3951573879,cliente710.658@outlook.com,No,,
+CC,515515385,3249317031,Cliente711 Ramírez,Retiro,2094580,Tarjeta de crédito,Medellín,2024-02-28 03:36:23,1971-06-15,Calle 134 #7-19,3677727020,usuario@dominio,No,,
+TI,778139898,5232057154,Cliente712 Méndez,Retiro,3052710,Cuenta de ahorros,Medellín,2024-02-28 14:04:25,1959-01-27,Carrera 35 #51-29,3461017137,@dominio.com,No,,
+CC,656976038,8528341641,Cliente713 Pérez,Depósito,2429426,Cuenta corriente,Bucaramanga,2024-02-28 17:44:43,1988-06-02,Carrera 14 #95-10,3964087687,sincorreo,Sí,994947,90 días
+CE,173761672,5933658619,Cliente714 Méndez,Transferencia,3733252,Tarjeta de crédito,Cartagena,2024-02-28 01:17:37,1800-01-01,Carrera 86 #53-29,3443129708,correo@.,Sí,946874,30 días
+TI,565861385,8611535842,Cliente715 Pérez,Transferencia,3078293,Préstamo personal,Bucaramanga,1709093007,1966-12-04,Diagonal 104 #49-42,3194972450,usuario@dominio,Sí,445337,120 días
+PAS,560783901,1462728561,Cliente716 Gómez,Pago,4888307,Cuenta de ahorros,Bogotá,1709144995,1951-04-16,Avenida 59 #62-22,3512662831,cliente716.663@gmail.com,Sí,420721,30 días
+TI,687641139,3909439990,Cliente717 Ramírez,Depósito,2840299,Cuenta de ahorros,Cali,1709116367,2000-09-01,Avenida 24 #65-24,3685721152,sincorreo,Sí,19074,30 días
+CC,582081137,6154306082,Cliente718 Pérez,Depósito,1215824,Cuenta corriente,Cartagena,2024-02-28 14:20:27,1994-09-22,Avenida 28 #13-42,3398868749,usuario@dominio,Sí,110646,120 días
+TI,111590142,9646439788,Cliente719 Méndez,Transferencia,2854813,Inversión,Barranquilla,1709122947,1990-01-03,Diagonal 118 #64-3,3916684718,@dominio.com,Sí,261368,30 días
+TI,116361950,1333210136,Cliente720 Méndez,Compra,807889,Cuenta de ahorros,Bogotá,1709111098,1990-11-22,Diagonal 32 #99-29,3337327638,correo@,Sí,744666,30 días
+PAS,865846139,6821232416,Cliente721 Torres,Pago,2559430,Préstamo personal,Pereira,1709159859,1971-08-01,Avenida 92 #66-38,3938433896,usuario@dominio,No,,
+CE,649700877,2424359773,Cliente722 Méndez,Transferencia,3435501,Inversión,Medellín,2024-02-28 14:55:49,1958-01-12,Diagonal 60 #16-6,3853887850,sincorreo,Sí,390264,30 días
+PAS,806193746,3126799973,Cliente723 Méndez,Transferencia,4683070,Cuenta corriente,Cali,1709146439,1999-10-26,Calle 105 #27-40,3279740679,cliente723.618@outlook.com,Sí,739628,60 días
+TI,720222262,3223246328,Cliente724 Torres,Retiro,732638,Préstamo personal,Medellín,1709103800,1997-07-04,Carrera 72 #4-19,3428063217,cliente724.669@gmail.com,No,,
+TI,734529502,4371189904,Cliente725 Torres,Depósito,121197,Cuenta corriente,Bogotá,1709149877,1967-11-15,Calle 14 #39-23,3849025031,cliente725.533@yahoo.com,No,,
+CE,855538865,7654512785,Cliente726 Méndez,Transferencia,2816689,Cuenta de ahorros,Cali,1709158641,1988-11-17,Carrera 36 #22-37,3801740365,usuario@dominio,Sí,297068,120 días
+PAS,331543875,4201381695,Cliente727 Gómez,Retiro,4995527,Préstamo personal,Medellín,2024-02-28 13:26:44,1800-01-01,Calle 23 #63-42,3251549013,cliente727.241@mail.com,Sí,640761,120 días
+TI,499947025,9179577617,Cliente728 Pérez,Depósito,1808231,Cuenta de ahorros,Cartagena,2024-02-28 04:01:26,1968-11-10,Calle 11 #32-34,3427588000,cliente728.415@outlook.com,Sí,871331,60 días
+CE,114718399,9677414276,Cliente729 Pérez,Depósito,645054,Préstamo personal,Barranquilla,1709105053,1995-03-08,Avenida 68 #86-45,3518126699,sincorreo,No,,
+CE,320182527,1059675951,Cliente730 Gómez,Retiro,710903,Cuenta de ahorros,Pereira,1709092003,2002-05-27,Calle 85 #17-9,3423128186,cliente730.445@gmail.com,No,,
+CE,376212144,9917156817,Cliente731 Pérez,Retiro,1415523,Cuenta de ahorros,Cartagena,2024-02-28 02:30:06,1800-01-01,Carrera 75 #35-27,3322992694,cliente731.698@gmail.com,Sí,568886,120 días
+PAS,747677733,2447437235,Cliente732 Gómez,Transferencia,2126257,Cuenta de ahorros,Barranquilla,1709113783,1999-11-01,Carrera 13 #14-18,3366701294,cliente732.625@outlook.com,No,,
+CE,697037631,6088221558,Cliente733 Torres,Compra,2053378,Inversión,Bogotá,1709128612,1993-02-10,Diagonal 89 #61-21,3249594060,usuario@dominio,No,,
+CE,538344278,6266562565,Cliente734 Pérez,Pago,2249338,Inversión,Cartagena,2024-02-28 08:51:11,1980-05-02,Calle 139 #3-1,3880192166,sincorreo,Sí,951723,120 días
+PAS,530969125,5688055351,Cliente735 Torres,Transferencia,3825141,Cuenta corriente,Cartagena,1709087709,1982-06-08,Avenida 20 #55-35,3176407223,@dominio.com,No,,
+TI,752577852,5793514776,Cliente736 Torres,Depósito,4674296,Préstamo personal,Barranquilla,1709113702,2005-11-23,Calle 52 #11-19,3592801429,sincorreo,Sí,396254,120 días
+CC,963425928,8308100746,Cliente737 Méndez,Depósito,676740,Préstamo personal,Barranquilla,1709128240,1987-02-19,Diagonal 10 #39-17,3176444613,usuario@dominio,No,,
+CC,397368244,2820357786,Cliente738 Pérez,Compra,4650319,Cuenta corriente,Bogotá,2024-02-28 20:33:29,1985-09-26,Diagonal 105 #1-20,3676450073,correo@,No,,
+CE,413629691,1350877252,Cliente739 Gómez,Transferencia,2983455,Cuenta corriente,Medellín,2024-02-28 09:15:20,1988-10-04,Calle 86 #100-45,3407174857,cliente739.10@gmail.com,No,,
+PAS,145986880,7502732024,Cliente740 Torres,Pago,1184844,Cuenta corriente,Cali,1709085314,1983-12-24,Avenida 118 #14-28,3196663592,cliente740.666@gmail.com,No,,
+CC,877331439,2643751868,Cliente741 Ramírez,Compra,3363389,Tarjeta de crédito,Bogotá,1709157251,2002-04-25,Avenida 6 #2-18,3929270924,cliente741.93@gmail.com,Sí,460693,60 días
+CC,775590673,1305600847,Cliente742 Pérez,Pago,2131432,Tarjeta de crédito,Bucaramanga,2024-02-28 15:33:32,1800-01-01,Avenida 32 #62-32,3451202854,cliente742.16@mail.com,Sí,174702,120 días
+CE,270151281,4752750270,Cliente743 Pérez,Retiro,678920,Cuenta de ahorros,Bucaramanga,1709121946,2004-10-18,Avenida 6 #83-9,3491243902,cliente743.606@gmail.com,Sí,644415,120 días
+TI,543460626,7236068596,Cliente744 Ramírez,Transferencia,1914718,Tarjeta de crédito,Barranquilla,2024-02-28 11:45:06,1957-06-28,Avenida 18 #82-8,3624673882,correo@.,Sí,76154,120 días
+PAS,186898338,9176029313,Cliente745 Méndez,Compra,4346998,Inversión,Cali,1709113252,1955-01-20,Carrera 99 #36-4,3880899362,cliente745.9@yahoo.com,Sí,223299,90 días
+PAS,667805668,2403967601,Cliente746 Méndez,Depósito,1255743,Préstamo personal,Cartagena,2024-02-28 23:28:15,1972-12-11,Avenida 30 #48-25,3817303686,cliente746.448@gmail.com,Sí,355370,60 días
+CC,138240001,8933356864,Cliente747 Ramírez,Depósito,345623,Préstamo personal,Barranquilla,1709161781,1800-01-01,Diagonal 127 #19-6,3983641951,cliente747.27@gmail.com,Sí,848453,90 días
+CE,448789391,5164392922,Cliente748 Ramírez,Pago,4652921,Tarjeta de crédito,Cartagena,2024-02-28 03:08:27,2004-11-12,Carrera 20 #3-6,3862830528,cliente748.932@outlook.com,Sí,918456,30 días
+CC,512473463,9825796927,Cliente749 Ramírez,Retiro,1660738,Préstamo personal,Cartagena,1709142350,1966-08-11,Calle 49 #98-42,3203849029,usuario@dominio,Sí,362852,120 días
+CE,369945537,8703667890,Cliente750 Torres,Depósito,504558,Cuenta de ahorros,Medellín,2024-02-28 12:10:12,1951-12-10,Avenida 122 #25-8,3734001726,sincorreo,Sí,399181,60 días
+TI,664727269,8957214664,Cliente751 Ramírez,Compra,4039089,Tarjeta de crédito,Cartagena,1709120669,1971-04-21,Diagonal 9 #34-27,3657574377,cliente751.405@mail.com,No,,
+TI,885192036,7744047592,Cliente752 Ramírez,Transferencia,2459737,Inversión,Barranquilla,2024-02-28 15:30:40,1965-09-13,Avenida 79 #48-2,3416464421,cliente752.417@mail.com,No,,
+PAS,675946656,8934018136,Cliente753 Gómez,Depósito,2913529,Préstamo personal,Bucaramanga,1709155971,1950-01-06,Avenida 14 #38-13,3583674791,correo@.,No,,
+CE,600414962,2736384811,Cliente754 Gómez,Compra,4389950,Tarjeta de crédito,Pereira,1709096292,1968-05-17,Avenida 142 #92-49,3886334298,sincorreo,No,,
+CE,479459147,2527698487,Cliente755 Méndez,Compra,3920237,Cuenta de ahorros,Medellín,2024-02-28 21:41:36,1988-05-07,Carrera 56 #91-32,3904417415,usuario@dominio,Sí,373516,120 días
+PAS,228554860,3471325140,Cliente756 Pérez,Retiro,1035882,Inversión,Barranquilla,2024-02-28 18:53:02,1997-05-22,Carrera 94 #77-13,3953643944,cliente756.171@mail.com,No,,
+CE,414331375,9965209937,Cliente757 Méndez,Pago,1623064,Cuenta de ahorros,Pereira,1709150819,1976-08-11,Diagonal 14 #11-8,3910307486,correo@,No,,
+TI,827619684,4852848409,Cliente758 Torres,Transferencia,4252046,Cuenta de ahorros,Bucaramanga,1709116056,1800-01-01,Avenida 38 #57-2,3941356176,cliente758.557@yahoo.com,No,,
+CE,443496687,9694324714,Cliente759 Torres,Transferencia,3345243,Tarjeta de crédito,Cali,1709150309,1964-01-18,Avenida 123 #78-34,3990597604,cliente759.743@mail.com,No,,
+CC,271430429,3595929688,Cliente760 Torres,Transferencia,3041928,Préstamo personal,Cali,2024-02-28 23:28:06,1992-05-13,Diagonal 109 #5-24,3183375761,cliente760.152@mail.com,No,,
+PAS,849098300,7667071028,Cliente761 Pérez,Depósito,254378,Inversión,Barranquilla,2024-02-28 17:37:24,2004-08-19,Calle 81 #28-8,3485629846,correo@,No,,
+CE,370052311,3895463414,Cliente762 Torres,Depósito,2512313,Cuenta corriente,Medellín,2024-02-28 23:57:19,2003-12-05,Avenida 68 #40-34,3558291632,sincorreo,No,,
+PAS,220325388,2692563727,Cliente763 Méndez,Transferencia,4271100,Préstamo personal,Cali,2024-02-28 00:34:46,1952-07-06,Avenida 106 #26-14,3138192291,@dominio.com,No,,
+PAS,422413185,5411508565,Cliente764 Gómez,Transferencia,4967702,Cuenta corriente,Barranquilla,1709138452,1970-11-24,Calle 86 #28-2,3859689314,cliente764.235@mail.com,No,,
+CE,990934829,8093955958,Cliente765 Ramírez,Depósito,560228,Inversión,Pereira,1709093961,1978-02-26,Carrera 65 #72-48,3116312986,cliente765.300@gmail.com,No,,
+PAS,521484380,9035040457,Cliente766 Ramírez,Transferencia,2236919,Préstamo personal,Cali,1709144052,2005-01-13,Diagonal 74 #41-10,3512428132,usuario@dominio,Sí,872845,120 días
+TI,701523136,5319948713,Cliente767 Ramírez,Depósito,4927921,Inversión,Medellín,2024-02-28 05:11:58,1974-11-17,Avenida 23 #66-11,3266079994,sincorreo,No,,
+TI,968946345,9033823928,Cliente768 Torres,Transferencia,717406,Cuenta corriente,Medellín,2024-02-28 03:52:06,1975-08-28,Carrera 150 #100-45,3315825318,correo@.,Sí,933401,30 días
+CC,241909672,3642461131,Cliente769 Méndez,Retiro,2167051,Préstamo personal,Barranquilla,1709113697,1982-06-15,Avenida 68 #54-20,3729417682,cliente769.771@gmail.com,No,,
+CE,304379680,7370316834,Cliente770 Torres,Retiro,1045261,Inversión,Bucaramanga,1709082660,1993-11-05,Avenida 28 #16-37,3210306158,cliente770.181@outlook.com,Sí,572657,30 días
+PAS,929091384,4287436830,Cliente771 Méndez,Depósito,1381238,Préstamo personal,Barranquilla,2024-02-28 06:59:10,1953-11-24,Avenida 22 #42-6,3823903628,cliente771.164@mail.com,Sí,974042,120 días
+PAS,714217850,5827098862,Cliente772 Ramírez,Compra,4594379,Tarjeta de crédito,Bogotá,2024-02-28 04:42:27,1984-10-14,Avenida 78 #77-14,3245156914,cliente772.845@yahoo.com,No,,
+CC,223060920,3696429060,Cliente773 Ramírez,Compra,4142241,Cuenta de ahorros,Cartagena,2024-02-28 03:37:06,1968-06-18,Carrera 55 #42-12,3462068210,cliente773.212@outlook.com,No,,
+CC,333697920,6426077687,Cliente774 Ramírez,Retiro,1603267,Cuenta de ahorros,Cartagena,2024-02-28 23:47:27,1998-10-08,Diagonal 86 #34-1,3883738137,correo@,Sí,812719,90 días
+CC,359445680,2777735522,Cliente775 Méndez,Depósito,4114790,Cuenta de ahorros,Medellín,2024-02-28 04:55:16,1800-01-01,Calle 65 #78-39,3179771842,sincorreo,No,,
+TI,544668616,2357964641,Cliente776 Ramírez,Retiro,115043,Tarjeta de crédito,Pereira,2024-02-28 08:41:32,2000-08-07,Avenida 56 #48-39,3875001714,correo@,Sí,387871,60 días
+TI,561928589,4564713195,Cliente777 Pérez,Compra,1216553,Tarjeta de crédito,Bucaramanga,2024-02-28 08:18:40,1800-01-01,Avenida 49 #61-6,3102314000,usuario@dominio,Sí,671555,30 días
+PAS,748030799,2305197237,Cliente778 Gómez,Compra,3648227,Cuenta corriente,Bogotá,1709139752,1988-10-02,Calle 14 #96-37,3256503897,@dominio.com,No,,
+TI,945730296,9903938403,Cliente779 Gómez,Pago,4568641,Préstamo personal,Bucaramanga,1709084981,1994-08-06,Diagonal 118 #90-21,3526939822,cliente779.384@gmail.com,No,,
+PAS,192003568,7448568249,Cliente780 Gómez,Transferencia,1848760,Cuenta de ahorros,Pereira,1709162583,2000-03-04,Avenida 131 #56-5,3511147883,sincorreo,No,,
+TI,921163737,4219701009,Cliente781 Gómez,Retiro,3440764,Inversión,Pereira,2024-02-28 08:23:51,1800-01-01,Calle 17 #89-43,3807544146,correo@,No,,
+TI,498809933,7251653777,Cliente782 Pérez,Compra,4049119,Préstamo personal,Bucaramanga,1709152926,1982-02-21,Calle 134 #94-33,3850875047,usuario@dominio,Sí,917785,90 días
+PAS,376386903,6603576218,Cliente783 Ramírez,Compra,3563442,Préstamo personal,Barranquilla,1709156789,1966-08-26,Calle 144 #43-15,3904729395,@dominio.com,Sí,121808,120 días
+PAS,644697776,7983034919,Cliente784 Torres,Retiro,743243,Préstamo personal,Cali,2024-02-28 11:15:29,1984-02-28,Diagonal 5 #47-33,3781395639,usuario@dominio,No,,
+PAS,465504219,9237753673,Cliente785 Ramírez,Depósito,439667,Inversión,Bucaramanga,2024-02-28 11:31:30,1988-03-27,Carrera 91 #53-18,3907178923,cliente785.670@mail.com,No,,
+PAS,430931829,7879192277,Cliente786 Pérez,Pago,1750034,Cuenta de ahorros,Bogotá,2024-02-28 13:06:24,1958-07-15,Avenida 63 #19-31,3228159138,correo@.,No,,
+CE,930876709,1991915149,Cliente787 Pérez,Transferencia,4590701,Inversión,Bucaramanga,2024-02-28 18:43:17,1959-11-21,Carrera 114 #78-50,3358920706,sincorreo,Sí,313127,30 días
+TI,547743951,9519056886,Cliente788 Torres,Compra,3968924,Cuenta de ahorros,Cali,1709153884,1977-03-06,Avenida 126 #73-46,3858817189,cliente788.998@yahoo.com,No,,
+CE,524798038,8517102182,Cliente789 Méndez,Compra,2544397,Cuenta corriente,Cali,2024-02-28 22:52:50,1994-12-23,Calle 132 #24-19,3572071724,cliente789.3@mail.com,Sí,594591,60 días
+CE,403026800,1098076409,Cliente790 Ramírez,Retiro,2740997,Tarjeta de crédito,Bucaramanga,2024-02-28 13:30:43,1960-11-05,Diagonal 146 #23-12,3832121600,sincorreo,Sí,273973,60 días
+CE,450819267,3094420137,Cliente791 Méndez,Pago,2368007,Cuenta corriente,Medellín,2024-02-28 16:05:13,2004-09-17,Carrera 150 #57-42,3479131705,usuario@dominio,Sí,257663,30 días
+CC,229519399,8553534822,Cliente792 Torres,Transferencia,503570,Préstamo personal,Barranquilla,2024-02-28 14:25:23,1800-01-01,Carrera 71 #38-21,3369806655,cliente792.143@mail.com,Sí,305530,30 días
+PAS,506851543,3524374864,Cliente793 Gómez,Compra,1620947,Inversión,Bucaramanga,2024-02-28 01:43:05,1994-01-23,Diagonal 117 #48-40,3412259153,correo@,Sí,415235,90 días
+PAS,346655546,7352748407,Cliente794 Méndez,Compra,2525327,Préstamo personal,Bucaramanga,1709081234,2005-02-28,Calle 73 #10-22,3625596575,correo@.,Sí,429796,120 días
+TI,320529491,3266521560,Cliente795 Ramírez,Depósito,375644,Préstamo personal,Bucaramanga,1709094676,1986-04-01,Calle 99 #45-42,3964032981,usuario@dominio,No,,
+CC,796525841,1292358948,Cliente796 Pérez,Pago,1606932,Préstamo personal,Pereira,1709133095,1972-07-01,Calle 60 #84-48,3851081349,cliente796.478@mail.com,No,,
+TI,224167513,1634577076,Cliente797 Pérez,Retiro,4642270,Tarjeta de crédito,Bucaramanga,2024-02-28 22:39:52,1950-12-22,Calle 57 #71-31,3531757825,correo@.,No,,
+CC,802618822,1830528927,Cliente798 Ramírez,Pago,353079,Cuenta de ahorros,Bogotá,1709127015,1985-03-17,Avenida 13 #96-42,3102336506,cliente798.15@gmail.com,No,,
+CC,832245609,7766189374,Cliente799 Pérez,Compra,4539507,Cuenta corriente,Pereira,2024-02-28 17:26:14,1958-01-15,Avenida 75 #44-2,3552010276,cliente799.492@yahoo.com,No,,
+PAS,392057331,7238652383,Cliente800 Torres,Pago,1731326,Tarjeta de crédito,Medellín,1709111451,1955-11-15,Carrera 142 #21-37,3929282266,usuario@dominio,Sí,651491,90 días
+CE,530514219,7369025315,Cliente801 Méndez,Transferencia,2329122,Cuenta de ahorros,Barranquilla,2024-02-28 16:47:30,1800-01-01,Diagonal 42 #38-8,3914107434,cliente801.88@gmail.com,No,,
+CE,414223822,7324374637,Cliente802 Méndez,Depósito,1626669,Cuenta corriente,Bogotá,2024-02-28 14:10:45,1962-03-18,Calle 58 #88-36,3700961929,cliente802.567@mail.com,Sí,184849,90 días
+PAS,195128859,8203767888,Cliente803 Torres,Depósito,1307138,Cuenta corriente,Medellín,1709157692,1956-03-19,Diagonal 37 #75-7,3315614642,cliente803.294@yahoo.com,Sí,948694,120 días
+TI,919518534,7423952144,Cliente804 Torres,Depósito,2396880,Inversión,Pereira,1709093405,1950-12-22,Carrera 29 #99-4,3588494870,correo@.,No,,
+PAS,606564603,2649044564,Cliente805 Torres,Depósito,3417041,Cuenta de ahorros,Cali,2024-02-28 00:55:05,2003-11-25,Calle 118 #32-22,3104799933,correo@.,No,,
+PAS,616945052,2301607019,Cliente806 Pérez,Depósito,3306762,Cuenta corriente,Cartagena,2024-02-28 18:05:17,1978-09-24,Calle 112 #88-29,3361976266,cliente806.693@gmail.com,No,,
+TI,492417760,3152292679,Cliente807 Méndez,Compra,1992900,Cuenta de ahorros,Barranquilla,1709133118,1992-03-28,Diagonal 125 #56-11,3841234008,cliente807.383@yahoo.com,Sí,960931,60 días
+PAS,312293548,4613118143,Cliente808 Ramírez,Depósito,1535658,Tarjeta de crédito,Medellín,2024-02-28 15:29:01,1993-01-09,Avenida 49 #7-35,3969546540,cliente808.526@gmail.com,No,,
+CE,681547415,8555124433,Cliente809 Gómez,Pago,3524280,Cuenta de ahorros,Cali,1709139509,1951-05-25,Carrera 99 #46-44,3959168569,correo@.,Sí,881212,90 días
+TI,357770110,2947426440,Cliente810 Torres,Retiro,3500685,Cuenta corriente,Barranquilla,1709161917,1800-01-01,Diagonal 101 #27-24,3189367139,cliente810.520@outlook.com,Sí,632999,90 días
+CC,342132404,3740741701,Cliente811 Gómez,Pago,3813083,Tarjeta de crédito,Bucaramanga,1709083538,1990-01-26,Carrera 113 #97-35,3898202961,usuario@dominio,No,,
+TI,539294608,1613083297,Cliente812 Gómez,Transferencia,902716,Tarjeta de crédito,Pereira,2024-02-28 06:39:30,1800-01-01,Diagonal 13 #2-36,3592962251,correo@.,Sí,970941,90 días
+PAS,843105426,2285264437,Cliente813 Torres,Pago,1180247,Tarjeta de crédito,Bucaramanga,2024-02-28 03:19:38,1968-02-03,Avenida 22 #39-9,3533401959,cliente813.612@mail.com,No,,
+PAS,676040932,3322630976,Cliente814 Torres,Compra,657431,Inversión,Bogotá,1709124404,1981-09-07,Diagonal 53 #49-28,3948117884,cliente814.274@mail.com,Sí,926533,30 días
+CC,777865432,2783265634,Cliente815 Torres,Compra,4466590,Tarjeta de crédito,Medellín,2024-02-28 07:22:15,1972-04-13,Carrera 83 #31-22,3888906176,sincorreo,Sí,722211,90 días
+CE,965734597,8807593356,Cliente816 Gómez,Depósito,1612838,Cuenta de ahorros,Bogotá,1709153030,1978-12-23,Diagonal 19 #30-36,3538165663,cliente816.715@gmail.com,Sí,160003,60 días
+TI,227528273,3105387680,Cliente817 Méndez,Depósito,1343115,Préstamo personal,Cali,1709135137,1800-01-01,Avenida 71 #95-4,3150058012,cliente817.889@yahoo.com,No,,
+CE,792389458,9144967616,Cliente818 Pérez,Retiro,869336,Tarjeta de crédito,Bogotá,1709137167,1966-07-22,Calle 129 #29-11,3360546183,@dominio.com,Sí,746677,120 días
+CC,765697188,8157468958,Cliente819 Méndez,Compra,1887919,Cuenta de ahorros,Bogotá,1709143037,1950-07-21,Avenida 60 #32-50,3476299302,cliente819.789@gmail.com,Sí,74468,120 días
+CE,678205735,7868115956,Cliente820 Pérez,Compra,2998344,Tarjeta de crédito,Barranquilla,1709135895,1973-02-04,Calle 73 #24-24,3214520687,cliente820.726@gmail.com,Sí,48554,30 días
+TI,280743582,6326210412,Cliente821 Méndez,Retiro,540927,Inversión,Barranquilla,1709126604,1962-11-25,Avenida 88 #10-3,3549504376,cliente821.550@gmail.com,Sí,80214,120 días
+PAS,587493979,6881837963,Cliente822 Ramírez,Transferencia,3428114,Inversión,Bogotá,2024-02-28 01:30:27,1968-11-24,Diagonal 12 #9-14,3653306098,cliente822.381@outlook.com,No,,
+CE,940408221,8428606608,Cliente823 Pérez,Pago,4874690,Inversión,Cali,1709129233,1998-11-24,Avenida 29 #90-21,3709716793,cliente823.278@gmail.com,Sí,401942,60 días
+CC,311472632,1158447535,Cliente824 Torres,Retiro,351617,Préstamo personal,Bucaramanga,1709133822,1800-01-01,Avenida 2 #10-41,3584247560,correo@,No,,
+CE,899484246,4564446082,Cliente825 Pérez,Retiro,96709,Inversión,Bucaramanga,2024-02-28 21:58:52,1956-04-23,Calle 15 #40-33,3515641817,sincorreo,No,,
+PAS,401656948,5753564782,Cliente826 Torres,Retiro,2535183,Préstamo personal,Cartagena,1709146001,1977-12-02,Carrera 99 #14-6,3681615585,cliente826.736@outlook.com,Sí,22401,90 días
+TI,936914487,2494161826,Cliente827 Méndez,Transferencia,1202300,Inversión,Cartagena,1709126087,1960-02-28,Carrera 143 #55-28,3720119540,cliente827.353@yahoo.com,No,,
+TI,664907150,6436153423,Cliente828 Torres,Pago,2166205,Tarjeta de crédito,Bucaramanga,1709126419,1951-10-04,Carrera 65 #41-33,3180986725,cliente828.975@mail.com,No,,
+CE,891570164,9121222254,Cliente829 Torres,Depósito,992016,Préstamo personal,Pereira,2024-02-28 18:45:17,1976-10-03,Calle 88 #39-28,3908457416,sincorreo,No,,
+CE,873557848,6872810326,Cliente830 Pérez,Transferencia,4987491,Cuenta de ahorros,Bucaramanga,1709082146,1979-01-01,Diagonal 122 #89-29,3736866076,cliente830.279@mail.com,Sí,299751,120 días
+CC,591163613,3836860229,Cliente831 Ramírez,Compra,4333298,Cuenta de ahorros,Cali,2024-02-28 09:16:32,1997-02-19,Calle 62 #66-34,3819230201,cliente831.991@mail.com,Sí,309765,90 días
+TI,888228466,3608004652,Cliente832 Ramírez,Pago,4520492,Cuenta de ahorros,Bucaramanga,1709091676,1956-08-12,Calle 5 #76-7,3514960945,correo@.,No,,
+CC,175658064,6870872154,Cliente833 Gómez,Compra,3510480,Tarjeta de crédito,Bucaramanga,1709114597,1954-07-09,Carrera 28 #2-42,3881761770,cliente833.239@mail.com,Sí,69946,60 días
+CC,993115575,8826016137,Cliente834 Méndez,Pago,963815,Préstamo personal,Cali,2024-02-28 16:15:26,1800-01-01,Carrera 3 #54-39,3511283232,cliente834.737@outlook.com,No,,
+CE,568803450,4640568049,Cliente835 Gómez,Compra,593479,Tarjeta de crédito,Barranquilla,2024-02-28 21:33:36,1800-01-01,Diagonal 7 #74-18,3359922372,cliente835.823@yahoo.com,No,,
+CC,167346849,3300909076,Cliente836 Pérez,Retiro,3261483,Tarjeta de crédito,Medellín,1709098881,1976-06-13,Diagonal 115 #16-14,3986202538,@dominio.com,No,,
+PAS,587244929,9030525202,Cliente837 Ramírez,Compra,4688298,Inversión,Bucaramanga,1709121026,1979-03-01,Carrera 111 #12-41,3547090428,sincorreo,Sí,250172,90 días
+PAS,472259209,8525544936,Cliente838 Méndez,Compra,415438,Cuenta corriente,Cali,1709141863,1970-10-19,Carrera 135 #12-22,3349447256,cliente838.795@gmail.com,Sí,497899,120 días
+CE,866035798,9606787120,Cliente839 Torres,Retiro,601097,Inversión,Cali,1709144109,2004-09-25,Calle 94 #88-11,3451217785,usuario@dominio,No,,
+PAS,978817777,2632741384,Cliente840 Torres,Compra,358620,Tarjeta de crédito,Barranquilla,2024-02-28 16:00:06,1951-03-09,Calle 40 #76-13,3446774690,cliente840.395@outlook.com,Sí,688430,120 días
+TI,252147638,3223884217,Cliente841 Pérez,Retiro,2239855,Tarjeta de crédito,Pereira,1709109439,1960-08-08,Diagonal 63 #31-47,3757998146,cliente841.698@outlook.com,Sí,549794,90 días
+PAS,398114678,8034359376,Cliente842 Pérez,Retiro,1591965,Cuenta corriente,Medellín,2024-02-28 08:12:50,1978-09-22,Carrera 46 #10-37,3327810305,correo@,No,,
+CC,346019585,5540198999,Cliente843 Ramírez,Retiro,4841834,Cuenta corriente,Cali,1709135233,1992-11-11,Avenida 76 #8-11,3616347745,correo@.,No,,
+CE,461492574,7001464750,Cliente844 Torres,Retiro,4577336,Cuenta corriente,Cartagena,2024-02-28 14:06:25,1800-01-01,Diagonal 6 #59-13,3232800359,cliente844.697@yahoo.com,No,,
+TI,566372562,3969126364,Cliente845 Torres,Retiro,2863422,Inversión,Bucaramanga,2024-02-28 23:25:25,1977-08-08,Avenida 36 #53-40,3707865112,correo@,No,,
+CE,763913221,1157417902,Cliente846 Ramírez,Transferencia,4625873,Tarjeta de crédito,Cartagena,2024-02-28 02:31:47,1977-10-01,Calle 19 #27-13,3453013910,cliente846.525@outlook.com,No,,
+PAS,707793908,6218886650,Cliente847 Méndez,Transferencia,4183305,Tarjeta de crédito,Cali,1709136754,2005-08-15,Carrera 49 #27-33,3264937034,correo@,No,,
+PAS,573233126,1692604938,Cliente848 Pérez,Compra,1924758,Inversión,Medellín,1709147861,1800-01-01,Avenida 138 #46-41,3144875652,correo@.,No,,
+CE,243647971,5065828913,Cliente849 Ramírez,Depósito,3360501,Inversión,Medellín,2024-02-28 10:52:42,1979-10-21,Carrera 67 #88-39,3865517679,@dominio.com,No,,
+CC,882345898,1087125482,Cliente850 Ramírez,Depósito,4197918,Cuenta corriente,Cali,1709136990,1957-01-02,Carrera 45 #99-39,3182479300,@dominio.com,Sí,843708,30 días
+PAS,221125236,9208214486,Cliente851 Torres,Retiro,4998287,Inversión,Pereira,1709141544,1952-01-24,Diagonal 52 #85-35,3314672465,correo@.,No,,
+CC,239025044,3946242893,Cliente852 Gómez,Depósito,4537097,Tarjeta de crédito,Cali,1709161874,2000-03-20,Carrera 111 #50-48,3523170986,@dominio.com,Sí,512910,120 días
+TI,119602085,6540073772,Cliente853 Pérez,Compra,3265807,Cuenta corriente,Medellín,1709163540,1994-09-28,Calle 143 #21-12,3449852038,cliente853.269@yahoo.com,Sí,784123,30 días
+CE,947041298,6100108787,Cliente854 Gómez,Retiro,4823604,Cuenta corriente,Cartagena,1709082189,1983-11-11,Carrera 115 #16-26,3752894382,cliente854.842@outlook.com,Sí,566305,30 días
+PAS,920797995,1178182489,Cliente855 Pérez,Retiro,4252553,Cuenta de ahorros,Pereira,1709118859,1982-03-08,Carrera 104 #17-12,3665885189,cliente855.418@mail.com,Sí,782175,120 días
+CE,771839642,7937930535,Cliente856 Ramírez,Retiro,4859622,Cuenta corriente,Bogotá,2024-02-28 17:49:52,1991-09-02,Avenida 57 #54-2,3430595737,usuario@dominio,No,,
+CC,191876009,1073991638,Cliente857 Méndez,Depósito,4575189,Cuenta corriente,Bogotá,1709089615,1989-08-12,Calle 143 #50-9,3316472230,cliente857.910@mail.com,Sí,248254,60 días
+CC,689401639,8792669949,Cliente858 Méndez,Transferencia,2043292,Tarjeta de crédito,Cartagena,2024-02-28 12:25:26,1957-12-28,Diagonal 68 #29-27,3610378729,cliente858.223@yahoo.com,No,,
+CE,101040880,8115205653,Cliente859 Torres,Retiro,1720442,Préstamo personal,Barranquilla,2024-02-28 21:00:44,1970-02-03,Carrera 66 #30-28,3303789648,cliente859.74@outlook.com,Sí,919397,120 días
+TI,628689633,6255885240,Cliente860 Pérez,Pago,3544306,Préstamo personal,Barranquilla,1709142649,1956-08-25,Calle 85 #87-37,3800465817,correo@.,No,,
+CE,882022138,3901779569,Cliente861 Gómez,Compra,3809765,Préstamo personal,Bogotá,1709090814,1951-02-19,Carrera 108 #40-32,3556304420,cliente861.800@mail.com,No,,
+CE,159586587,5946029635,Cliente862 Ramírez,Pago,3943449,Inversión,Bogotá,1709114240,1953-11-09,Calle 84 #73-2,3196811546,cliente862.925@outlook.com,No,,
+PAS,540448323,5240506866,Cliente863 Torres,Depósito,859139,Cuenta de ahorros,Bucaramanga,2024-02-28 20:57:14,1993-03-23,Carrera 118 #13-17,3961066073,@dominio.com,Sí,502782,60 días
+PAS,820934377,9729729901,Cliente864 Méndez,Depósito,3619643,Cuenta corriente,Bogotá,1709084649,1975-06-12,Avenida 58 #46-20,3659252921,cliente864.554@yahoo.com,No,,
+CE,815762409,4588471798,Cliente865 Ramírez,Depósito,3740861,Cuenta de ahorros,Cartagena,2024-02-28 04:02:04,2003-01-13,Avenida 76 #56-34,3393361524,correo@,Sí,382462,90 días
+CE,676637373,5305498374,Cliente866 Gómez,Depósito,3813212,Cuenta corriente,Bucaramanga,1709138476,1991-07-01,Carrera 144 #24-42,3812912627,cliente866.946@mail.com,Sí,163365,60 días
+PAS,428714983,1776075682,Cliente867 Torres,Pago,4429948,Cuenta de ahorros,Barranquilla,1709147867,1963-07-26,Calle 117 #95-9,3850621812,cliente867.234@yahoo.com,No,,
+PAS,619968009,5627126455,Cliente868 Gómez,Retiro,1927584,Tarjeta de crédito,Bogotá,2024-02-28 07:48:49,1982-02-21,Avenida 74 #55-32,3129751381,cliente868.31@yahoo.com,No,,
+CE,328630524,3020680639,Cliente869 Pérez,Compra,209325,Cuenta corriente,Bucaramanga,2024-02-28 23:25:08,1964-10-25,Carrera 23 #65-10,3136431884,cliente869.555@outlook.com,No,,
+CC,102134470,1255296233,Cliente870 Gómez,Retiro,938591,Tarjeta de crédito,Bucaramanga,2024-02-28 00:41:37,1977-11-18,Carrera 28 #51-6,3687206978,cliente870.387@mail.com,Sí,877895,90 días
+CC,561363116,8490207527,Cliente871 Ramírez,Retiro,3409439,Cuenta corriente,Cali,2024-02-28 10:03:55,1955-01-15,Diagonal 117 #58-36,3598604740,cliente871.240@outlook.com,Sí,151014,30 días
+CE,431467056,6908517615,Cliente872 Pérez,Transferencia,3364075,Tarjeta de crédito,Cartagena,1709129482,1999-07-14,Avenida 1 #44-23,3717992794,cliente872.360@gmail.com,Sí,151034,120 días
+CC,978243538,6689654413,Cliente873 Torres,Pago,425867,Cuenta corriente,Cartagena,2024-02-28 01:18:08,2002-10-09,Carrera 83 #22-41,3432887411,cliente873.896@gmail.com,Sí,880471,30 días
+PAS,462153807,6216740455,Cliente874 Méndez,Retiro,4078305,Tarjeta de crédito,Medellín,2024-02-28 12:13:56,1957-10-12,Avenida 14 #76-42,3683060251,correo@,No,,
+PAS,610669736,5783847330,Cliente875 Méndez,Transferencia,2234864,Tarjeta de crédito,Cali,2024-02-28 15:42:19,1958-11-22,Avenida 85 #8-12,3240673413,sincorreo,Sí,143433,60 días
+CC,392968167,4938732292,Cliente876 Pérez,Depósito,1254664,Tarjeta de crédito,Cali,1709131150,1965-06-27,Diagonal 84 #34-41,3997055813,@dominio.com,Sí,528663,90 días
+CC,797690357,7090101940,Cliente877 Méndez,Transferencia,4297486,Cuenta de ahorros,Cali,1709080464,1960-01-18,Avenida 17 #44-19,3647353391,@dominio.com,Sí,939617,120 días
+CE,539854722,4478448482,Cliente878 Gómez,Compra,2906888,Cuenta corriente,Cali,2024-02-28 03:14:40,1977-01-05,Diagonal 5 #53-50,3817711423,sincorreo,No,,
+CE,823410637,8389821605,Cliente879 Pérez,Transferencia,800658,Tarjeta de crédito,Cartagena,2024-02-28 20:36:21,1983-09-01,Avenida 102 #64-11,3579833533,usuario@dominio,Sí,687175,30 días
+PAS,701428063,4158922597,Cliente880 Méndez,Depósito,1883205,Cuenta corriente,Bogotá,2024-02-28 05:58:10,2000-04-18,Diagonal 92 #90-1,3981165529,correo@,No,,
+PAS,555707854,2988246789,Cliente881 Torres,Retiro,183252,Cuenta corriente,Bogotá,1709157027,1997-10-20,Diagonal 36 #7-4,3145365792,@dominio.com,Sí,740656,30 días
+CC,307107697,2364123653,Cliente882 Pérez,Retiro,2594692,Tarjeta de crédito,Bogotá,2024-02-28 12:05:16,1964-12-22,Avenida 4 #95-46,3877902871,cliente882.541@outlook.com,No,,
+CC,136931168,1263766226,Cliente883 Ramírez,Retiro,4927795,Cuenta corriente,Bucaramanga,1709090233,1985-03-21,Avenida 148 #96-23,3311490150,correo@.,No,,
+PAS,640604648,7050461936,Cliente884 Ramírez,Pago,1106410,Cuenta de ahorros,Pereira,1709144351,1956-07-01,Avenida 6 #17-5,3284643427,sincorreo,Sí,591496,60 días
+TI,490231183,4948655876,Cliente885 Gómez,Transferencia,4459903,Inversión,Bogotá,1709161768,1975-03-13,Diagonal 111 #21-33,3666108559,cliente885.8@mail.com,Sí,623421,120 días
+TI,480932201,4799416773,Cliente886 Ramírez,Retiro,2728151,Tarjeta de crédito,Cali,1709116150,1987-06-21,Carrera 55 #90-42,3528601016,cliente886.234@outlook.com,No,,
+TI,472973553,9911534283,Cliente887 Pérez,Transferencia,3274396,Préstamo personal,Pereira,2024-02-28 20:59:52,1974-12-07,Diagonal 71 #10-9,3805571779,cliente887.462@outlook.com,Sí,974208,30 días
+TI,601106036,4544509837,Cliente888 Ramírez,Pago,2685035,Cuenta de ahorros,Bogotá,1709150925,1956-05-03,Diagonal 8 #7-15,3801274917,@dominio.com,No,,
+TI,365515661,3601885553,Cliente889 Gómez,Compra,1459245,Cuenta corriente,Cartagena,1709151243,1989-08-06,Avenida 123 #42-14,3846464271,cliente889.10@gmail.com,Sí,296174,30 días
+TI,195397058,5219605464,Cliente890 Torres,Depósito,4317065,Préstamo personal,Pereira,1709101760,2003-05-06,Avenida 130 #68-7,3454620182,cliente890.371@gmail.com,No,,
+CC,329291763,6993982918,Cliente891 Gómez,Transferencia,2163455,Cuenta corriente,Bucaramanga,1709117798,2005-05-08,Calle 28 #8-41,3452385641,usuario@dominio,No,,
+CC,224735890,9116856163,Cliente892 Gómez,Pago,4502276,Cuenta corriente,Bucaramanga,1709143745,1972-02-21,Diagonal 102 #24-17,3983119517,correo@,Sí,348145,60 días
+TI,831955566,5084030340,Cliente893 Ramírez,Retiro,3394985,Cuenta corriente,Barranquilla,1709110756,1998-08-26,Avenida 143 #58-30,3961345799,cliente893.375@mail.com,No,,
+CE,444421097,4796781768,Cliente894 Torres,Compra,3091741,Cuenta corriente,Pereira,1709106317,1964-09-23,Diagonal 72 #20-42,3135505142,cliente894.522@mail.com,No,,
+PAS,289971749,4164568984,Cliente895 Torres,Retiro,1359629,Préstamo personal,Bogotá,2024-02-28 06:17:55,1995-01-25,Diagonal 74 #80-27,3206896448,cliente895.60@outlook.com,No,,
+CC,504591822,9809596057,Cliente896 Ramírez,Depósito,4703390,Cuenta corriente,Barranquilla,1709135073,1800-01-01,Calle 54 #21-14,3672060206,correo@.,Sí,248926,90 días
+TI,959822055,3968796804,Cliente897 Ramírez,Depósito,1459018,Tarjeta de crédito,Barranquilla,2024-02-28 06:58:54,1800-01-01,Carrera 82 #87-43,3801705517,@dominio.com,Sí,85351,90 días
+CC,522906900,1532688271,Cliente898 Ramírez,Retiro,4060723,Préstamo personal,Bogotá,2024-02-28 13:21:09,1968-04-12,Diagonal 21 #51-18,3108013689,cliente898.875@gmail.com,Sí,529203,60 días
+TI,587159075,8243425313,Cliente899 Méndez,Pago,2196311,Tarjeta de crédito,Cartagena,2024-02-28 13:23:31,1962-12-08,Calle 15 #98-4,3163803868,cliente899.407@outlook.com,No,,
+CC,103106187,1214974969,Cliente900 Pérez,Transferencia,3942617,Préstamo personal,Cartagena,2024-02-28 23:28:32,1800-01-01,Avenida 13 #50-35,3311029795,cliente900.752@gmail.com,No,,
+CE,180315869,8049213650,Cliente901 Méndez,Retiro,4051546,Inversión,Bucaramanga,1709145660,1999-09-08,Diagonal 19 #30-48,3240546519,correo@.,No,,
+TI,262700819,7398317546,Cliente902 Pérez,Transferencia,4002069,Cuenta de ahorros,Bucaramanga,2024-02-28 19:36:22,1975-05-09,Carrera 137 #18-12,3221999893,cliente902.525@mail.com,No,,
+PAS,893995661,9959670141,Cliente903 Méndez,Retiro,4699868,Cuenta de ahorros,Bucaramanga,1709131166,1977-02-26,Diagonal 150 #28-31,3636502854,correo@.,No,,
+CC,791732886,7282604925,Cliente904 Pérez,Retiro,4183153,Cuenta de ahorros,Cartagena,1709133991,1984-07-24,Diagonal 88 #33-41,3844114585,cliente904.893@mail.com,No,,
+TI,930308014,9021295917,Cliente905 Méndez,Retiro,3290177,Cuenta de ahorros,Bogotá,1709163605,2001-05-22,Carrera 63 #49-4,3266503040,cliente905.884@yahoo.com,No,,
+TI,251525103,6450054191,Cliente906 Torres,Depósito,2211195,Inversión,Bucaramanga,2024-02-28 10:42:59,1967-07-12,Calle 67 #37-48,3328434366,correo@,No,,
+TI,384282084,6273985755,Cliente907 Pérez,Compra,2764365,Préstamo personal,Barranquilla,2024-02-28 10:19:09,1800-01-01,Calle 69 #15-45,3400071648,@dominio.com,No,,
+TI,691646608,3925021263,Cliente908 Pérez,Retiro,1018115,Cuenta corriente,Bogotá,2024-02-28 23:16:02,1957-02-08,Carrera 17 #96-35,3797018627,cliente908.753@yahoo.com,Sí,737269,60 días
+PAS,642214417,7691530217,Cliente909 Pérez,Depósito,3427300,Préstamo personal,Bucaramanga,2024-02-28 02:12:06,1969-03-12,Carrera 19 #44-50,3454116676,correo@,No,,
+CC,749032344,5396358671,Cliente910 Torres,Depósito,2049147,Préstamo personal,Barranquilla,1709079330,1994-06-28,Calle 62 #12-3,3504805090,cliente910.953@yahoo.com,No,,
+PAS,155302923,6302462520,Cliente911 Gómez,Retiro,4996069,Préstamo personal,Cali,1709142068,1976-05-01,Carrera 32 #3-1,3687286797,cliente911.769@gmail.com,Sí,312294,120 días
+CC,565602912,9655272639,Cliente912 Pérez,Retiro,3260338,Préstamo personal,Medellín,2024-02-28 13:28:08,1961-10-11,Diagonal 115 #73-49,3444114840,cliente912.960@outlook.com,No,,
+CE,880782321,9587670587,Cliente913 Pérez,Depósito,2205115,Cuenta corriente,Cali,2024-02-28 05:32:44,1987-12-12,Carrera 73 #30-39,3679894246,cliente913.447@outlook.com,No,,
+TI,246108113,3274196837,Cliente914 Torres,Compra,1713745,Cuenta de ahorros,Cartagena,1709098878,2005-02-21,Avenida 45 #78-44,3784293089,cliente914.100@outlook.com,No,,
+CC,330432878,6595613023,Cliente915 Méndez,Pago,4442996,Cuenta corriente,Medellín,1709103526,1973-04-09,Calle 80 #2-24,3929386066,cliente915.541@yahoo.com,No,,
+CE,888062011,9167235946,Cliente916 Gómez,Depósito,3103894,Préstamo personal,Bucaramanga,1709090590,2000-08-14,Avenida 35 #96-47,3510126749,correo@,Sí,644953,30 días
+PAS,851151088,5026796343,Cliente917 Méndez,Transferencia,3277627,Tarjeta de crédito,Pereira,2024-02-28 19:55:45,2001-07-13,Calle 102 #13-42,3588372420,cliente917.493@yahoo.com,No,,
+CE,483146998,9663146572,Cliente918 Méndez,Retiro,1889882,Préstamo personal,Bucaramanga,2024-02-28 03:18:07,2001-10-07,Carrera 95 #4-44,3840806263,cliente918.764@gmail.com,No,,
+CC,618760733,9845543777,Cliente919 Pérez,Depósito,1949516,Tarjeta de crédito,Medellín,1709112593,1979-11-05,Carrera 88 #87-27,3217172723,usuario@dominio,No,,
+PAS,381549391,7883773378,Cliente920 Ramírez,Transferencia,1559154,Inversión,Cali,2024-02-28 10:54:49,2002-04-10,Avenida 45 #76-16,3667765147,cliente920.730@mail.com,Sí,387603,30 días
+PAS,883978660,2609572774,Cliente921 Torres,Compra,3731280,Cuenta corriente,Cartagena,1709131849,1957-12-19,Diagonal 36 #51-4,3250382299,usuario@dominio,Sí,341865,30 días
+PAS,504767616,2465604439,Cliente922 Ramírez,Compra,1151748,Cuenta corriente,Cali,1709078862,1800-01-01,Avenida 43 #46-49,3818840598,cliente922.552@gmail.com,No,,
+TI,547104885,1793832801,Cliente923 Méndez,Pago,2192563,Préstamo personal,Bucaramanga,1709100940,1976-01-27,Carrera 118 #74-36,3272944276,correo@.,No,,
+CE,811946028,7457406313,Cliente924 Torres,Compra,2668771,Inversión,Bucaramanga,2024-02-28 18:44:51,1959-09-08,Calle 97 #58-35,3778378796,@dominio.com,No,,
+PAS,986814052,2296060179,Cliente925 Ramírez,Depósito,3504094,Tarjeta de crédito,Bogotá,1709081139,1965-12-04,Calle 110 #81-3,3577015403,sincorreo,Sí,803232,120 días
+CE,756864527,9073852994,Cliente926 Pérez,Transferencia,3887249,Inversión,Cartagena,2024-02-28 10:18:05,1997-02-17,Avenida 36 #82-47,3308818649,cliente926.827@outlook.com,Sí,634279,90 días
+CE,475517313,1080274594,Cliente927 Ramírez,Retiro,2123913,Tarjeta de crédito,Cali,2024-02-28 21:40:44,1991-12-19,Avenida 38 #69-2,3115283466,usuario@dominio,No,,
+CE,234522695,5365235049,Cliente928 Torres,Retiro,2631280,Cuenta de ahorros,Bucaramanga,1709097384,1967-05-21,Calle 17 #22-17,3164046541,correo@.,Sí,312465,30 días
+CE,210723511,3779636569,Cliente929 Ramírez,Pago,3671735,Préstamo personal,Barranquilla,1709155163,1964-07-17,Avenida 37 #96-50,3609242054,@dominio.com,Sí,65026,60 días
+CE,837588491,3869542489,Cliente930 Méndez,Pago,2552101,Inversión,Pereira,2024-02-28 07:50:12,1960-12-07,Diagonal 130 #31-38,3688793885,cliente930.936@mail.com,Sí,307204,120 días
+CE,313661682,6177747378,Cliente931 Pérez,Compra,1237875,Cuenta de ahorros,Cartagena,2024-02-28 16:46:01,1800-01-01,Avenida 83 #62-36,3959428144,cliente931.341@mail.com,No,,
+TI,231705325,4464625412,Cliente932 Torres,Depósito,1803286,Tarjeta de crédito,Barranquilla,1709088450,1967-05-02,Diagonal 126 #91-18,3122503869,sincorreo,No,,
+TI,651900875,4152604711,Cliente933 Gómez,Transferencia,1201279,Cuenta de ahorros,Bucaramanga,1709156637,1993-01-05,Diagonal 70 #31-41,3597653104,cliente933.316@mail.com,No,,
+CC,290315205,1848729960,Cliente934 Torres,Compra,4444168,Cuenta corriente,Medellín,1709084391,1986-08-12,Calle 25 #60-9,3102816259,cliente934.447@yahoo.com,No,,
+CE,250225460,9488174233,Cliente935 Torres,Pago,3168843,Cuenta corriente,Bucaramanga,2024-02-28 15:49:42,1985-07-04,Avenida 62 #8-15,3130340842,correo@,No,,
+CE,680541500,6266199761,Cliente936 Pérez,Transferencia,1764272,Préstamo personal,Pereira,1709080444,1975-07-05,Diagonal 127 #31-12,3815465694,cliente936.28@mail.com,No,,
+TI,686076351,7007652509,Cliente937 Gómez,Retiro,4486666,Tarjeta de crédito,Medellín,2024-02-28 01:56:31,1971-07-05,Carrera 53 #45-1,3228493999,sincorreo,Sí,665335,60 días
+PAS,742970001,8667633768,Cliente938 Gómez,Transferencia,1168454,Préstamo personal,Bucaramanga,2024-02-28 07:00:58,1973-02-02,Diagonal 113 #41-3,3825280090,correo@,Sí,501,60 días
+CC,107736566,4757910854,Cliente939 Ramírez,Pago,1297064,Tarjeta de crédito,Medellín,1709161460,1971-06-28,Carrera 23 #8-4,3795749213,cliente939.356@gmail.com,No,,
+CE,740641766,8063614130,Cliente940 Méndez,Depósito,4295811,Inversión,Bucaramanga,1709154281,1989-04-08,Avenida 150 #47-7,3565900730,sincorreo,Sí,67615,60 días
+PAS,450504454,6979563842,Cliente941 Torres,Retiro,1151577,Inversión,Cartagena,1709130885,1971-03-10,Avenida 66 #32-21,3202136233,cliente941.424@yahoo.com,No,,
+CC,761254940,5623499405,Cliente942 Méndez,Compra,136542,Tarjeta de crédito,Barranquilla,2024-02-28 13:50:06,1992-01-19,Calle 89 #67-11,3360106027,cliente942.144@outlook.com,No,,
+PAS,884483811,7965641413,Cliente943 Ramírez,Retiro,3565074,Cuenta corriente,Cartagena,1709118786,2002-07-05,Diagonal 133 #24-7,3479693451,usuario@dominio,Sí,589791,90 días
+CE,118255262,9892083342,Cliente944 Gómez,Compra,804377,Cuenta corriente,Cali,2024-02-28 19:14:16,1994-10-25,Avenida 91 #95-35,3503776896,cliente944.192@gmail.com,No,,
+PAS,696873180,8035985345,Cliente945 Méndez,Transferencia,953396,Préstamo personal,Barranquilla,1709123998,1800-01-01,Avenida 17 #91-1,3808695062,cliente945.250@mail.com,No,,
+PAS,286803422,2817374363,Cliente946 Méndez,Pago,4137227,Inversión,Barranquilla,2024-02-28 17:46:34,1962-08-03,Diagonal 16 #26-6,3398059677,correo@.,Sí,360585,120 días
+CE,875217835,6017595240,Cliente947 Torres,Compra,3195424,Préstamo personal,Bucaramanga,2024-02-28 01:05:08,1972-10-27,Avenida 12 #21-3,3951973809,cliente947.970@yahoo.com,No,,
+PAS,421629675,7161154391,Cliente948 Ramírez,Retiro,4515162,Cuenta corriente,Medellín,1709136606,1998-09-02,Carrera 6 #83-34,3414081830,cliente948.582@outlook.com,No,,
+TI,272315825,6741416949,Cliente949 Torres,Compra,4595784,Tarjeta de crédito,Barranquilla,2024-02-28 16:21:48,1973-02-07,Carrera 74 #23-33,3368647682,cliente949.365@gmail.com,No,,
+TI,917499024,1600028119,Cliente950 Pérez,Depósito,2267920,Tarjeta de crédito,Cartagena,2024-02-28 22:01:49,1964-06-07,Carrera 62 #48-16,3882269997,correo@.,Sí,83909,60 días
+CE,196918617,6718729942,Cliente951 Pérez,Transferencia,867466,Préstamo personal,Cartagena,1709112210,1999-04-20,Calle 60 #13-41,3582728688,sincorreo,Sí,555381,90 días
+TI,137601229,7906850912,Cliente952 Méndez,Retiro,1801318,Inversión,Cartagena,1709109926,1991-04-17,Diagonal 29 #25-17,3808543666,cliente952.949@outlook.com,No,,
+CC,545424113,6586351860,Cliente953 Ramírez,Transferencia,1907177,Cuenta de ahorros,Medellín,2024-02-28 15:11:53,1800-01-01,Carrera 132 #25-45,3115043257,correo@.,Sí,504602,120 días
+CE,598361574,3427278640,Cliente954 Méndez,Compra,1960743,Tarjeta de crédito,Barranquilla,2024-02-28 15:34:38,1956-11-13,Avenida 108 #64-47,3506988610,correo@.,No,,
+TI,952655559,8655821105,Cliente955 Pérez,Retiro,4415588,Préstamo personal,Cali,2024-02-28 00:27:17,1975-02-28,Carrera 14 #8-46,3442106089,@dominio.com,Sí,344547,60 días
+PAS,278129125,6330070000,Cliente956 Ramírez,Depósito,4075792,Tarjeta de crédito,Bucaramanga,1709158365,2003-05-19,Calle 136 #77-37,3237025604,correo@.,Sí,719148,120 días
+PAS,689456357,7797860530,Cliente957 Torres,Compra,3581009,Préstamo personal,Cali,1709103720,1969-09-09,Diagonal 150 #56-23,3923293474,cliente957.289@gmail.com,No,,
+PAS,329239097,7171418558,Cliente958 Pérez,Retiro,4756033,Cuenta corriente,Barranquilla,1709162649,1977-10-20,Calle 17 #87-36,3957254189,cliente958.932@yahoo.com,Sí,995697,60 días
+CC,924020652,4797451399,Cliente959 Ramírez,Pago,3920903,Cuenta corriente,Bogotá,2024-02-28 02:17:18,2001-12-22,Calle 42 #4-47,3475555718,cliente959.228@yahoo.com,No,,
+PAS,347579692,5373253845,Cliente960 Méndez,Retiro,690706,Inversión,Cali,2024-02-28 23:38:30,2004-07-10,Carrera 29 #38-26,3308222659,cliente960.146@gmail.com,Sí,81945,90 días
+CC,273174283,4327778489,Cliente961 Ramírez,Pago,270572,Inversión,Pereira,2024-02-28 22:14:35,1976-10-16,Carrera 72 #85-47,3567906707,sincorreo,Sí,972761,30 días
+CE,159263347,5985520982,Cliente962 Pérez,Depósito,4558648,Inversión,Cali,1709083776,1959-10-04,Carrera 64 #17-39,3130077094,cliente962.350@outlook.com,Sí,999898,90 días
+TI,786253071,8206826303,Cliente963 Pérez,Depósito,3299895,Cuenta de ahorros,Bucaramanga,2024-02-28 21:28:02,1999-05-01,Avenida 20 #52-7,3936501823,correo@.,Sí,995098,120 días
+TI,155369410,1670905767,Cliente964 Ramírez,Pago,396540,Cuenta de ahorros,Cali,2024-02-28 11:05:03,1966-06-18,Carrera 113 #14-47,3658778029,usuario@dominio,No,,
+TI,566335306,7668963241,Cliente965 Ramírez,Retiro,4498128,Cuenta corriente,Barranquilla,1709138837,1982-01-11,Calle 7 #29-13,3269293203,cliente965.842@outlook.com,Sí,454776,30 días
+CC,155374815,9158527498,Cliente966 Ramírez,Retiro,4831618,Cuenta corriente,Barranquilla,1709094343,1990-11-10,Carrera 23 #76-4,3834134764,sincorreo,No,,
+PAS,693235346,7226754741,Cliente967 Ramírez,Retiro,4182369,Cuenta corriente,Cali,1709145552,1981-12-05,Diagonal 33 #32-24,3164416326,correo@.,No,,
+CC,170617841,8219692792,Cliente968 Gómez,Retiro,1846277,Tarjeta de crédito,Bucaramanga,2024-02-28 16:37:13,1961-05-13,Diagonal 125 #51-40,3155834421,sincorreo,Sí,892388,30 días
+TI,129798308,9799418799,Cliente969 Torres,Pago,3909034,Inversión,Cartagena,1709140562,1800-01-01,Calle 141 #5-16,3176718402,sincorreo,Sí,619267,30 días
+PAS,303069508,8126122306,Cliente970 Ramírez,Pago,22806,Cuenta corriente,Cali,2024-02-28 10:19:45,1966-02-14,Carrera 40 #32-30,3605129796,cliente970.284@mail.com,No,,
+PAS,884386351,4299103310,Cliente971 Ramírez,Depósito,2701686,Inversión,Pereira,2024-02-28 05:12:49,1950-03-08,Diagonal 73 #11-14,3727463673,@dominio.com,No,,
+CC,370482292,2279568735,Cliente972 Gómez,Transferencia,4655278,Cuenta de ahorros,Cali,1709085952,1970-09-03,Diagonal 3 #69-30,3975519982,cliente972.584@mail.com,No,,
+TI,171698386,1206863796,Cliente973 Gómez,Compra,4342063,Inversión,Pereira,1709158487,1996-02-13,Diagonal 61 #34-23,3797508876,cliente973.626@gmail.com,Sí,35372,120 días
+TI,332840101,6200261609,Cliente974 Pérez,Transferencia,2560828,Tarjeta de crédito,Bucaramanga,2024-02-28 21:57:19,1987-07-14,Calle 42 #100-21,3691613142,@dominio.com,Sí,787500,90 días
+CE,352448730,6669059175,Cliente975 Ramírez,Depósito,1517956,Cuenta corriente,Medellín,2024-02-28 19:41:51,1980-11-18,Diagonal 100 #13-2,3665270954,sincorreo,No,,
+CE,109425198,7764430778,Cliente976 Torres,Depósito,3820277,Préstamo personal,Cartagena,1709088339,2005-09-28,Carrera 47 #69-32,3805912539,correo@,Sí,634078,120 días
+TI,354928166,1943240310,Cliente977 Ramírez,Depósito,2635646,Inversión,Pereira,1709122792,1996-11-14,Diagonal 95 #11-30,3471131126,usuario@dominio,Sí,865637,120 días
+PAS,788433739,5876541093,Cliente978 Gómez,Retiro,3619670,Cuenta corriente,Bucaramanga,1709122627,1999-02-25,Avenida 53 #100-9,3532028676,cliente978.914@yahoo.com,No,,
+PAS,799293483,5384976734,Cliente979 Méndez,Pago,2540013,Cuenta de ahorros,Pereira,2024-02-28 22:31:36,1992-06-16,Carrera 128 #63-17,3225533743,cliente979.489@mail.com,No,,
+CE,482510569,4097395523,Cliente980 Pérez,Compra,3803260,Inversión,Pereira,2024-02-28 20:17:56,2002-10-13,Avenida 87 #69-16,3117417427,usuario@dominio,Sí,884130,60 días
+CE,161245861,8182023724,Cliente981 Méndez,Pago,2315480,Cuenta de ahorros,Cartagena,2024-02-28 10:23:41,1981-03-18,Diagonal 94 #10-40,3759216456,cliente981.634@mail.com,No,,
+CE,326631095,3181905980,Cliente982 Torres,Pago,2093519,Préstamo personal,Cali,2024-02-28 23:44:05,1974-06-08,Diagonal 1 #42-35,3502008990,sincorreo,Sí,364237,120 días
+PAS,729077102,4356533241,Cliente983 Ramírez,Retiro,1677222,Cuenta corriente,Bogotá,2024-02-28 08:35:09,1976-12-11,Avenida 23 #33-38,3387178867,cliente983.90@yahoo.com,Sí,529107,30 días
+TI,824289060,6768226775,Cliente984 Torres,Retiro,2656658,Préstamo personal,Bogotá,2024-02-28 15:27:53,2005-12-28,Carrera 63 #53-5,3772699425,correo@,No,,
+TI,757061142,8404894109,Cliente985 Gómez,Pago,3855922,Inversión,Pereira,1709148183,1963-03-08,Avenida 146 #91-48,3837842909,cliente985.916@yahoo.com,Sí,492337,30 días
+CE,968256051,5512022639,Cliente986 Torres,Transferencia,3110828,Tarjeta de crédito,Cali,1709112476,1993-06-04,Calle 101 #9-44,3167363536,sincorreo,No,,
+TI,871052887,9124151158,Cliente987 Gómez,Depósito,893437,Inversión,Barranquilla,2024-02-28 19:19:46,1969-06-22,Diagonal 125 #75-50,3234819268,usuario@dominio,Sí,604288,90 días
+TI,590429806,6561471289,Cliente988 Pérez,Transferencia,1091137,Préstamo personal,Cali,2024-02-28 11:02:10,1963-03-22,Calle 26 #87-35,3511557133,usuario@dominio,Sí,131655,120 días
+CE,402839026,3433952480,Cliente989 Torres,Transferencia,4969307,Inversión,Pereira,2024-02-28 09:33:14,1800-01-01,Diagonal 19 #88-33,3813785393,cliente989.625@gmail.com,Sí,84597,90 días
+CE,417849939,4576535928,Cliente990 Méndez,Compra,3251098,Cuenta de ahorros,Cartagena,1709133637,1950-02-06,Avenida 54 #79-28,3185861679,cliente990.965@gmail.com,Sí,148100,30 días
+PAS,321092721,3316430643,Cliente991 Torres,Retiro,1870979,Cuenta corriente,Medellín,2024-02-28 00:40:36,1800-01-01,Diagonal 18 #77-40,3540688672,correo@.,Sí,288000,120 días
+PAS,867567632,4916853381,Cliente992 Gómez,Depósito,511868,Tarjeta de crédito,Barranquilla,1709123212,1988-10-14,Diagonal 69 #9-5,3968100755,cliente992.586@yahoo.com,Sí,649662,90 días
+CC,133259191,6345414009,Cliente993 Pérez,Compra,3989869,Préstamo personal,Medellín,1709119875,1960-12-08,Avenida 26 #44-28,3851763747,cliente993.586@mail.com,No,,
+PAS,787594815,3093038468,Cliente994 Ramírez,Depósito,2757443,Préstamo personal,Bucaramanga,1709090599,1964-11-28,Carrera 74 #62-17,3260061728,cliente994.905@gmail.com,No,,
+CC,587253495,6399877200,Cliente995 Gómez,Depósito,3152070,Inversión,Cali,2024-02-28 14:10:57,1994-08-11,Diagonal 67 #2-1,3580536981,cliente995.17@mail.com,Sí,968117,120 días
+PAS,533920206,7636929722,Cliente996 Pérez,Transferencia,176856,Inversión,Medellín,2024-02-28 07:06:57,1976-12-20,Diagonal 29 #2-39,3385320284,cliente996.261@gmail.com,Sí,47944,30 días
+PAS,807553955,9430194985,Cliente997 Gómez,Compra,836377,Inversión,Bucaramanga,1709132226,1987-11-13,Carrera 78 #13-29,3799426246,sincorreo,No,,
+PAS,439148481,9315199398,Cliente998 Gómez,Retiro,2404288,Inversión,Bogotá,1709162410,1800-01-01,Calle 93 #33-22,3810716935,cliente998.670@yahoo.com,No,,
+PAS,433991426,4073234494,Cliente999 Méndez,Compra,2863999,Cuenta corriente,Pereira,1709124221,1800-01-01,Avenida 71 #64-39,3770518067,cliente999.56@yahoo.com,No,,
